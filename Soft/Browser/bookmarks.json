@@ -61,12 +61,76 @@
 	"dateAddedLocal": "08/06/2021, 14:44:32",
 	"dateAddedUTC": "2021-06-08T12:44:32.937Z"
 },{
+	"index": 6,
+	"title": "solutions - uBlockOrigin",
+	"url": "https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_youtube",
+	"id": 112,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 19:50:30",
+	"dateAddedUTC": "2021-06-08T17:50:30.848Z"
+},{
 	"index": 1,
 	"title": "Config",
 	"id": 34,
 	"parentId": "19",
 	"dateAddedLocal": "08/06/2021, 17:27:06",
 	"dateAddedUTC": "2021-06-08T15:27:06.106Z"
+},{
+	"index": 0,
+	"title": "uBlock Origin Suggested Settings – 12Bytes.org",
+	"url": "https://12bytes.org/articles/tech/firefox/ublock-origin-suggested-settings/",
+	"id": 108,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:49:07",
+	"dateAddedUTC": "2021-06-08T17:49:07.776Z"
+},{
+	"index": 1,
+	"title": "Firefox Configuration Guide for Privacy Freaks and Performance Buffs – 12Bytes.org",
+	"url": "https://12bytes.org/articles/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs/",
+	"id": 109,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:49:35",
+	"dateAddedUTC": "2021-06-08T17:49:35.050Z"
+},{
+	"index": 2,
+	"title": "12bytes.org/firefox-user.js-supplement: a user-overrides.js supplement intended to be appended to the 'arkenfox' (formerly 'ghacks') user.js for Firefox - user-overrides.js at master - firefox-user.js-supplement - Codeberg.org",
+	"url": "https://codeberg.org/12bytes.org/firefox-user.js-supplement/src/branch/master/user-overrides.js",
+	"id": 110,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:49:53",
+	"dateAddedUTC": "2021-06-08T17:49:53.237Z"
+},{
+	"index": 3,
+	"title": "Getting rid of the Google cookie consent popup | Daniel Lange's blog",
+	"url": "https://daniel-lange.com/archives/164-Getting-rid-of-the-Google-cookie-consent-popup.html",
+	"id": 111,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:50:13",
+	"dateAddedUTC": "2021-06-08T17:50:13.340Z"
+},{
+	"index": 4,
+	"title": "Remove the Google Cookie Consent Dialog with uBlock - NordicNode",
+	"url": "https://www.nordicnode.com/remove-the-google-cookie-consent-dialog-with-ublock/",
+	"id": 113,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:50:52",
+	"dateAddedUTC": "2021-06-08T17:50:52.656Z"
+},{
+	"index": 5,
+	"title": "Google Search cookie consent popup problem : uBlockOrigin",
+	"url": "https://www.reddit.com/r/uBlockOrigin/comments/ifv6ek/google_search_cookie_consent_popup_problem/",
+	"id": 114,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:51:09",
+	"dateAddedUTC": "2021-06-08T17:51:09.922Z"
+},{
+	"index": 2,
+	"title": "Mycroft Project: Search Engine Plugins - Firefox IE Chrome",
+	"url": "https://mycroftproject.com/install.html?id=14900&basename=googleintl&icontype=ico&name=Google+%28No+country+redirect%29",
+	"id": 115,
+	"parentId": "19",
+	"dateAddedLocal": "08/06/2021, 19:51:23",
+	"dateAddedUTC": "2021-06-08T17:51:23.702Z"
 },{
 	"index": 1,
 	"title": "ZSH",
@@ -83,6 +147,14 @@
 	"dateAddedUTC": "2021-06-07T15:11:44.763Z"
 },{
 	"index": 0,
+	"title": "Zsh-Native-Scripting-Handbook",
+	"url": "https://github.com/zdharma/Zsh-100-Commits-Club/blob/master/Zsh-Native-Scripting-Handbook.adoc",
+	"id": 5,
+	"parentId": "7",
+	"dateAddedLocal": "07/06/2021, 16:44:03",
+	"dateAddedUTC": "2021-06-07T14:44:03.573Z"
+},{
+	"index": 1,
 	"title": "Grep, sed, awk, sort... Non ! Zsh",
 	"url": "https://jonathanpoelen.github.io/2019/01/grep-sed-awk-sort...-non-zsh/",
 	"id": 6,
@@ -90,13 +162,13 @@
 	"dateAddedLocal": "07/06/2021, 16:44:14",
 	"dateAddedUTC": "2021-06-07T14:44:14.052Z"
 },{
-	"index": 1,
-	"title": "Zsh-100-Commits-Club/Zsh-Native-Scripting-Handbook.adoc at master · zdharma/Zsh-100-Commits-Club · GitHub",
-	"url": "https://github.com/zdharma/Zsh-100-Commits-Club/blob/master/Zsh-Native-Scripting-Handbook.adoc",
-	"id": 5,
+	"index": 2,
+	"title": "GitHub - rothgar/mastering-zsh: Advanced topics to take advantage of zsh 👩‍💻👨‍💻",
+	"url": "https://github.com/rothgar/mastering-zsh",
+	"id": 98,
 	"parentId": "7",
-	"dateAddedLocal": "07/06/2021, 16:44:03",
-	"dateAddedUTC": "2021-06-07T14:44:03.573Z"
+	"dateAddedLocal": "08/06/2021, 19:37:39",
+	"dateAddedUTC": "2021-06-08T17:37:39.951Z"
 },{
 	"index": 1,
 	"title": "dotfiles",
@@ -106,6 +178,14 @@
 	"dateAddedUTC": "2021-06-08T12:42:17.052Z"
 },{
 	"index": 0,
+	"title": "Prezto: The configuration framework for Zsh",
+	"url": "https://github.com/sorin-ionescu/prezto",
+	"id": 28,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 14:45:04",
+	"dateAddedUTC": "2021-06-08T12:45:04.587Z"
+},{
+	"index": 1,
 	"title": "GitHub - gicmo/dot-zsh: Z-Shell config",
 	"url": "https://github.com/gicmo/dot-zsh",
 	"id": 16,
@@ -113,15 +193,15 @@
 	"dateAddedLocal": "08/06/2021, 14:26:12",
 	"dateAddedUTC": "2021-06-08T12:26:12.969Z"
 },{
-	"index": 1,
-	"title": "zsh-config/completion.zsh at master · ThiefMaster/zsh-config · GitHub",
-	"url": "https://github.com/ThiefMaster/zsh-config/blob/master/zshrc.d/completion.zsh",
+	"index": 2,
+	"title": "ThiefMaster/zsh-config · GitHub",
+	"url": "https://github.com/ThiefMaster/zsh-config/",
 	"id": 14,
 	"parentId": "21",
 	"dateAddedLocal": "07/06/2021, 20:40:14",
 	"dateAddedUTC": "2021-06-07T18:40:14.565Z"
 },{
-	"index": 2,
+	"index": 3,
 	"title": ".config · dots · GammaFn / dotfiles.cli · GitLab",
 	"url": "https://gitlab.com/xPMo/dotfiles.cli/-/tree/dots/.config",
 	"id": 11,
@@ -129,7 +209,7 @@
 	"dateAddedLocal": "07/06/2021, 19:59:47",
 	"dateAddedUTC": "2021-06-07T17:59:47.463Z"
 },{
-	"index": 3,
+	"index": 4,
 	"title": "zshrc · dana/sensible · dana / zsh-sensible · GitLab",
 	"url": "https://gitlab.com/okdana/zsh-sensible/-/blob/dana/sensible/zshrc",
 	"id": 12,
@@ -137,21 +217,13 @@
 	"dateAddedLocal": "07/06/2021, 20:03:09",
 	"dateAddedUTC": "2021-06-07T18:03:09.933Z"
 },{
-	"index": 4,
+	"index": 5,
 	"title": "zshrc · master · GammaFn / zsh-sensible · GitLab",
 	"url": "https://gitlab.com/xPMo/zsh-sensible/-/blob/master/zshrc",
 	"id": 10,
 	"parentId": "21",
 	"dateAddedLocal": "07/06/2021, 19:54:14",
 	"dateAddedUTC": "2021-06-07T17:54:14.127Z"
-},{
-	"index": 5,
-	"title": "GitHub - sorin-ionescu/prezto: The configuration framework for Zsh",
-	"url": "https://github.com/sorin-ionescu/prezto",
-	"id": 28,
-	"parentId": "21",
-	"dateAddedLocal": "08/06/2021, 14:45:04",
-	"dateAddedUTC": "2021-06-08T12:45:04.587Z"
 },{
 	"index": 6,
 	"title": "Sensible Defaults for zsh / zsh-sensible · GitLab",
@@ -162,12 +234,116 @@
 	"dateAddedUTC": "2021-06-08T12:45:19.646Z"
 },{
 	"index": 7,
-	"title": "GitHub - ThiefMaster/zsh-config: My ZSH config",
-	"url": "https://github.com/ThiefMaster/zsh-config",
-	"id": 31,
+	"title": "List all of your aliases with one meta-alias (Example)",
+	"url": "https://coderwall.com/p/1vjiew/list-all-of-your-aliases-with-one-meta-alias",
+	"id": 55,
 	"parentId": "21",
-	"dateAddedLocal": "08/06/2021, 14:45:56",
-	"dateAddedUTC": "2021-06-08T12:45:56.045Z"
+	"dateAddedLocal": "08/06/2021, 18:41:19",
+	"dateAddedUTC": "2021-06-08T16:41:19.862Z"
+},{
+	"index": 8,
+	"title": "ohmyzsh/common-aliases.plugin.zsh at master · ohmyzsh/ohmyzsh · GitHub",
+	"url": "https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/common-aliases/common-aliases.plugin.zsh",
+	"id": 56,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 18:41:51",
+	"dateAddedUTC": "2021-06-08T16:41:51.938Z"
+},{
+	"index": 9,
+	"title": "dotfiles/set-defaults.sh at master · caarlos0/dotfiles · GitHub",
+	"url": "https://github.com/caarlos0/dotfiles/blob/master/macos/set-defaults.sh",
+	"id": 60,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 18:43:58",
+	"dateAddedUTC": "2021-06-08T16:43:58.430Z"
+},{
+	"index": 10,
+	"title": "GitHub - holman/dotfiles: @holman does dotfiles",
+	"url": "https://github.com/holman/dotfiles",
+	"id": 63,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 18:45:36",
+	"dateAddedUTC": "2021-06-08T16:45:36.250Z"
+},{
+	"index": 11,
+	"title": "5 Types Of ZSH Aliases You Should Know · Thorsten Hans",
+	"url": "https://www.thorsten-hans.com/5-types-of-zsh-aliases",
+	"id": 64,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 18:45:53",
+	"dateAddedUTC": "2021-06-08T16:45:53.292Z"
+},{
+	"index": 12,
+	"title": "The Ultimate Guide to Your Terminal Makeover 2021 | by Shinichi Okada | Towards Data Science",
+	"url": "https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99",
+	"id": 67,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 18:47:34",
+	"dateAddedUTC": "2021-06-08T16:47:34.219Z"
+},{
+	"index": 13,
+	"title": ".dotfiles/.zshrc at master · kuanyui/.dotfiles · GitHub",
+	"url": "https://github.com/kuanyui/.dotfiles/blob/master/.zshrc",
+	"id": 69,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 19:24:02",
+	"dateAddedUTC": "2021-06-08T17:24:02.632Z"
+},{
+	"index": 14,
+	"title": "my-zsh-config · GitHub",
+	"url": "https://gist.github.com/nivoc/2474615",
+	"id": 70,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 19:24:34",
+	"dateAddedUTC": "2021-06-08T17:24:34.656Z"
+},{
+	"index": 15,
+	"title": "Zdharma Initiative · GitHub- ZINIT",
+	"url": "https://github.com/zdharma",
+	"id": 78,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 19:29:33",
+	"dateAddedUTC": "2021-06-08T17:29:33.846Z"
+},{
+	"index": 16,
+	"title": "zsh-snap/.zshrc at main · marlonrichert/zsh-snap · GitHub",
+	"url": "https://github.com/marlonrichert/zsh-snap/blob/main/.zshrc",
+	"id": 80,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 19:30:30",
+	"dateAddedUTC": "2021-06-08T17:30:30.067Z"
+},{
+	"index": 17,
+	"title": "Revisions · example nice Zsh · GitHub",
+	"url": "https://gist.github.com/bb010g/379e0788e21fb119b5271fc22a896272/revisions",
+	"id": 89,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 19:34:04",
+	"dateAddedUTC": "2021-06-08T17:34:04.092Z"
+},{
+	"index": 18,
+	"title": "GitHub - mattmc3/zdotdir: My zsh config",
+	"url": "https://github.com/mattmc3/zdotdir",
+	"id": 97,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 19:37:13",
+	"dateAddedUTC": "2021-06-08T17:37:13.924Z"
+},{
+	"index": 19,
+	"title": "natemaia / dotfiles — Bitbucket",
+	"url": "https://bitbucket.org/natemaia/dotfiles/src/master/",
+	"id": 99,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 19:38:11",
+	"dateAddedUTC": "2021-06-08T17:38:11.406Z"
+},{
+	"index": 20,
+	"title": "GitHub - Voronenko/dotfiles: portable configuration files for unix environment",
+	"url": "https://github.com/Voronenko/dotfiles",
+	"id": 100,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 19:38:29",
+	"dateAddedUTC": "2021-06-08T17:38:29.680Z"
 },{
 	"index": 2,
 	"title": "completion",
@@ -185,12 +361,36 @@
 	"dateAddedUTC": "2021-06-07T16:29:45.955Z"
 },{
 	"index": 1,
-	"title": "GitHub - Aloxaf/fzf-tab: Replace zsh's default completion selection menu with fzf!",
+	"title": "Replace zsh's default completion selection menu with fzf!",
 	"url": "https://github.com/Aloxaf/fzf-tab",
 	"id": 8,
 	"parentId": "22",
 	"dateAddedLocal": "07/06/2021, 17:42:48",
 	"dateAddedUTC": "2021-06-07T15:42:48.781Z"
+},{
+	"index": 2,
+	"title": "some zsh modules · GitHub",
+	"url": "https://gist.github.com/X4/6346787",
+	"id": 94,
+	"parentId": "22",
+	"dateAddedLocal": "08/06/2021, 19:35:37",
+	"dateAddedUTC": "2021-06-08T17:35:37.446Z"
+},{
+	"index": 3,
+	"title": "completion/init.zsh at master · zimfw/completion · GitHub",
+	"url": "https://github.com/zimfw/completion/blob/master/init.zsh",
+	"id": 95,
+	"parentId": "22",
+	"dateAddedLocal": "08/06/2021, 19:36:21",
+	"dateAddedUTC": "2021-06-08T17:36:21.432Z"
+},{
+	"index": 4,
+	"title": "zebrafish/run-compinit at main · zshzoo/zebrafish · GitHub",
+	"url": "https://github.com/zshzoo/zebrafish/blob/main/functions/run-compinit",
+	"id": 96,
+	"parentId": "22",
+	"dateAddedLocal": "08/06/2021, 19:36:53",
+	"dateAddedUTC": "2021-06-08T17:36:53.428Z"
 },{
 	"index": 3,
 	"title": "refcard.pdf",
@@ -207,4 +407,771 @@
 	"parentId": "20",
 	"dateAddedLocal": "08/06/2021, 14:45:29",
 	"dateAddedUTC": "2021-06-08T12:45:29.421Z"
+},{
+	"index": 5,
+	"title": "Faster and enjoyable ZSH (maybe) • htr3n's",
+	"url": "https://htr3n.github.io/2018/07/faster-zsh/",
+	"id": 54,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 18:40:43",
+	"dateAddedUTC": "2021-06-08T16:40:43.326Z"
+},{
+	"index": 6,
+	"title": "Speeding Up My Shell (Oh My Zsh) · Matthew J. Clemente",
+	"url": "https://blog.mattclemente.com/2020/06/26/oh-my-zsh-slow-to-load.html",
+	"id": 61,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 18:44:23",
+	"dateAddedUTC": "2021-06-08T16:44:23.772Z"
+},{
+	"index": 7,
+	"title": "dotfiles/PHILOSOPHY.md at master · caarlos0/dotfiles · GitHub",
+	"url": "https://github.com/caarlos0/dotfiles/blob/master/docs/PHILOSOPHY.md",
+	"id": 62,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 18:45:18",
+	"dateAddedUTC": "2021-06-08T16:45:18.050Z"
+},{
+	"index": 8,
+	"title": "Text to ASCII Art Generator (TAAG)",
+	"url": "https://patorjk.com/software/taag/#p=display&c=bash&f=Standard&t=Aliases%0A%20",
+	"id": 68,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 18:48:03",
+	"dateAddedUTC": "2021-06-08T16:48:03.832Z"
+},{
+	"index": 9,
+	"title": "\"Shebang\" function for Zsh · GitHub",
+	"url": "https://gist.github.com/gwerbin/71a67eb13baef89c33b1",
+	"id": 74,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 19:28:04",
+	"dateAddedUTC": "2021-06-08T17:28:04.374Z"
+},{
+	"index": 10,
+	"title": "Plugins",
+	"id": 82,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 19:31:17",
+	"dateAddedUTC": "2021-06-08T17:31:17.052Z"
+},{
+	"index": 0,
+	"title": "GitHub - marlonrichert/zsh-autocomplete: 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.",
+	"url": "https://github.com/marlonrichert/zsh-autocomplete",
+	"id": 81,
+	"parentId": "82",
+	"dateAddedLocal": "08/06/2021, 19:31:00",
+	"dateAddedUTC": "2021-06-08T17:31:00.114Z"
+},{
+	"index": 1,
+	"title": "zplug2/zplug.txt at master · zplug/zplug2 · GitHub",
+	"url": "https://github.com/zplug/zplug2/blob/master/doc/zplug.txt",
+	"id": 92,
+	"parentId": "82",
+	"dateAddedLocal": "08/06/2021, 19:34:50",
+	"dateAddedUTC": "2021-06-08T17:34:50.914Z"
+},{
+	"index": 2,
+	"title": "Woefe's Blog - How to bootstrap your Zsh config with zplug",
+	"url": "https://blog.woefe.com/posts/bootstrap_zsh.html",
+	"id": 93,
+	"parentId": "82",
+	"dateAddedLocal": "08/06/2021, 19:35:09",
+	"dateAddedUTC": "2021-06-08T17:35:09.774Z"
+},{
+	"index": 11,
+	"title": "FISH",
+	"id": 87,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 19:33:21",
+	"dateAddedUTC": "2021-06-08T17:33:21.197Z"
+},{
+	"index": 0,
+	"title": "Why I migrated to the Fish Shell | Carlos Alexandro Becker",
+	"url": "https://carlosbecker.com/posts/fish/",
+	"id": 83,
+	"parentId": "87",
+	"dateAddedLocal": "08/06/2021, 19:31:32",
+	"dateAddedUTC": "2021-06-08T17:31:32.548Z"
+},{
+	"index": 1,
+	"title": "Set up the fish shell on Mac — step by step | by Tuan Nguyen | Tuan Nguyen | Medium",
+	"url": "https://medium.com/tuannguyendotme/set-up-the-fish-shell-on-mac-step-by-step-6a77bcb2687c",
+	"id": 84,
+	"parentId": "87",
+	"dateAddedLocal": "08/06/2021, 19:32:01",
+	"dateAddedUTC": "2021-06-08T17:32:01.546Z"
+},{
+	"index": 2,
+	"title": "Hacker Codex",
+	"url": "https://hackercodex.com/guide/install-fish-shell-mac-ubuntu/",
+	"id": 85,
+	"parentId": "87",
+	"dateAddedLocal": "08/06/2021, 19:32:17",
+	"dateAddedUTC": "2021-06-08T17:32:17.188Z"
+},{
+	"index": 3,
+	"title": "GitHub - PatrickF1/fzf.fish: Augment your fish command line with fzf key bindings.",
+	"url": "https://github.com/PatrickF1/fzf.fish",
+	"id": 86,
+	"parentId": "87",
+	"dateAddedLocal": "08/06/2021, 19:33:02",
+	"dateAddedUTC": "2021-06-08T17:33:02.606Z"
+},{
+	"index": 12,
+	"title": "Prompt",
+	"id": 91,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 19:34:33",
+	"dateAddedUTC": "2021-06-08T17:34:33.778Z"
+},{
+	"index": 0,
+	"title": "GitHub - woefe/git-prompt.zsh: A fast, customizable, pure-shell, asynchronous Git prompt for Zsh",
+	"url": "https://github.com/woefe/git-prompt.zsh",
+	"id": 90,
+	"parentId": "91",
+	"dateAddedLocal": "08/06/2021, 19:34:23",
+	"dateAddedUTC": "2021-06-08T17:34:23.678Z"
+},{
+	"index": 1,
+	"title": "Two-line ZSH prompt · GitHub",
+	"url": "https://gist.github.com/romkatv/2a107ef9314f0d5f76563725b42f7cab#file-two-line-prompt-zsh",
+	"id": 117,
+	"parentId": "91",
+	"dateAddedLocal": "08/06/2021, 19:52:26",
+	"dateAddedUTC": "2021-06-08T17:52:26.394Z"
+},{
+	"index": 2,
+	"title": "How to change icons in p10k · Issue #990 · romkatv/powerlevel10k · GitHub",
+	"url": "https://github.com/romkatv/powerlevel10k/issues/990",
+	"id": 118,
+	"parentId": "91",
+	"dateAddedLocal": "08/06/2021, 19:52:47",
+	"dateAddedUTC": "2021-06-08T17:52:47.784Z"
+},{
+	"index": 3,
+	"title": "GitHub - romkatv/gitstatus: Git status for Bash and Zsh prompt",
+	"url": "https://github.com/romkatv/gitstatus",
+	"id": 116,
+	"parentId": "91",
+	"dateAddedLocal": "08/06/2021, 19:52:00",
+	"dateAddedUTC": "2021-06-08T17:52:00.634Z"
+},{
+	"index": 2,
+	"title": "dnscrypt",
+	"id": 37,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 18:33:35",
+	"dateAddedUTC": "2021-06-08T16:33:35.800Z"
+},{
+	"index": 0,
+	"title": "Install dnscrypt-proxy for MacOS – Eligible Blog",
+	"url": "https://eligiblestore.com/blog/2020/07/04/secure-your-dns-over-https/",
+	"id": 36,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:33:13",
+	"dateAddedUTC": "2021-06-08T16:33:13.119Z"
+},{
+	"index": 1,
+	"title": "DoH on macOS with dnscrypt-proxy",
+	"url": "https://stanislas.blog/2019/11/doh-macos-dnscrypt-proxy/",
+	"id": 38,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:34:21",
+	"dateAddedUTC": "2021-06-08T16:34:21.192Z"
+},{
+	"index": 2,
+	"title": "DNSCrypt on Mac OSX [dnscrypt-proxy] : GoroHome",
+	"url": "https://www.reddit.com/r/GoroHome/comments/ej9nv7/dnscrypt_on_mac_osx_dnscryptproxy",
+	"id": 39,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:34:45",
+	"dateAddedUTC": "2021-06-08T16:34:45.144Z"
+},{
+	"index": 3,
+	"title": "DNSCrypt version 2 - Official Project Home Page",
+	"url": "https://dnscrypt.info/",
+	"id": 40,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:35:08",
+	"dateAddedUTC": "2021-06-08T16:35:08.180Z"
+},{
+	"index": 4,
+	"title": "Anonymized DNS · DNSCrypt/dnscrypt-proxy Wiki · GitHub",
+	"url": "https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS",
+	"id": 41,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:35:27",
+	"dateAddedUTC": "2021-06-08T16:35:27.012Z"
+},{
+	"index": 5,
+	"title": "Dnscrypt Menu",
+	"url": "https://awesomeopensource.com/project/JayBrown/DNSCrypt-Menu",
+	"id": 42,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:35:46",
+	"dateAddedUTC": "2021-06-08T16:35:46.883Z"
+},{
+	"index": 6,
+	"title": "Installed PiHole and DNSCrypt-Proxy then what? – Eligible Blog",
+	"url": "https://eligiblestore.com/blog/2020/08/21/installed-pihole-and-dnscrypt-proxy-then-what/",
+	"id": 43,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:36:15",
+	"dateAddedUTC": "2021-06-08T16:36:15.963Z"
+},{
+	"index": 7,
+	"title": "Highly-available dnscrypt-proxy client setup on OSX with DNSSEC. · GitHub",
+	"url": "https://gist.github.com/SimonDegraeve/ebaea058822dede2a6d0",
+	"id": 52,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:39:45",
+	"dateAddedUTC": "2021-06-08T16:39:45.396Z"
+},{
+	"index": 8,
+	"title": "Setup dnsmasq on OS X · GitHub",
+	"url": "https://gist.github.com/ogrrd/5831371",
+	"id": 53,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:40:10",
+	"dateAddedUTC": "2021-06-08T16:40:10.954Z"
+},{
+	"index": 9,
+	"title": "Installation · DNSCrypt/dnscrypt-proxy Wiki · GitHub",
+	"url": "https://github.com/DNSCrypt/dnscrypt-proxy/wiki/installation#installing-dnscrypt-proxy-on-macos-as-a-system-service",
+	"id": 124,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 19:57:52",
+	"dateAddedUTC": "2021-06-08T17:57:52.856Z"
+},{
+	"index": 3,
+	"title": "Security Tests",
+	"id": 46,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 18:37:26",
+	"dateAddedUTC": "2021-06-08T16:37:26.062Z"
+},{
+	"index": 0,
+	"title": "Find a geolocation of an IP address",
+	"url": "https://ipgetinfo.com/?mode=ip&lang=en&ip=86.209.159.61",
+	"id": 44,
+	"parentId": "46",
+	"dateAddedLocal": "08/06/2021, 18:37:01",
+	"dateAddedUTC": "2021-06-08T16:37:01.494Z"
+},{
+	"index": 1,
+	"title": "DNS leak test",
+	"url": "https://dnsleaktest.com/",
+	"id": 47,
+	"parentId": "46",
+	"dateAddedLocal": "08/06/2021, 18:37:49",
+	"dateAddedUTC": "2021-06-08T16:37:49.590Z"
+},{
+	"index": 2,
+	"title": "IP/DNS Detect - What is your IP, what is your DNS, what informations you send to websites.",
+	"url": "https://ipleak.net/",
+	"id": 48,
+	"parentId": "46",
+	"dateAddedLocal": "08/06/2021, 18:38:04",
+	"dateAddedUTC": "2021-06-08T16:38:04.795Z"
+},{
+	"index": 3,
+	"title": "Welcome to OpenDNS!",
+	"url": "https://www.opendns.com/welcome/",
+	"id": 49,
+	"parentId": "46",
+	"dateAddedLocal": "08/06/2021, 18:38:23",
+	"dateAddedUTC": "2021-06-08T16:38:23.850Z"
+},{
+	"index": 4,
+	"title": "MacOs Security",
+	"id": 51,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 18:39:26",
+	"dateAddedUTC": "2021-06-08T16:39:26.793Z"
+},{
+	"index": 0,
+	"title": "GitHub - drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS",
+	"url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+	"id": 50,
+	"parentId": "51",
+	"dateAddedLocal": "08/06/2021, 18:39:08",
+	"dateAddedUTC": "2021-06-08T16:39:08.684Z"
+},{
+	"index": 5,
+	"title": "Utility Sofware",
+	"id": 58,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 18:43:31",
+	"dateAddedUTC": "2021-06-08T16:43:31.214Z"
+},{
+	"index": 0,
+	"title": "GitRepositories",
+	"id": 59,
+	"parentId": "58",
+	"dateAddedLocal": "08/06/2021, 18:43:31",
+	"dateAddedUTC": "2021-06-08T16:43:31.215Z"
+},{
+	"index": 0,
+	"title": "◉ Installation Guide",
+	"url": "https://secure.phabricator.com/book/phabricator/article/installation_guide/",
+	"id": 57,
+	"parentId": "59",
+	"dateAddedLocal": "08/06/2021, 18:42:51",
+	"dateAddedUTC": "2021-06-08T16:42:51.998Z"
+},{
+	"index": 6,
+	"title": "MACOS-Install",
+	"id": 66,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 18:47:03",
+	"dateAddedUTC": "2021-06-08T16:47:03.272Z"
+},{
+	"index": 0,
+	"title": "MacOS Development workspace 2021 - DEV Community",
+	"url": "https://dev.to/jeissonflorez29/macos-development-workspace-2021-2ld6",
+	"id": 65,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 18:46:44",
+	"dateAddedUTC": "2021-06-08T16:46:44.818Z"
+},{
+	"index": 1,
+	"title": "Configure Zsh Options & Plugins for Productivity in macOS's Default Shell | Viget",
+	"url": "https://www.viget.com/articles/zsh-config-productivity-plugins-for-mac-oss-default-shell/",
+	"id": 71,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:26:19",
+	"dateAddedUTC": "2021-06-08T17:26:19.864Z"
+},{
+	"index": 2,
+	"title": "The Eclectic Light Company – Macs, painting, and more",
+	"url": "https://eclecticlight.co/",
+	"id": 105,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:47:47",
+	"dateAddedUTC": "2021-06-08T17:47:47.280Z"
+},{
+	"index": 3,
+	"title": "GitHub - munki/macadmin-scripts: Scripts of possible interest to macOS admins",
+	"url": "https://github.com/munki/macadmin-scripts",
+	"id": 106,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:48:15",
+	"dateAddedUTC": "2021-06-08T17:48:15.932Z"
+},{
+	"index": 4,
+	"title": "Use Homebrew zsh Instead of the OS X Default : Rick Cogley Central",
+	"url": "https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/",
+	"id": 107,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:48:48",
+	"dateAddedUTC": "2021-06-08T17:48:48.810Z"
+},{
+	"index": 5,
+	"title": "pwnsdx’s macos scripts · GitHub",
+	"url": "https://gist.github.com/pwnsdx/",
+	"id": 119,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:54:23",
+	"dateAddedUTC": "2021-06-08T17:54:23.366Z"
+},{
+	"index": 6,
+	"title": "How to completely prohibit MacOS Big Sur automatic update and remove update flag and notification - 编程知识",
+	"url": "https://cdmana.com/2021/04/20210429192342471b.html",
+	"id": 120,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:55:17",
+	"dateAddedUTC": "2021-06-08T17:55:17.320Z"
+},{
+	"index": 7,
+	"title": "GitHub - sh0shin/macosetup: Command line macOS setup & configuration",
+	"url": "https://github.com/sh0shin/macosetup",
+	"id": 121,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:55:34",
+	"dateAddedUTC": "2021-06-08T17:55:34.774Z"
+},{
+	"index": 8,
+	"title": "How to disable the quarantine popup in macOS Big Sur - Hiring Engineers",
+	"url": "https://hiringengineersbook.com/post/disable-quarantine/",
+	"id": 122,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:55:48",
+	"dateAddedUTC": "2021-06-08T17:55:48.014Z"
+},{
+	"index": 9,
+	"title": "Updater For macOS Launch Services · GitHub",
+	"url": "https://gist.github.com/thegranddesign/fef254a615c6d1bf67f83c176da8869d",
+	"id": 123,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:57:38",
+	"dateAddedUTC": "2021-06-08T17:57:38.344Z"
+},{
+	"index": 7,
+	"title": "Linux",
+	"id": 73,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 19:27:44",
+	"dateAddedUTC": "2021-06-08T17:27:44.523Z"
+},{
+	"index": 0,
+	"title": "Marmotte - Notes - networkctl",
+	"url": "https://blog.garamotte.net/tag/networkctl.html",
+	"id": 72,
+	"parentId": "73",
+	"dateAddedLocal": "08/06/2021, 19:27:32",
+	"dateAddedUTC": "2021-06-08T17:27:32.594Z"
+},{
+	"index": 1,
+	"title": "My install instruction for a secure Arch Linux (sway) laptop workstation · GitHub",
+	"url": "https://gist.github.com/Th3Whit3Wolf/2f24b29183be7f8e9c0b05115aefb693",
+	"id": 75,
+	"parentId": "73",
+	"dateAddedLocal": "08/06/2021, 19:28:29",
+	"dateAddedUTC": "2021-06-08T17:28:29.090Z"
+},{
+	"index": 2,
+	"title": "Arch Linux Install: January 2021 ISO With BTRFS & Snapshots - YouTube",
+	"url": "https://www.youtube.com/watch?v=Xynotc9BKe8",
+	"id": 76,
+	"parentId": "73",
+	"dateAddedLocal": "08/06/2021, 19:28:56",
+	"dateAddedUTC": "2021-06-08T17:28:56.880Z"
+},{
+	"index": 3,
+	"title": "Arch Linux step-by-step installation on btrfs · GitHub",
+	"url": "https://gist.github.com/idvoretskyi/9a516921fab0ad4e3ea0",
+	"id": 77,
+	"parentId": "73",
+	"dateAddedLocal": "08/06/2021, 19:29:14",
+	"dateAddedUTC": "2021-06-08T17:29:14.038Z"
+},{
+	"index": 4,
+	"title": "GitHub - Madic-/Sway-DE: 🏠 Sway desktop environment dotfile installation for Arch Linux",
+	"url": "https://github.com/Madic-/Sway-DE",
+	"id": 79,
+	"parentId": "73",
+	"dateAddedLocal": "08/06/2021, 19:30:01",
+	"dateAddedUTC": "2021-06-08T17:30:01.834Z"
+},{
+	"index": 8,
+	"title": "GIT",
+	"id": 103,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 19:39:29",
+	"dateAddedUTC": "2021-06-08T17:39:29.994Z"
+},{
+	"index": 0,
+	"title": "Gitignore - Exclude all except specific subdirectory · GitHub",
+	"url": "https://gist.github.com/hieblmedia/9318457",
+	"id": 102,
+	"parentId": "103",
+	"dateAddedLocal": "08/06/2021, 19:39:19",
+	"dateAddedUTC": "2021-06-08T17:39:19.488Z"
+},{
+	"index": 1,
+	"title": "How to .gitignore everything except a few files | by lindsay | Medium",
+	"url": "https://medium.com/@lynzt/how-to-gitignore-everything-except-a-few-files-6a8f392e1674",
+	"id": 104,
+	"parentId": "103",
+	"dateAddedLocal": "08/06/2021, 19:39:49",
+	"dateAddedUTC": "2021-06-08T17:39:49.816Z"
+},{
+	"index": 2,
+	"title": "How to store dotfiles | Atlassian Git Tutorial",
+	"url": "https://www.atlassian.com/git/tutorials/dotfiles",
+	"id": 88,
+	"parentId": "103",
+	"dateAddedLocal": "08/06/2021, 19:33:45",
+	"dateAddedUTC": "2021-06-08T17:33:45.652Z"
+},{
+	"index": 3,
+	"title": "The best way to store your dotfiles: A bare Git repository **EXPLAINED** // Ackama",
+	"url": "https://www.ackama.com/blog/posts/the-best-way-to-store-your-dotfiles-a-bare-git-repository-explained",
+	"id": 101,
+	"parentId": "103",
+	"dateAddedLocal": "08/06/2021, 19:38:52",
+	"dateAddedUTC": "2021-06-08T17:38:52.442Z"
+},{
+	"index": 4,
+	"title": "Create Git Repo Example | Examples Java Code Geeks - 2021",
+	"url": "https://examples.javacodegeeks.com/software-development/git/create-git-repo-example/",
+	"id": 157,
+	"parentId": "103",
+	"dateAddedLocal": "08/06/2021, 20:13:35",
+	"dateAddedUTC": "2021-06-08T18:13:35.256Z"
+},{
+	"index": 9,
+	"title": "Shopping",
+	"id": 126,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 20:02:33",
+	"dateAddedUTC": "2021-06-08T18:02:33.972Z"
+},{
+	"index": 0,
+	"title": "Suivi 9L27295673399 | Postal Ninja",
+	"url": "https://postal.ninja/fr/track/nZlnax",
+	"id": 125,
+	"parentId": "126",
+	"dateAddedLocal": "08/06/2021, 20:02:18",
+	"dateAddedUTC": "2021-06-08T18:02:18.006Z"
+},{
+	"index": 10,
+	"title": "JAVA",
+	"id": 128,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 20:03:31",
+	"dateAddedUTC": "2021-06-08T18:03:31.887Z"
+},{
+	"index": 0,
+	"title": "MAVEN",
+	"id": 129,
+	"parentId": "128",
+	"dateAddedLocal": "08/06/2021, 20:03:31",
+	"dateAddedUTC": "2021-06-08T18:03:31.888Z"
+},{
+	"index": 0,
+	"title": "Générez un site pour votre projet - Organisez et packagez une application Java avec Apache Maven - OpenClassrooms",
+	"url": "https://openclassrooms.com/fr/courses/4503526-organisez-et-packagez-une-application-java-avec-apache-maven/4610009-generez-un-site-pour-votre-projet",
+	"id": 127,
+	"parentId": "129",
+	"dateAddedLocal": "08/06/2021, 20:03:09",
+	"dateAddedUTC": "2021-06-08T18:03:09.894Z"
+},{
+	"index": 1,
+	"title": "Some bits I'd like to share with the world: Archiva gives the maven site plugin an invalid site_en.xml",
+	"url": "https://amanica.blogspot.com/2010/08/archiva-gives-maven-site-plugin-invalid.html?m=1",
+	"id": 130,
+	"parentId": "129",
+	"dateAddedLocal": "08/06/2021, 20:03:55",
+	"dateAddedUTC": "2021-06-08T18:03:55.354Z"
+},{
+	"index": 2,
+	"title": "Apache Maven Tutorial",
+	"url": "https://www.vogella.com/tutorials/ApacheMaven/article.html",
+	"id": 131,
+	"parentId": "129",
+	"dateAddedLocal": "08/06/2021, 20:04:15",
+	"dateAddedUTC": "2021-06-08T18:04:15.096Z"
+},{
+	"index": 3,
+	"title": "Maven - Web Application - Tutorialspoint",
+	"url": "https://www.tutorialspoint.com/maven/maven_web_application.htm",
+	"id": 132,
+	"parentId": "129",
+	"dateAddedLocal": "08/06/2021, 20:04:31",
+	"dateAddedUTC": "2021-06-08T18:04:31.530Z"
+},{
+	"index": 4,
+	"title": "Maven – Maven in 5 Minutes",
+	"url": "https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html",
+	"id": 133,
+	"parentId": "129",
+	"dateAddedLocal": "08/06/2021, 20:04:48",
+	"dateAddedUTC": "2021-06-08T18:04:48.124Z"
+},{
+	"index": 1,
+	"title": "Projects",
+	"id": 135,
+	"parentId": "128",
+	"dateAddedLocal": "08/06/2021, 20:05:26",
+	"dateAddedUTC": "2021-06-08T18:05:26.813Z"
+},{
+	"index": 0,
+	"title": "Library Management System-SpringBoot+MySQL - Programmer Sought",
+	"url": "https://www.programmersought.com/article/94784561413/",
+	"id": 134,
+	"parentId": "135",
+	"dateAddedLocal": "08/06/2021, 20:05:15",
+	"dateAddedUTC": "2021-06-08T18:05:15.016Z"
+},{
+	"index": 1,
+	"title": "Library Management System Using Angular+ Spring Boot+ Spring CRUD+ REST Controller + MySQL – letslearnjava",
+	"url": "https://letslearnjavanow.wordpress.com/2018/04/16/library-management-system-using-angular-spring-boot-spring-curd-rest-controller-mysql/",
+	"id": 136,
+	"parentId": "135",
+	"dateAddedLocal": "08/06/2021, 20:05:48",
+	"dateAddedUTC": "2021-06-08T18:05:48.662Z"
+},{
+	"index": 2,
+	"title": "Library Management System Project in Java: Step by Step guide | Edureka",
+	"url": "https://www.edureka.co/blog/library-management-system-project-in-java",
+	"id": 137,
+	"parentId": "135",
+	"dateAddedLocal": "08/06/2021, 20:06:07",
+	"dateAddedUTC": "2021-06-08T18:06:07.735Z"
+},{
+	"index": 3,
+	"title": "GitHub - shubhamvadhera/library-management-spring: Library Management System in Spring MVC",
+	"url": "https://github.com/shubhamvadhera/library-management-spring",
+	"id": 138,
+	"parentId": "135",
+	"dateAddedLocal": "08/06/2021, 20:06:24",
+	"dateAddedUTC": "2021-06-08T18:06:24.424Z"
+},{
+	"index": 2,
+	"title": "Tutorial",
+	"id": 140,
+	"parentId": "128",
+	"dateAddedLocal": "08/06/2021, 20:06:58",
+	"dateAddedUTC": "2021-06-08T18:06:58.190Z"
+},{
+	"index": 0,
+	"title": "Simplest Spring MVC Framework Tutorial - Hello World Example with UI (JSP) Page • Crunchify",
+	"url": "https://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/",
+	"id": 139,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:06:48",
+	"dateAddedUTC": "2021-06-08T18:06:48.114Z"
+},{
+	"index": 1,
+	"title": "Registration, Login, and Logout Example with Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQL, JSP, Bootstrap and Docker Compose",
+	"url": "https://hellokoding.com/registration-and-login-example-with-spring-security-spring-boot-spring-data-jpa-hsql-jsp/",
+	"id": 141,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:07:21",
+	"dateAddedUTC": "2021-06-08T18:07:21.440Z"
+},{
+	"index": 2,
+	"title": "Registration, Login, and Logout Example with Spring MVC, Spring Security, Spring Data JPA, Hibernate, MySQL, JSP and Bootstrap",
+	"url": "https://hellokoding.com/registration-and-login-example-with-spring-xml-configuration-maven-jsp-and-mysql/",
+	"id": 142,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:07:44",
+	"dateAddedUTC": "2021-06-08T18:07:44.658Z"
+},{
+	"index": 3,
+	"title": "Spring 4 Security MVC Login Logout Example - JournalDev",
+	"url": "https://www.journaldev.com/8718/spring-4-security-mvc-login-logout-example",
+	"id": 143,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:08:05",
+	"dateAddedUTC": "2021-06-08T18:08:05.210Z"
+},{
+	"index": 4,
+	"title": "Login Form with Session in Spring MVC - Learn Programming with Real Apps",
+	"url": "https://learningprogramming.net/java/spring-mvc/login-form-with-session-in-spring-mvc/",
+	"id": 144,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:08:30",
+	"dateAddedUTC": "2021-06-08T18:08:30.612Z"
+},{
+	"index": 5,
+	"title": "Spring Security Java Config Preview: Web Security",
+	"url": "https://spring.io/blog/2013/07/03/spring-security-java-config-preview-web-security/#web-security-hellowebsecurityconfiguration",
+	"id": 145,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:09:20",
+	"dateAddedUTC": "2021-06-08T18:09:20.423Z"
+},{
+	"index": 6,
+	"title": "Spring Security Reference",
+	"url": "https://docs.spring.io/spring-security/site/docs/3.2.0.RELEASE/reference/htmlsingle/#jc",
+	"id": 146,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:09:43",
+	"dateAddedUTC": "2021-06-08T18:09:43.307Z"
+},{
+	"index": 7,
+	"title": "Spring Security Role Based Access Authorization Example - JournalDev",
+	"url": "https://www.journaldev.com/8748/spring-security-role-based-access-authorization-example",
+	"id": 147,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:10:23",
+	"dateAddedUTC": "2021-06-08T18:10:23.770Z"
+},{
+	"index": 8,
+	"title": "Spring 5 MVC + Hibernate 5 Example - HowToDoInJava",
+	"url": "https://howtodoinjava.com/spring5/webmvc/spring5-mvc-hibernate5-example/",
+	"id": 148,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:10:45",
+	"dateAddedUTC": "2021-06-08T18:10:45.450Z"
+},{
+	"index": 9,
+	"title": "Login Form using JSP + Servlet + Hibernate + MySQL Example",
+	"url": "https://www.javaguides.net/2019/11/login-form-using-jsp-servlet-hibernate-mysql-example.html",
+	"id": 149,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:11:19",
+	"dateAddedUTC": "2021-06-08T18:11:19.210Z"
+},{
+	"index": 10,
+	"title": "Spring Boot 2 Hibernate 5 MySQL CRUD REST API Tutorial",
+	"url": "https://www.javaguides.net/2018/09/spring-boot-2-hibernate-5-mysql-crud-rest-api-tutorial.html",
+	"id": 150,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:11:40",
+	"dateAddedUTC": "2021-06-08T18:11:40.646Z"
+},{
+	"index": 11,
+	"title": "Spring MVC 5 + Hibernate 5 + JSP + MySQL CRUD Tutorial",
+	"url": "https://www.javaguides.net/2018/11/spring-mvc-5-hibernate-5-jsp-mysql-crud-tutorial.html",
+	"id": 151,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:11:58",
+	"dateAddedUTC": "2021-06-08T18:11:58.602Z"
+},{
+	"index": 12,
+	"title": "Hibernate HSQLDB In-Memory Database Example Tutorial",
+	"url": "https://www.javaguides.net/2019/11/hibernate-hsqldb-in-memory-database-example-tutorial.html",
+	"id": 152,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:12:14",
+	"dateAddedUTC": "2021-06-08T18:12:14.067Z"
+},{
+	"index": 13,
+	"title": "Spring MVC 5 + Spring Data JPA + Hibernate 5 + JSP + MySQL Tutorial",
+	"url": "https://www.javaguides.net/2018/11/spring-mvc-5-spring-data-jpa-hibernate-jsp-mysql-tutorial.html",
+	"id": 153,
+	"parentId": "140",
+	"dateAddedLocal": "08/06/2021, 20:12:30",
+	"dateAddedUTC": "2021-06-08T18:12:30.191Z"
+},{
+	"index": 3,
+	"title": "BUILD",
+	"id": 155,
+	"parentId": "128",
+	"dateAddedLocal": "08/06/2021, 20:12:55",
+	"dateAddedUTC": "2021-06-08T18:12:55.518Z"
+},{
+	"index": 0,
+	"title": "Gradle | Gradle vs Maven Comparison",
+	"url": "https://gradle.org/maven-vs-gradle/",
+	"id": 154,
+	"parentId": "155",
+	"dateAddedLocal": "08/06/2021, 20:12:45",
+	"dateAddedUTC": "2021-06-08T18:12:45.878Z"
+},{
+	"index": 1,
+	"title": "Eclipse Git Tutorial",
+	"url": "https://www.vogella.com/tutorials/EclipseGit/article.html",
+	"id": 156,
+	"parentId": "155",
+	"dateAddedLocal": "08/06/2021, 20:13:12",
+	"dateAddedUTC": "2021-06-08T18:13:12.878Z"
+},{
+	"index": 2,
+	"title": "Start a new Java project inside an existing Git repository in Eclipse - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/34664759/start-a-new-java-project-inside-an-existing-git-repository-in-eclipse",
+	"id": 158,
+	"parentId": "155",
+	"dateAddedLocal": "08/06/2021, 20:14:06",
+	"dateAddedUTC": "2021-06-08T18:14:06.498Z"
+},{
+	"index": 3,
+	"title": "Why Your JUnit 5 Tests Are Not Running Under Maven - DZone Java",
+	"url": "https://dzone.com/articles/why-your-junit-5-tests-are-not-running-under-maven",
+	"id": 159,
+	"parentId": "155",
+	"dateAddedLocal": "08/06/2021, 20:14:36",
+	"dateAddedUTC": "2021-06-08T18:14:36.466Z"
+},{
+	"index": 4,
+	"title": "Using Hamcrest for testing - Tutorial",
+	"url": "https://www.vogella.com/tutorials/Hamcrest/article.html",
+	"id": 160,
+	"parentId": "155",
+	"dateAddedLocal": "08/06/2021, 20:14:56",
+	"dateAddedUTC": "2021-06-08T18:14:56.710Z"
 }]
