@@ -1,0 +1,210 @@
+[{
+	"index": 0,
+	"title": "FF",
+	"id": 19,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 14:41:18",
+	"dateAddedUTC": "2021-06-08T12:41:18.630Z"
+},{
+	"index": 0,
+	"title": "Layout",
+	"id": 33,
+	"parentId": "19",
+	"dateAddedLocal": "08/06/2021, 17:26:56",
+	"dateAddedUTC": "2021-06-08T15:26:56.907Z"
+},{
+	"index": 0,
+	"title": "firefox-safari-style/userChrome.css at master · ideaweb/firefox-safari-style · GitHub",
+	"url": "https://github.com/ideaweb/firefox-safari-style/blob/master/css/userChrome.css",
+	"id": 18,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:41:01",
+	"dateAddedUTC": "2021-06-08T12:41:01.110Z"
+},{
+	"index": 1,
+	"title": "How to Customize Firefox’s User Interface With userChrome.css",
+	"url": "https://www.howtogeek.com/334716/how-to-customize-firefoxs-user-interface-with-userchrome.css/",
+	"id": 23,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:43:45",
+	"dateAddedUTC": "2021-06-08T12:43:45.703Z"
+},{
+	"index": 2,
+	"title": "How to remove \"search with\" and \"visit\" in Firefox's address bar - gHacks Tech News",
+	"url": "https://www.ghacks.net/2015/12/21/how-to-remove-visit-in-firefoxs-address-bar/",
+	"id": 24,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:44:02",
+	"dateAddedUTC": "2021-06-08T12:44:02.794Z"
+},{
+	"index": 3,
+	"title": "Browser Toolbox - Firefox Developer Tools | MDN",
+	"url": "https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox",
+	"id": 25,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:44:10",
+	"dateAddedUTC": "2021-06-08T12:44:10.617Z"
+},{
+	"index": 4,
+	"title": "GitHub - black7375/Firefox-UI-Fix: 🦊 I respect proton UI and aim to improve it.",
+	"url": "https://github.com/black7375/Firefox-UI-Fix",
+	"id": 26,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:44:25",
+	"dateAddedUTC": "2021-06-08T12:44:25.662Z"
+},{
+	"index": 5,
+	"title": "How to fix the Firefox 89 user interface - gHacks Tech News",
+	"url": "https://www.ghacks.net/2021/05/09/how-to-fix-the-firefox-89-user-interface/",
+	"id": 27,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:44:32",
+	"dateAddedUTC": "2021-06-08T12:44:32.937Z"
+},{
+	"index": 1,
+	"title": "Config",
+	"id": 34,
+	"parentId": "19",
+	"dateAddedLocal": "08/06/2021, 17:27:06",
+	"dateAddedUTC": "2021-06-08T15:27:06.106Z"
+},{
+	"index": 1,
+	"title": "ZSH",
+	"id": 20,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 14:41:45",
+	"dateAddedUTC": "2021-06-08T12:41:45.980Z"
+},{
+	"index": 0,
+	"title": "programming",
+	"id": 7,
+	"parentId": "20",
+	"dateAddedLocal": "07/06/2021, 17:11:44",
+	"dateAddedUTC": "2021-06-07T15:11:44.763Z"
+},{
+	"index": 0,
+	"title": "Grep, sed, awk, sort... Non ! Zsh",
+	"url": "https://jonathanpoelen.github.io/2019/01/grep-sed-awk-sort...-non-zsh/",
+	"id": 6,
+	"parentId": "7",
+	"dateAddedLocal": "07/06/2021, 16:44:14",
+	"dateAddedUTC": "2021-06-07T14:44:14.052Z"
+},{
+	"index": 1,
+	"title": "Zsh-100-Commits-Club/Zsh-Native-Scripting-Handbook.adoc at master · zdharma/Zsh-100-Commits-Club · GitHub",
+	"url": "https://github.com/zdharma/Zsh-100-Commits-Club/blob/master/Zsh-Native-Scripting-Handbook.adoc",
+	"id": 5,
+	"parentId": "7",
+	"dateAddedLocal": "07/06/2021, 16:44:03",
+	"dateAddedUTC": "2021-06-07T14:44:03.573Z"
+},{
+	"index": 1,
+	"title": "dotfiles",
+	"id": 21,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 14:42:17",
+	"dateAddedUTC": "2021-06-08T12:42:17.052Z"
+},{
+	"index": 0,
+	"title": "GitHub - gicmo/dot-zsh: Z-Shell config",
+	"url": "https://github.com/gicmo/dot-zsh",
+	"id": 16,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 14:26:12",
+	"dateAddedUTC": "2021-06-08T12:26:12.969Z"
+},{
+	"index": 1,
+	"title": "zsh-config/completion.zsh at master · ThiefMaster/zsh-config · GitHub",
+	"url": "https://github.com/ThiefMaster/zsh-config/blob/master/zshrc.d/completion.zsh",
+	"id": 14,
+	"parentId": "21",
+	"dateAddedLocal": "07/06/2021, 20:40:14",
+	"dateAddedUTC": "2021-06-07T18:40:14.565Z"
+},{
+	"index": 2,
+	"title": ".config · dots · GammaFn / dotfiles.cli · GitLab",
+	"url": "https://gitlab.com/xPMo/dotfiles.cli/-/tree/dots/.config",
+	"id": 11,
+	"parentId": "21",
+	"dateAddedLocal": "07/06/2021, 19:59:47",
+	"dateAddedUTC": "2021-06-07T17:59:47.463Z"
+},{
+	"index": 3,
+	"title": "zshrc · dana/sensible · dana / zsh-sensible · GitLab",
+	"url": "https://gitlab.com/okdana/zsh-sensible/-/blob/dana/sensible/zshrc",
+	"id": 12,
+	"parentId": "21",
+	"dateAddedLocal": "07/06/2021, 20:03:09",
+	"dateAddedUTC": "2021-06-07T18:03:09.933Z"
+},{
+	"index": 4,
+	"title": "zshrc · master · GammaFn / zsh-sensible · GitLab",
+	"url": "https://gitlab.com/xPMo/zsh-sensible/-/blob/master/zshrc",
+	"id": 10,
+	"parentId": "21",
+	"dateAddedLocal": "07/06/2021, 19:54:14",
+	"dateAddedUTC": "2021-06-07T17:54:14.127Z"
+},{
+	"index": 5,
+	"title": "GitHub - sorin-ionescu/prezto: The configuration framework for Zsh",
+	"url": "https://github.com/sorin-ionescu/prezto",
+	"id": 28,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 14:45:04",
+	"dateAddedUTC": "2021-06-08T12:45:04.587Z"
+},{
+	"index": 6,
+	"title": "Sensible Defaults for zsh / zsh-sensible · GitLab",
+	"url": "https://gitlab.com/zsh-sensible/zsh-sensible",
+	"id": 29,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 14:45:19",
+	"dateAddedUTC": "2021-06-08T12:45:19.646Z"
+},{
+	"index": 7,
+	"title": "GitHub - ThiefMaster/zsh-config: My ZSH config",
+	"url": "https://github.com/ThiefMaster/zsh-config",
+	"id": 31,
+	"parentId": "21",
+	"dateAddedLocal": "08/06/2021, 14:45:56",
+	"dateAddedUTC": "2021-06-08T12:45:56.045Z"
+},{
+	"index": 2,
+	"title": "completion",
+	"id": 22,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 14:43:06",
+	"dateAddedUTC": "2021-06-08T12:43:06.220Z"
+},{
+	"index": 0,
+	"title": "A Guide to the Zsh Completion With Examples",
+	"url": "https://thevaluable.dev/zsh-completion-guide-examples/",
+	"id": 9,
+	"parentId": "22",
+	"dateAddedLocal": "07/06/2021, 18:29:45",
+	"dateAddedUTC": "2021-06-07T16:29:45.955Z"
+},{
+	"index": 1,
+	"title": "GitHub - Aloxaf/fzf-tab: Replace zsh's default completion selection menu with fzf!",
+	"url": "https://github.com/Aloxaf/fzf-tab",
+	"id": 8,
+	"parentId": "22",
+	"dateAddedLocal": "07/06/2021, 17:42:48",
+	"dateAddedUTC": "2021-06-07T15:42:48.781Z"
+},{
+	"index": 3,
+	"title": "refcard.pdf",
+	"url": "http://www.bash2zsh.com/zsh_refcard/refcard.pdf",
+	"id": 13,
+	"parentId": "20",
+	"dateAddedLocal": "07/06/2021, 20:39:47",
+	"dateAddedUTC": "2021-06-07T18:39:47.505Z"
+},{
+	"index": 4,
+	"title": "Zsh Mailing List Archive: zsh-workers 2021",
+	"url": "https://www.zsh.org/mla/workers/2021/index.html",
+	"id": 30,
+	"parentId": "20",
+	"dateAddedLocal": "08/06/2021, 14:45:29",
+	"dateAddedUTC": "2021-06-08T12:45:29.421Z"
+}]
