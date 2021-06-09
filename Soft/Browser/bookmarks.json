@@ -170,6 +170,14 @@
 	"dateAddedLocal": "08/06/2021, 19:37:39",
 	"dateAddedUTC": "2021-06-08T17:37:39.951Z"
 },{
+	"index": 3,
+	"title": ".zsh-spell-book/src at master · EdgardoArriagada/.zsh-spell-book · GitHub",
+	"url": "https://github.com/EdgardoArriagada/.zsh-spell-book/tree/master/src",
+	"id": 221,
+	"parentId": "7",
+	"dateAddedLocal": "09/06/2021, 12:43:11",
+	"dateAddedUTC": "2021-06-09T10:43:11.809Z"
+},{
 	"index": 1,
 	"title": "dotfiles",
 	"id": 21,
@@ -345,6 +353,86 @@
 	"dateAddedLocal": "08/06/2021, 19:38:29",
 	"dateAddedUTC": "2021-06-08T17:38:29.680Z"
 },{
+	"index": 21,
+	"title": "Configuring Zsh Without Dependencies",
+	"url": "https://thevaluable.dev/zsh-install-configure-mouseless/",
+	"id": 222,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 12:43:29",
+	"dateAddedUTC": "2021-06-09T10:43:29.847Z"
+},{
+	"index": 22,
+	"title": "zsh [Wiki ubuntu-fr]",
+	"url": "https://doc.ubuntu-fr.org/zsh",
+	"id": 223,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 12:44:13",
+	"dateAddedUTC": "2021-06-09T10:44:13.221Z"
+},{
+	"index": 23,
+	"title": "GitHub - Phantas0s/.dotfiles: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...",
+	"url": "https://github.com/Phantas0s/.dotfiles",
+	"id": 257,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 12:53:53",
+	"dateAddedUTC": "2021-06-09T10:53:53.641Z"
+},{
+	"index": 24,
+	"title": "Index of /fichiers-config",
+	"url": "https://formation-debian.viarezo.fr/fichiers-config/",
+	"id": 260,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 12:55:27",
+	"dateAddedUTC": "2021-06-09T10:55:27.557Z"
+},{
+	"index": 25,
+	"title": "dotfiles/settings.zsh at master · anishathalye/dotfiles · GitHub",
+	"url": "https://github.com/anishathalye/dotfiles/blob/master/zsh/settings.zsh",
+	"id": 261,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 12:55:45",
+	"dateAddedUTC": "2021-06-09T10:55:45.720Z"
+},{
+	"index": 26,
+	"title": "GitHub - anishathalye/dotbot at 9c1af76e9ef1c1c9f78615d88af7de39f157e341",
+	"url": "https://github.com/anishathalye/dotbot/tree/9c1af76e9ef1c1c9f78615d88af7de39f157e341#full-example",
+	"id": 262,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 12:56:03",
+	"dateAddedUTC": "2021-06-09T10:56:03.762Z"
+},{
+	"index": 27,
+	"title": "What are the step to move all your dotfiles into XDG directories? - Super User",
+	"url": "https://superuser.com/questions/874901/what-are-the-step-to-move-all-your-dotfiles-into-xdg-directories",
+	"id": 263,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 12:56:20",
+	"dateAddedUTC": "2021-06-09T10:56:20.051Z"
+},{
+	"index": 28,
+	"title": "GitHub - sindresorhus/pure at b6bc909a93f35989f0cbfbfa369e8b6d186cfa62",
+	"url": "https://github.com/sindresorhus/pure/tree/b6bc909a93f35989f0cbfbfa369e8b6d186cfa62",
+	"id": 264,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 12:56:34",
+	"dateAddedUTC": "2021-06-09T10:56:34.957Z"
+},{
+	"index": 29,
+	"title": "Better zsh with Prezto",
+	"url": "https://wikimatze.de/better-zsh-with-prezto/",
+	"id": 266,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 12:57:32",
+	"dateAddedUTC": "2021-06-09T10:57:32.280Z"
+},{
+	"index": 30,
+	"title": "dotfiles/.dotfiles.notes at master · grawity/dotfiles · GitHub",
+	"url": "https://github.com/grawity/dotfiles/blob/master/.dotfiles.notes",
+	"id": 342,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 13:38:11",
+	"dateAddedUTC": "2021-06-09T11:38:11.032Z"
+},{
 	"index": 2,
 	"title": "completion",
 	"id": 22,
@@ -391,6 +479,14 @@
 	"parentId": "22",
 	"dateAddedLocal": "08/06/2021, 19:36:53",
 	"dateAddedUTC": "2021-06-08T17:36:53.428Z"
+},{
+	"index": 5,
+	"title": "My ZSH configuration · GitHub",
+	"url": "https://gist.github.com/robertseaton/919566/539a051b8eb1980fad99966aced76e3ebc2d0787",
+	"id": 226,
+	"parentId": "22",
+	"dateAddedLocal": "09/06/2021, 12:45:23",
+	"dateAddedUTC": "2021-06-09T10:45:23.936Z"
 },{
 	"index": 3,
 	"title": "refcard.pdf",
@@ -479,6 +575,14 @@
 	"dateAddedLocal": "08/06/2021, 19:35:09",
 	"dateAddedUTC": "2021-06-08T17:35:09.774Z"
 },{
+	"index": 3,
+	"title": "GitHub - unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins, themes and tutorials.",
+	"url": "https://github.com/unixorn/awesome-zsh-plugins",
+	"id": 258,
+	"parentId": "82",
+	"dateAddedLocal": "09/06/2021, 12:54:34",
+	"dateAddedUTC": "2021-06-09T10:54:34.224Z"
+},{
 	"index": 11,
 	"title": "FISH",
 	"id": 87,
@@ -556,6 +660,284 @@
 	"parentId": "91",
 	"dateAddedLocal": "08/06/2021, 19:52:00",
 	"dateAddedUTC": "2021-06-08T17:52:00.634Z"
+},{
+	"index": 4,
+	"title": "powerlevel10k: https://github.com/romkatv/powerlevel10k.git",
+	"url": "https://gitee.com/kongren/powerlevel10k#recommended-meslo-nerd-font-patched-for-powerlevel10k",
+	"id": 220,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:42:38",
+	"dateAddedUTC": "2021-06-09T10:42:38.980Z"
+},{
+	"index": 5,
+	"title": "Moving to zsh, part 6 – Customizing the zsh Prompt – Scripting OS X",
+	"url": "https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/",
+	"id": 224,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:44:35",
+	"dateAddedUTC": "2021-06-09T10:44:35.015Z"
+},{
+	"index": 6,
+	"title": "zsh-config/shellopts.zsh at master · ThiefMaster/zsh-config · GitHub",
+	"url": "https://github.com/ThiefMaster/zsh-config/blob/master/zshrc.d/shellopts.zsh",
+	"id": 225,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:45:06",
+	"dateAddedUTC": "2021-06-09T10:45:06.410Z"
+},{
+	"index": 7,
+	"title": "zsh-git-prompt/zshrc.sh at master · olivierverdier/zsh-git-prompt · GitHub",
+	"url": "https://github.com/olivierverdier/zsh-git-prompt/blob/master/zshrc.sh",
+	"id": 242,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:49:55",
+	"dateAddedUTC": "2021-06-09T10:49:55.551Z"
+},{
+	"index": 8,
+	"title": "Git Info in Your Zsh Prompt",
+	"url": "https://www.eseth.org/2010/git-in-zsh.html",
+	"id": 248,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:51:45",
+	"dateAddedUTC": "2021-06-09T10:51:45.632Z"
+},{
+	"index": 9,
+	"title": "zsh-git-prompt/zshrc.sh at master · zsh-git-prompt/zsh-git-prompt · GitHub",
+	"url": "https://github.com/zsh-git-prompt/zsh-git-prompt/blob/master/zshrc.sh",
+	"id": 249,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:52:01",
+	"dateAddedUTC": "2021-06-09T10:52:01.694Z"
+},{
+	"index": 10,
+	"title": "Show Git State in ZSH Prompt via vcs_info | Timothy Basanov",
+	"url": "https://timothybasanov.com/2016/04/23/zsh-prompt-and-vcs_info.html",
+	"id": 250,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:52:14",
+	"dateAddedUTC": "2021-06-09T10:52:14.800Z"
+},{
+	"index": 11,
+	"title": "zshrc/vcs.zsh at master · vincentbernat/zshrc · GitHub",
+	"url": "https://github.com/vincentbernat/zshrc/blob/master/rc/vcs.zsh",
+	"id": 251,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:52:27",
+	"dateAddedUTC": "2021-06-09T10:52:27.055Z"
+},{
+	"index": 12,
+	"title": "Invite de commande Zsh avec statut Git asynchrone",
+	"url": "https://vincent.bernat.ch/fr/blog/2019-zsh-async-vcs-info",
+	"id": 252,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:52:41",
+	"dateAddedUTC": "2021-06-09T10:52:41.769Z"
+},{
+	"index": 13,
+	"title": "Customize your ZSH prompt with vcs_info by Arjan van der Gaag",
+	"url": "https://arjanvandergaag.nl/blog/customize-zsh-prompt-with-vcs-info.html",
+	"id": 253,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:52:56",
+	"dateAddedUTC": "2021-06-09T10:52:56.588Z"
+},{
+	"index": 14,
+	"title": "GitHub - forivall/pure: Pretty, minimal and fast ZSH prompt",
+	"url": "https://github.com/forivall/pure",
+	"id": 254,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:53:08",
+	"dateAddedUTC": "2021-06-09T10:53:08.364Z"
+},{
+	"index": 15,
+	"title": "dotfiles-whiteinge/.zsh_shouse_prompt at master · mirceaulinic/dotfiles-whiteinge · GitHub",
+	"url": "https://github.com/mirceaulinic/dotfiles-whiteinge/blob/master/.zsh_shouse_prompt",
+	"id": 255,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:53:22",
+	"dateAddedUTC": "2021-06-09T10:53:22.466Z"
+},{
+	"index": 16,
+	"title": "Easy Bash Prompt Generator",
+	"url": "https://ezprompt.net/",
+	"id": 256,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:53:34",
+	"dateAddedUTC": "2021-06-09T10:53:34.560Z"
+},{
+	"index": 17,
+	"title": "My Git prompt for zsh. · GitHub",
+	"url": "https://gist.github.com/joshdick/4415470",
+	"id": 259,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:54:57",
+	"dateAddedUTC": "2021-06-09T10:54:57.348Z"
+},{
+	"index": 18,
+	"title": "How to show current git branch with colors in Bash prompt | by Chi Thuc Nguyen | Medium",
+	"url": "https://thucnc.medium.com/how-to-show-current-git-branch-with-colors-in-bash-prompt-380d05a24745",
+	"id": 265,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 12:56:56",
+	"dateAddedUTC": "2021-06-09T10:56:56.268Z"
+},{
+	"index": 19,
+	"title": "lean/prompt_lean_setup at master · miekg/lean · GitHub",
+	"url": "https://github.com/miekg/lean/blob/master/prompt_lean_setup",
+	"id": 345,
+	"parentId": "91",
+	"dateAddedLocal": "09/06/2021, 13:41:49",
+	"dateAddedUTC": "2021-06-09T11:41:49.053Z"
+},{
+	"index": 13,
+	"title": "LS_COLORS",
+	"id": 228,
+	"parentId": "20",
+	"dateAddedLocal": "09/06/2021, 12:45:59",
+	"dateAddedUTC": "2021-06-09T10:45:59.435Z"
+},{
+	"index": 0,
+	"title": "GitHub - trapd00r/LS_COLORS: A collection of LS_COLORS definitions; needs your contribution!",
+	"url": "https://github.com/trapd00r/LS_COLORS",
+	"id": 227,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:45:48",
+	"dateAddedUTC": "2021-06-09T10:45:48.781Z"
+},{
+	"index": 1,
+	"title": "GitHub - peterhellberg/dircolors-jellybeans: Dircolors suitable for use with jellybeans.vim",
+	"url": "https://github.com/peterhellberg/dircolors-jellybeans",
+	"id": 229,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:46:09",
+	"dateAddedUTC": "2021-06-09T10:46:09.478Z"
+},{
+	"index": 2,
+	"title": "bash:tip_colors_and_formatting - FLOZz' MISC",
+	"url": "https://misc.flogisoft.com/bash/tip_colors_and_formatting",
+	"id": 230,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:46:30",
+	"dateAddedUTC": "2021-06-09T10:46:30.180Z"
+},{
+	"index": 3,
+	"title": "bash - tput setaf color table? How to determine color codes? - Unix & Linux Stack Exchange",
+	"url": "https://unix.stackexchange.com/questions/269077/tput-setaf-color-table-how-to-determine-color-codes",
+	"id": 231,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:46:46",
+	"dateAddedUTC": "2021-06-09T10:46:46.401Z"
+},{
+	"index": 4,
+	"title": "bash - How to change the output color of echo in Linux - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux",
+	"id": 232,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:47:17",
+	"dateAddedUTC": "2021-06-09T10:47:17.573Z"
+},{
+	"index": 5,
+	"title": "user.it.uu.se/~embe8573/scripts/cols",
+	"url": "http://user.it.uu.se/~embe8573/scripts/cols",
+	"id": 233,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:47:32",
+	"dateAddedUTC": "2021-06-09T10:47:32.574Z"
+},{
+	"index": 6,
+	"title": "GitHub - karlding/dirchromatic: programatically generate your .dircolors file",
+	"url": "https://github.com/karlding/dirchromatic",
+	"id": 234,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:47:48",
+	"dateAddedUTC": "2021-06-09T10:47:48.546Z"
+},{
+	"index": 7,
+	"title": "256 Terminal colors and their 24bit equivalent (or similar)",
+	"url": "https://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html",
+	"id": 235,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:48:03",
+	"dateAddedUTC": "2021-06-09T10:48:03.250Z"
+},{
+	"index": 8,
+	"title": "⬆ - Flèche noire vers le haut Emoji: U+2B06 - Table de caractères Unicode",
+	"url": "https://unicode-table.com/fr/2B06/",
+	"id": 236,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:48:14",
+	"dateAddedUTC": "2021-06-09T10:48:14.951Z"
+},{
+	"index": 9,
+	"title": "Terminal Colors | Chris Yeh",
+	"url": "https://chrisyeh96.github.io/2020/03/28/terminal-colors.html",
+	"id": 237,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:48:27",
+	"dateAddedUTC": "2021-06-09T10:48:27.815Z"
+},{
+	"index": 10,
+	"title": "12.04 - How to set nano default syntax highlighting for files with no extension? - Ask Ubuntu",
+	"url": "https://askubuntu.com/questions/415122/how-to-set-nano-default-syntax-highlighting-for-files-with-no-extension",
+	"id": 238,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:48:49",
+	"dateAddedUTC": "2021-06-09T10:48:49.711Z"
+},{
+	"index": 11,
+	"title": "How do I change the color for directories with ls in the console? - Ask Ubuntu",
+	"url": "https://askubuntu.com/questions/466198/how-do-i-change-the-color-for-directories-with-ls-in-the-console",
+	"id": 239,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:49:06",
+	"dateAddedUTC": "2021-06-09T10:49:06.312Z"
+},{
+	"index": 12,
+	"title": "Configuring LS_COLORS",
+	"url": "http://www.bigsoft.co.uk/blog/2008/04/11/configuring-ls_colors",
+	"id": 240,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:49:21",
+	"dateAddedUTC": "2021-06-09T10:49:21.138Z"
+},{
+	"index": 13,
+	"title": "256 Colors - Cheat Sheet - Xterm, HEX, RGB, HSL",
+	"url": "https://jonasjacek.github.io/colors/",
+	"id": 241,
+	"parentId": "228",
+	"dateAddedLocal": "09/06/2021, 12:49:36",
+	"dateAddedUTC": "2021-06-09T10:49:36.005Z"
+},{
+	"index": 14,
+	"title": "ERRORS",
+	"id": 245,
+	"parentId": "20",
+	"dateAddedLocal": "09/06/2021, 12:50:56",
+	"dateAddedUTC": "2021-06-09T10:50:56.979Z"
+},{
+	"index": 0,
+	"title": "Bash One-Liners Explained, Part III: All about redirections",
+	"url": "https://catonmat.net/bash-one-liners-explained-part-three",
+	"id": 244,
+	"parentId": "245",
+	"dateAddedLocal": "09/06/2021, 12:50:43",
+	"dateAddedUTC": "2021-06-09T10:50:43.250Z"
+},{
+	"index": 1,
+	"title": "Input/Output Redirection in the Shell",
+	"url": "https://thoughtbot.com/blog/input-output-redirection-in-the-shell",
+	"id": 246,
+	"parentId": "245",
+	"dateAddedLocal": "09/06/2021, 12:51:10",
+	"dateAddedUTC": "2021-06-09T10:51:10.229Z"
+},{
+	"index": 2,
+	"title": "Illustrated Redirection Tutorial [Bash Hackers Wiki]",
+	"url": "https://wiki.bash-hackers.org/howto/redirection_tutorial",
+	"id": 247,
+	"parentId": "245",
+	"dateAddedLocal": "09/06/2021, 12:51:24",
+	"dateAddedUTC": "2021-06-09T10:51:24.917Z"
 },{
 	"index": 2,
 	"title": "dnscrypt",
@@ -643,6 +1025,14 @@
 	"parentId": "37",
 	"dateAddedLocal": "08/06/2021, 19:57:52",
 	"dateAddedUTC": "2021-06-08T17:57:52.856Z"
+},{
+	"index": 10,
+	"title": "Unbound DNS Server Tutorial @ Calomel.org",
+	"url": "https://calomel.org/unbound_dns.html",
+	"id": 281,
+	"parentId": "37",
+	"dateAddedLocal": "09/06/2021, 13:02:15",
+	"dateAddedUTC": "2021-06-09T11:02:15.113Z"
 },{
 	"index": 3,
 	"title": "Security Tests",
@@ -807,6 +1197,30 @@
 	"dateAddedLocal": "08/06/2021, 19:57:38",
 	"dateAddedUTC": "2021-06-08T17:57:38.344Z"
 },{
+	"index": 10,
+	"title": "How to install Java JDK on macOS - Mkyong.com",
+	"url": "https://mkyong.com/java/how-to-install-java-on-mac-osx/",
+	"id": 162,
+	"parentId": "66",
+	"dateAddedLocal": "09/06/2021, 12:17:07",
+	"dateAddedUTC": "2021-06-09T10:17:07.208Z"
+},{
+	"index": 11,
+	"title": "macOS Configuration | Alchemists",
+	"url": "https://www.alchemists.io/projects/mac_os-config/",
+	"id": 348,
+	"parentId": "66",
+	"dateAddedLocal": "09/06/2021, 13:44:14",
+	"dateAddedUTC": "2021-06-09T11:44:14.037Z"
+},{
+	"index": 12,
+	"title": "GitHub - bkuhlmann/mac_os-config: Shell scripts for customized macOS machine setup and configuration.",
+	"url": "https://github.com/bkuhlmann/mac_os-config",
+	"id": 349,
+	"parentId": "66",
+	"dateAddedLocal": "09/06/2021, 13:46:31",
+	"dateAddedUTC": "2021-06-09T11:46:31.701Z"
+},{
 	"index": 7,
 	"title": "Linux",
 	"id": 73,
@@ -854,6 +1268,640 @@
 	"dateAddedLocal": "08/06/2021, 19:30:01",
 	"dateAddedUTC": "2021-06-08T17:30:01.834Z"
 },{
+	"index": 5,
+	"title": "GAWK",
+	"id": 211,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 12:40:03",
+	"dateAddedUTC": "2021-06-09T10:40:03.069Z"
+},{
+	"index": 0,
+	"title": "Gawk - GNU Project - Free Software Foundation (FSF)",
+	"url": "https://www.gnu.org/software/gawk/",
+	"id": 210,
+	"parentId": "211",
+	"dateAddedLocal": "09/06/2021, 12:39:43",
+	"dateAddedUTC": "2021-06-09T10:39:43.834Z"
+},{
+	"index": 6,
+	"title": "How to Find Active SSH Connections on Linux",
+	"url": "https://www.howtoforge.com/how-to-find-active-ssh-connections-on-linux/#find-active-ssh-connection-with-ss-command",
+	"id": 212,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 12:40:21",
+	"dateAddedUTC": "2021-06-09T10:40:21.740Z"
+},{
+	"index": 7,
+	"title": "MOTD",
+	"id": 214,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 12:40:53",
+	"dateAddedUTC": "2021-06-09T10:40:53.748Z"
+},{
+	"index": 0,
+	"title": "motd.sh · master · Julien / debian_motd · GitLab",
+	"url": "https://gitlab.com/j.bonnier/debian_motd/-/blob/master/motd.sh",
+	"id": 213,
+	"parentId": "214",
+	"dateAddedLocal": "09/06/2021, 12:40:44",
+	"dateAddedUTC": "2021-06-09T10:40:44.103Z"
+},{
+	"index": 1,
+	"title": "bash – jblab",
+	"url": "https://jblab.info/clef/bash/",
+	"id": 215,
+	"parentId": "214",
+	"dateAddedLocal": "09/06/2021, 12:41:09",
+	"dateAddedUTC": "2021-06-09T10:41:09.182Z"
+},{
+	"index": 2,
+	"title": "Création d’un MOTD dynamique : dynmotd | Tomzone",
+	"url": "https://www.tomzone.fr/creation-dun-motd-dynamique/",
+	"id": 216,
+	"parentId": "214",
+	"dateAddedLocal": "09/06/2021, 12:41:24",
+	"dateAddedUTC": "2021-06-09T10:41:24.202Z"
+},{
+	"index": 3,
+	"title": "[Linux] Fichier issue.net, motd et personnalisation - iZero - #!",
+	"url": "https://it.izero.fr/linux-fichier-issue-net-motd-et-personnalisation/",
+	"id": 217,
+	"parentId": "214",
+	"dateAddedLocal": "09/06/2021, 12:41:39",
+	"dateAddedUTC": "2021-06-09T10:41:39.119Z"
+},{
+	"index": 4,
+	"title": "The Best MOTD - How to Customize Your MOTD - Linux",
+	"url": "http://mewbies.com/how_to_customize_your_console_login_message_tutorial.htm#motdasciiart",
+	"id": 218,
+	"parentId": "214",
+	"dateAddedLocal": "09/06/2021, 12:41:57",
+	"dateAddedUTC": "2021-06-09T10:41:57.821Z"
+},{
+	"index": 5,
+	"title": "GitHub - lfelipe1501/Arch-MOTD: Arch-MOTD (Message of the day)",
+	"url": "https://github.com/lfelipe1501/Arch-MOTD",
+	"id": 219,
+	"parentId": "214",
+	"dateAddedLocal": "09/06/2021, 12:42:11",
+	"dateAddedUTC": "2021-06-09T10:42:11.606Z"
+},{
+	"index": 6,
+	"title": "linux - how to print the last login time in shell script? - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/29858215/how-to-print-the-last-login-time-in-shell-script/29858398#29858398",
+	"id": 272,
+	"parentId": "214",
+	"dateAddedLocal": "09/06/2021, 12:59:00",
+	"dateAddedUTC": "2021-06-09T10:59:00.589Z"
+},{
+	"index": 8,
+	"title": "SSH",
+	"id": 268,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 12:58:05",
+	"dateAddedUTC": "2021-06-09T10:58:05.943Z"
+},{
+	"index": 0,
+	"title": "How to SSH from a Host to a Guest VM on your Local Machine | by remko de knikker | NYC⚡️DEV | Medium",
+	"url": "https://medium.com/nycdev/how-to-ssh-from-a-host-to-a-guest-vm-on-your-local-machine-6cb4c91acc2e",
+	"id": 267,
+	"parentId": "268",
+	"dateAddedLocal": "09/06/2021, 12:57:53",
+	"dateAddedUTC": "2021-06-09T10:57:53.949Z"
+},{
+	"index": 1,
+	"title": "Arch Linux SSH Server Setup, Customization and Optimization – Linux Hint",
+	"url": "https://linuxhint.com/arch_linux_ssh_server/",
+	"id": 269,
+	"parentId": "268",
+	"dateAddedLocal": "09/06/2021, 12:58:20",
+	"dateAddedUTC": "2021-06-09T10:58:20.151Z"
+},{
+	"index": 2,
+	"title": "GitLab and SSH keys | GitLab",
+	"url": "https://docs.gitlab.com/ee/ssh/README.html#configure-ssh-to-point-to-a-different-directory",
+	"id": 270,
+	"parentId": "268",
+	"dateAddedLocal": "09/06/2021, 12:58:34",
+	"dateAddedUTC": "2021-06-09T10:58:34.983Z"
+},{
+	"index": 3,
+	"title": "linux - how to print the last login time in shell script? - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/29858215/how-to-print-the-last-login-time-in-shell-script",
+	"id": 271,
+	"parentId": "268",
+	"dateAddedLocal": "09/06/2021, 12:58:53",
+	"dateAddedUTC": "2021-06-09T10:58:53.589Z"
+},{
+	"index": 4,
+	"title": "How to Set Up SSH Keys on Ubuntu 20.04 | DigitalOcean",
+	"url": "https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04",
+	"id": 273,
+	"parentId": "268",
+	"dateAddedLocal": "09/06/2021, 12:59:30",
+	"dateAddedUTC": "2021-06-09T10:59:30.824Z"
+},{
+	"index": 5,
+	"title": "SSH : Installer et configurer un serveur SSH - Wiki - Wiki",
+	"url": "https://www.linuxtricks.fr/wiki/ssh-installer-et-configurer-un-serveur-ssh",
+	"id": 274,
+	"parentId": "268",
+	"dateAddedLocal": "09/06/2021, 12:59:47",
+	"dateAddedUTC": "2021-06-09T10:59:47.886Z"
+},{
+	"index": 9,
+	"title": "NLAMP",
+	"id": 276,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:00:26",
+	"dateAddedUTC": "2021-06-09T11:00:26.621Z"
+},{
+	"index": 0,
+	"title": "How to Install and Configure GitLab on CentOS 8/7",
+	"url": "https://www.tecmint.com/install-and-configure-gitlab-on-centos-7/",
+	"id": 275,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:00:09",
+	"dateAddedUTC": "2021-06-09T11:00:09.782Z"
+},{
+	"index": 1,
+	"title": "Gitlab CE Arch Linux [Manjaro] Installation Guide (WITH foolish mistakes) - YouTube",
+	"url": "https://www.youtube.com/watch?v=q6MCLkmaAxo",
+	"id": 277,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:00:40",
+	"dateAddedUTC": "2021-06-09T11:00:40.369Z"
+},{
+	"index": 2,
+	"title": "https://www.monitis.com/blog/apache-and-mysql-logging-with-syslog-ng/",
+	"url": "https://www.monitis.com/blog/apache-and-mysql-logging-with-syslog-ng/",
+	"id": 278,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:01:07",
+	"dateAddedUTC": "2021-06-09T11:01:07.172Z"
+},{
+	"index": 3,
+	"title": "How To Configure Nginx as a Web Server and Reverse Proxy for Apache on One Ubuntu 20.04 Server | DigitalOcean",
+	"url": "https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-as-a-web-server-and-reverse-proxy-for-apache-on-one-ubuntu-20-04-server",
+	"id": 279,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:01:29",
+	"dateAddedUTC": "2021-06-09T11:01:29.045Z"
+},{
+	"index": 4,
+	"title": "How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 20.04 | DigitalOcean",
+	"url": "https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04",
+	"id": 280,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:01:56",
+	"dateAddedUTC": "2021-06-09T11:01:56.140Z"
+},{
+	"index": 5,
+	"title": "GitHub - marcstraube/apacheadm: Tool to enable and disable modules and vhosts for Apache.",
+	"url": "https://github.com/marcstraube/apacheadm",
+	"id": 282,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:02:34",
+	"dateAddedUTC": "2021-06-09T11:02:34.496Z"
+},{
+	"index": 6,
+	"title": "How to Install and Configure FastCGI and PHP-FPM on Debian 10 | Linode",
+	"url": "https://www.linode.com/docs/guides/how-to-install-and-configure-fastcgi-and-php-fpm-on-debian-10/",
+	"id": 283,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:02:50",
+	"dateAddedUTC": "2021-06-09T11:02:50.136Z"
+},{
+	"index": 7,
+	"title": "How To Set Up Multiple Domains on an Apache Web Server | DigitalOcean",
+	"url": "https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-18-04",
+	"id": 284,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:03:06",
+	"dateAddedUTC": "2021-06-09T11:03:06.993Z"
+},{
+	"index": 8,
+	"title": "How To Install Nginx on Ubuntu 20.04 | DigitalOcean",
+	"url": "https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04#step-5-%E2%80%93-setting-up-server-blocks-(recommended)",
+	"id": 285,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:03:31",
+	"dateAddedUTC": "2021-06-09T11:03:31.140Z"
+},{
+	"index": 9,
+	"title": "PHP FastCGI Example | NGINX",
+	"url": "https://www.nginx.com/resources/wiki/start/topics/examples/phpfcgi/",
+	"id": 286,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:03:46",
+	"dateAddedUTC": "2021-06-09T11:03:46.648Z"
+},{
+	"index": 10,
+	"title": "Linux Web Server and Domain Configuration Tutorial",
+	"url": "http://www.yolinux.com/TUTORIALS/LinuxTutorialWebSiteConfig.html",
+	"id": 287,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:04:04",
+	"dateAddedUTC": "2021-06-09T11:04:04.551Z"
+},{
+	"index": 11,
+	"title": "Optimiser PHP-FPM pour des performances élevées",
+	"url": "https://geekflare.com/fr/php-fpm-optimization/",
+	"id": 288,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:04:16",
+	"dateAddedUTC": "2021-06-09T11:04:16.782Z"
+},{
+	"index": 12,
+	"title": "How to Install LEMP Stack on Arch Linux",
+	"url": "https://www.linuxtechi.com/install-lemp-stack-on-arch-linux/",
+	"id": 289,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:04:31",
+	"dateAddedUTC": "2021-06-09T11:04:31.975Z"
+},{
+	"index": 13,
+	"title": "Comment activer TLS 1.3 dans Apache, Nginx et Cloudflare?",
+	"url": "https://geekflare.com/fr/enable-tls-1-3/",
+	"id": 290,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:04:46",
+	"dateAddedUTC": "2021-06-09T11:04:46.065Z"
+},{
+	"index": 14,
+	"title": "Installing LAMP (Linux, Apache, MySQL/MariaDB, and PHP/PhpMyAdmin) in Arch Linux",
+	"url": "https://www.tecmint.com/install-lamp-in-arch-linux/",
+	"id": 291,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:04:59",
+	"dateAddedUTC": "2021-06-09T11:04:59.564Z"
+},{
+	"index": 15,
+	"title": "LAMP Manjaro : installer Apache MySQL PHP sur Linux - Armand Philippot",
+	"url": "https://www.armandphilippot.com/article/installer-lamp-manjaro-linux/",
+	"id": 292,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:05:11",
+	"dateAddedUTC": "2021-06-09T11:05:11.483Z"
+},{
+	"index": 16,
+	"title": "Install Apache, MariaDB, PHP (LAMP) stack on Arch Linux - OSTechNix",
+	"url": "https://ostechnix.com/install-apache-mariadb-php-lamp-stack-on-arch-linux-2016/",
+	"id": 293,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:05:23",
+	"dateAddedUTC": "2021-06-09T11:05:23.916Z"
+},{
+	"index": 17,
+	"title": "How To Set Up A Subversion Repository Using Apache",
+	"url": "https://www.howtoforge.com/apache_subversion_repository",
+	"id": 294,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:05:35",
+	"dateAddedUTC": "2021-06-09T11:05:35.612Z"
+},{
+	"index": 18,
+	"title": "3 Ways to Check Apache Server Status and Uptime in Linux",
+	"url": "https://www.tecmint.com/check-apache-httpd-status-and-uptime-in-linux/",
+	"id": 297,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:06:32",
+	"dateAddedUTC": "2021-06-09T11:06:32.922Z"
+},{
+	"index": 19,
+	"title": "How To Install Webmin And Secure With Nginx On Ubuntu 18.04 LTS | Tutorials24x7",
+	"url": "https://ubuntu.tutorials24x7.com/blog/how-to-install-webmin-and-secure-with-nginx-on-ubuntu-18-04-lts",
+	"id": 298,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:06:50",
+	"dateAddedUTC": "2021-06-09T11:06:50.846Z"
+},{
+	"index": 20,
+	"title": "tomcat8 - 403 Access Denied on Tomcat 8 Manager App without prompting for user/password - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/38551166/403-access-denied-on-tomcat-8-manager-app-without-prompting-for-user-password",
+	"id": 299,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:07:08",
+	"dateAddedUTC": "2021-06-09T11:07:08.771Z"
+},{
+	"index": 21,
+	"title": "How to Set Up Tomcat with Nginx as a Reverse Proxy on Ubuntu 18.04",
+	"url": "https://www.atlantic.net/vps-hosting/how-to-setup-tomcat-with-nginx-as-a-reverse-proxy-on-ubuntu-18-04/",
+	"id": 300,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:07:29",
+	"dateAddedUTC": "2021-06-09T11:07:29.213Z"
+},{
+	"index": 22,
+	"title": "Three ways to reverse proxy apache tomcat – CoderLeaf",
+	"url": "https://coderleaf.wordpress.com/2017/01/07/three-ways-to-reverse-proxy-apache-tomcat/",
+	"id": 301,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:07:44",
+	"dateAddedUTC": "2021-06-09T11:07:44.264Z"
+},{
+	"index": 23,
+	"title": "BecauseOfProg",
+	"url": "https://becauseofprog.fr/article/activer-serveur-ssh-gitea-gogs",
+	"id": 302,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:08:00",
+	"dateAddedUTC": "2021-06-09T11:08:00.068Z"
+},{
+	"index": 24,
+	"title": "Nginx - difference between root and alias? - Server Fault",
+	"url": "https://serverfault.com/questions/1035733/nginx-difference-between-root-and-alias",
+	"id": 304,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:18:02",
+	"dateAddedUTC": "2021-06-09T11:18:02.093Z"
+},{
+	"index": 25,
+	"title": "drkdidel.be - notes and thoughts about programming and stuff...",
+	"url": "https://drkdidel.be/en/posts/programming/upgrade-apache-to-24-from-22-on-arch-linux-using-php-fpm",
+	"id": 311,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:23:35",
+	"dateAddedUTC": "2021-06-09T11:23:35.577Z"
+},{
+	"index": 26,
+	"title": "GitHub - linuxserver/reverse-proxy-confs: These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag",
+	"url": "https://github.com/linuxserver/reverse-proxy-confs",
+	"id": 341,
+	"parentId": "276",
+	"dateAddedLocal": "09/06/2021, 13:37:29",
+	"dateAddedUTC": "2021-06-09T11:37:29.558Z"
+},{
+	"index": 10,
+	"title": "Commands",
+	"id": 306,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:18:46",
+	"dateAddedUTC": "2021-06-09T11:18:46.145Z"
+},{
+	"index": 0,
+	"title": "Pstree Command in Linux | Linuxize",
+	"url": "https://linuxize.com/post/pstree-command-in-linux/",
+	"id": 305,
+	"parentId": "306",
+	"dateAddedLocal": "09/06/2021, 13:18:28",
+	"dateAddedUTC": "2021-06-09T11:18:28.164Z"
+},{
+	"index": 11,
+	"title": "How to clean Arch Linux | Average Linux User",
+	"url": "https://averagelinuxuser.com/clean-arch-linux/",
+	"id": 307,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:21:24",
+	"dateAddedUTC": "2021-06-09T11:21:24.044Z"
+},{
+	"index": 12,
+	"title": "ruby-bundler: /usr/share/man/man5/gemfile.5.gz exists in filesystem (o / Pacman & Package Upgrade Issues / Arch Linux Forums",
+	"url": "https://bbs.archlinux.org/viewtopic.php?id=265395",
+	"id": 308,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:21:48",
+	"dateAddedUTC": "2021-06-09T11:21:48.841Z"
+},{
+	"index": 13,
+	"title": "Michael Dobachesky / ArchSystemMaintenance · GitLab",
+	"url": "https://gitlab.com/mgdobachesky/ArchSystemMaintenance",
+	"id": 309,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:22:41",
+	"dateAddedUTC": "2021-06-09T11:22:41.198Z"
+},{
+	"index": 14,
+	"title": "Polkit - ArchWiki",
+	"url": "https://wiki.archlinux.org/title/Polkit",
+	"id": 310,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:22:59",
+	"dateAddedUTC": "2021-06-09T11:22:59.685Z"
+},{
+	"index": 15,
+	"title": "90 Linux Commands frequently used by Linux Sysadmins",
+	"url": "https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/",
+	"id": 312,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:23:59",
+	"dateAddedUTC": "2021-06-09T11:23:59.399Z"
+},{
+	"index": 16,
+	"title": "How to Install Arch Linux in 2020 [Step by Step Guide]",
+	"url": "https://itsfoss.com/install-arch-linux/",
+	"id": 313,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:24:57",
+	"dateAddedUTC": "2021-06-09T11:24:57.608Z"
+},{
+	"index": 17,
+	"title": "5 The actual installation of Arch Linux Phase 1 UEFI | ArcoLinuxD",
+	"url": "https://www.arcolinuxd.com/5-the-actual-installation-of-arch-linux-phase-1-uefi",
+	"id": 314,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:25:34",
+	"dateAddedUTC": "2021-06-09T11:25:34.835Z"
+},{
+	"index": 18,
+	"title": "A step by step Arch Linux installation guide | Average Linux User",
+	"url": "https://averagelinuxuser.com/a-step-by-step-arch-linux-installation-guide/",
+	"id": 315,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:26:11",
+	"dateAddedUTC": "2021-06-09T11:26:11.198Z"
+},{
+	"index": 19,
+	"title": "A step by step Arch Linux installation guide | Average Linux User",
+	"url": "https://www.gloriouseggroll.tv/arch-linux-efi-install-guide/",
+	"id": 316,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:26:28",
+	"dateAddedUTC": "2021-06-09T11:26:28.990Z"
+},{
+	"index": 20,
+	"title": "TOOLS",
+	"id": 318,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:27:06",
+	"dateAddedUTC": "2021-06-09T11:27:06.979Z"
+},{
+	"index": 0,
+	"title": "Manage Log Messages Under Systemd Using Journalctl [Comprehensive Guide]",
+	"url": "https://www.tecmint.com/manage-systemd-logs-using-journalctl/",
+	"id": 317,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:26:52",
+	"dateAddedUTC": "2021-06-09T11:26:52.224Z"
+},{
+	"index": 1,
+	"title": "GitHub - wertarbyte/etckeeper",
+	"url": "https://github.com/wertarbyte/etckeeper",
+	"id": 319,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:27:27",
+	"dateAddedUTC": "2021-06-09T11:27:27.738Z"
+},{
+	"index": 2,
+	"title": "Nano Text Editor and nanorc Tips and Tricks – If Not True Then False",
+	"url": "https://www.if-not-true-then-false.com/2009/tuning-nano-text-editor-with-nanorc/#nowrap",
+	"id": 321,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:28:20",
+	"dateAddedUTC": "2021-06-09T11:28:20.334Z"
+},{
+	"index": 3,
+	"title": "https://www.svennd.be/etckeeper-setup-on-centos-7/",
+	"url": "https://www.svennd.be/etckeeper-setup-on-centos-7/",
+	"id": 322,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:28:36",
+	"dateAddedUTC": "2021-06-09T11:28:36.723Z"
+},{
+	"index": 4,
+	"title": "Using Etckeeper For Version Control Of /etc - Vultr.com",
+	"url": "https://www.vultr.com/docs/using-etckeeper-for-version-control-of-etc",
+	"id": 323,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:28:53",
+	"dateAddedUTC": "2021-06-09T11:28:53.367Z"
+},{
+	"index": 5,
+	"title": "How to install Arch Linux on a server a step by step guide for beginner’s - DEV Community",
+	"url": "https://fedoramagazine.org/managing-partitions-with-sgdisk/",
+	"id": 325,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:29:35",
+	"dateAddedUTC": "2021-06-09T11:29:35.611Z"
+},{
+	"index": 6,
+	"title": "Programmes de manipulations de partitions - gdisk - sgdisk",
+	"url": "https://papy-tux.legtux.org/doc1347/index.html",
+	"id": 326,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:30:33",
+	"dateAddedUTC": "2021-06-09T11:30:33.314Z"
+},{
+	"index": 7,
+	"title": "Incron – a cron based on FS events | Linuxaria",
+	"url": "https://linuxaria.com/article/incron-cron-inotify",
+	"id": 327,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:31:05",
+	"dateAddedUTC": "2021-06-09T11:31:05.722Z"
+},{
+	"index": 8,
+	"title": "Incron – a cron based on FS events | Linuxaria",
+	"url": "https://stackoverflow.com/questions/878600/how-to-create-a-cron-job-using-bash-automatically-without-the-interactive-editor",
+	"id": 328,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:31:28",
+	"dateAddedUTC": "2021-06-09T11:31:28.483Z"
+},{
+	"index": 9,
+	"title": "incrontab example · GitHub",
+	"url": "https://gist.github.com/cig0/913ac45f6dfbb264c8ab",
+	"id": 329,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:32:01",
+	"dateAddedUTC": "2021-06-09T11:32:01.413Z"
+},{
+	"index": 10,
+	"title": "Linux Fu: Troubleshooting Incron | Hackaday",
+	"url": "https://hackaday.com/2020/10/28/linux-fu-troubleshooting-incron/",
+	"id": 330,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:32:24",
+	"dateAddedUTC": "2021-06-09T11:32:24.513Z"
+},{
+	"index": 11,
+	"title": "Linux Fu: Troubleshooting Incron | Hackaday",
+	"url": "https://linux.die.net/man/5/incrontab",
+	"id": 331,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:32:35",
+	"dateAddedUTC": "2021-06-09T11:32:35.927Z"
+},{
+	"index": 12,
+	"title": "Attention Required! | Cloudflare",
+	"url": "https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax",
+	"id": 332,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:34:12",
+	"dateAddedUTC": "2021-06-09T11:34:12.604Z"
+},{
+	"index": 13,
+	"title": "Configuration / Utilisation d'etckeeper",
+	"url": "https://www.grenode.net/Documentation_technique/Divers/etckeeper/",
+	"id": 334,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:34:58",
+	"dateAddedUTC": "2021-06-09T11:34:58.811Z"
+},{
+	"index": 14,
+	"title": "Correct user names when tracking /etc/ in git repository and committing as root - Server Fault",
+	"url": "https://serverfault.com/questions/256754/correct-user-names-when-tracking-etc-in-git-repository-and-committing-as-root",
+	"id": 335,
+	"parentId": "318",
+	"dateAddedLocal": "09/06/2021, 13:35:21",
+	"dateAddedUTC": "2021-06-09T11:35:21.979Z"
+},{
+	"index": 21,
+	"title": "How to install Arch Linux on a server a step by step guide for beginner’s - DEV Community",
+	"url": "https://dev.to/kuba86/how-to-install-arch-linux-on-a-server-a-step-by-step-guide-for-beginner-s-5540",
+	"id": 324,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:29:14",
+	"dateAddedUTC": "2021-06-09T11:29:14.345Z"
+},{
+	"index": 22,
+	"title": "Archlinux sur un SSD avec EFI / LUKS2 / LVM2 / BTRFS",
+	"url": "https://blog.zenithar.org/post/2020/04/01/archlinux-efi-ssd-luks2-lvm2-btrfs/",
+	"id": 333,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:34:36",
+	"dateAddedUTC": "2021-06-09T11:34:36.580Z"
+},{
+	"index": 23,
+	"title": "linux - How to create extra root user? - Server Fault",
+	"url": "https://serverfault.com/questions/870043/how-to-create-extra-root-user",
+	"id": 336,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:35:41",
+	"dateAddedUTC": "2021-06-09T11:35:41.764Z"
+},{
+	"index": 24,
+	"title": "How to Give Root Privileges to a User in Linux",
+	"url": "https://linoxide.com/give-normal-user-root-privileges/",
+	"id": 337,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:35:59",
+	"dateAddedUTC": "2021-06-09T11:35:59.332Z"
+},{
+	"index": 25,
+	"title": "How the locate command works (and let's write a faster version in one minute!)",
+	"url": "http://jvns.ca/blog/2015/03/05/how-the-locate-command-works-and-lets-rewrite-it-in-one-minute/",
+	"id": 338,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:36:16",
+	"dateAddedUTC": "2021-06-09T11:36:16.574Z"
+},{
+	"index": 26,
+	"title": "arch-enemy/confs at master · cyphernix/arch-enemy · GitHub",
+	"url": "https://github.com/cyphernix/arch-enemy/tree/master/confs",
+	"id": 339,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:36:46",
+	"dateAddedUTC": "2021-06-09T11:36:46.052Z"
+},{
+	"index": 27,
+	"title": "GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers",
+	"url": "https://github.com/awesome-selfhosted/awesome-selfhosted#software-development",
+	"id": 340,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:37:07",
+	"dateAddedUTC": "2021-06-09T11:37:07.613Z"
+},{
 	"index": 8,
 	"title": "GIT",
 	"id": 103,
@@ -900,6 +1948,62 @@
 	"parentId": "103",
 	"dateAddedLocal": "08/06/2021, 20:13:35",
 	"dateAddedUTC": "2021-06-08T18:13:35.256Z"
+},{
+	"index": 5,
+	"title": "Git 07: Updating Your Repo by Setting Up a Remote | NSF NEON | Open Data to Understand our Ecosystems",
+	"url": "https://www.neonscience.org/resources/learning-hub/tutorials/git-setup-remote",
+	"id": 163,
+	"parentId": "103",
+	"dateAddedLocal": "09/06/2021, 12:18:05",
+	"dateAddedUTC": "2021-06-09T10:18:05.520Z"
+},{
+	"index": 6,
+	"title": "finding a deleted file in a git repository · GitHub",
+	"url": "https://gist.github.com/joakin/67f5afdd083ccfb8fecd#file-git-find-me-the-fucking-deleted-file-sh",
+	"id": 243,
+	"parentId": "103",
+	"dateAddedLocal": "09/06/2021, 12:50:17",
+	"dateAddedUTC": "2021-06-09T10:50:17.278Z"
+},{
+	"index": 7,
+	"title": "Git Config Tutorial - Ihatetomatoes",
+	"url": "https://ihatetomatoes.net/git-config-tutorial/",
+	"id": 320,
+	"parentId": "103",
+	"dateAddedLocal": "09/06/2021, 13:27:55",
+	"dateAddedUTC": "2021-06-09T11:27:55.539Z"
+},{
+	"index": 8,
+	"title": "The power of Git subtree - Atlassian Developer Blog",
+	"url": "https://blog.developer.atlassian.com/the-power-of-git-subtree/",
+	"id": 343,
+	"parentId": "103",
+	"dateAddedLocal": "09/06/2021, 13:39:06",
+	"dateAddedUTC": "2021-06-09T11:39:06.307Z"
+},{
+	"index": 9,
+	"title": "github - How to link folder from a git repo to another repo? - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/36554810/how-to-link-folder-from-a-git-repo-to-another-repo",
+	"id": 344,
+	"parentId": "103",
+	"dateAddedLocal": "09/06/2021, 13:39:31",
+	"dateAddedUTC": "2021-06-09T11:39:31.192Z"
+},{
+	"index": 10,
+	"title": "git stash : enregistrement des changements | Atlassian Git Tutorial",
+	"url": "https://www.atlassian.com/fr/git/tutorials/saving-changes/git-stash",
+	"id": 346,
+	"parentId": "103",
+	"dateAddedLocal": "09/06/2021, 13:42:19",
+	"dateAddedUTC": "2021-06-09T11:42:19.134Z"
+},{
+	"index": 11,
+	"title": "Hello World · GitHub Guides",
+	"url": "https://guides.github.com/activities/hello-world/",
+	"id": 347,
+	"parentId": "103",
+	"dateAddedLocal": "09/06/2021, 13:42:59",
+	"dateAddedUTC": "2021-06-09T11:42:59.560Z"
 },{
 	"index": 9,
 	"title": "Shopping",
@@ -969,6 +2073,22 @@
 	"parentId": "129",
 	"dateAddedLocal": "08/06/2021, 20:04:48",
 	"dateAddedUTC": "2021-06-08T18:04:48.124Z"
+},{
+	"index": 5,
+	"title": "Use the Latest Version of a Dependency in Maven | Baeldung",
+	"url": "https://www.baeldung.com/maven-dependency-latest-version",
+	"id": 295,
+	"parentId": "129",
+	"dateAddedLocal": "09/06/2021, 13:05:47",
+	"dateAddedUTC": "2021-06-09T11:05:47.453Z"
+},{
+	"index": 6,
+	"title": "Find Unused Maven Dependencies | Baeldung",
+	"url": "https://www.baeldung.com/maven-unused-dependencies",
+	"id": 296,
+	"parentId": "129",
+	"dateAddedLocal": "09/06/2021, 13:06:14",
+	"dateAddedUTC": "2021-06-09T11:06:14.964Z"
 },{
 	"index": 1,
 	"title": "Projects",
@@ -1128,6 +2248,94 @@
 	"dateAddedLocal": "08/06/2021, 20:12:30",
 	"dateAddedUTC": "2021-06-08T18:12:30.191Z"
 },{
+	"index": 14,
+	"title": "GitHub - vogellacompany/codeexamples-javaweb: Repository for Java web projects examples from the vogella website",
+	"url": "https://github.com/vogellacompany/codeexamples-javaweb",
+	"id": 164,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:18:32",
+	"dateAddedUTC": "2021-06-09T10:18:32.011Z"
+},{
+	"index": 15,
+	"title": "Tutorial - Very Simple HelloWorld Web Application | VMware tc Server Docs",
+	"url": "https://tcserver.docs.pivotal.io/3x/docs-tcserver/topics/tutwebapp.html",
+	"id": 165,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:18:53",
+	"dateAddedUTC": "2021-06-09T10:18:53.535Z"
+},{
+	"index": 16,
+	"title": "Spring Boot CRUD Application with Thymeleaf | Baeldung",
+	"url": "https://www.baeldung.com/spring-boot-crud-thymeleaf",
+	"id": 166,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:19:07",
+	"dateAddedUTC": "2021-06-09T10:19:07.782Z"
+},{
+	"index": 17,
+	"title": "Creating a CRUD REST API/Service with Spring Boot, JPA and Hibernate – Spring Boot Tutorial",
+	"url": "https://www.springboottutorial.com/spring-boot-crud-rest-service-with-jpa-hibernate",
+	"id": 167,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:19:22",
+	"dateAddedUTC": "2021-06-09T10:19:22.585Z"
+},{
+	"index": 18,
+	"title": "spring-boot-examples/StudentResource.java at master · in28minutes/spring-boot-examples · GitHub",
+	"url": "https://github.com/in28minutes/spring-boot-examples/blob/master/spring-boot-2-rest-service-basic/src/main/java/com/in28minutes/springboot/rest/example/student/StudentResource.java",
+	"id": 168,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:19:48",
+	"dateAddedUTC": "2021-06-09T10:19:48.474Z"
+},{
+	"index": 19,
+	"title": "java - how to configure lombok in eclipse luna - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/22310414/how-to-configure-lombok-in-eclipse-luna",
+	"id": 169,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:20:07",
+	"dateAddedUTC": "2021-06-09T10:20:07.601Z"
+},{
+	"index": 20,
+	"title": "Implementing the builder pattern in Java 8 - Tutorial",
+	"url": "https://www.vogella.com/tutorials/DesignPatternBuilder/article.html",
+	"id": 170,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:20:29",
+	"dateAddedUTC": "2021-06-09T10:20:29.113Z"
+},{
+	"index": 21,
+	"title": "Hibernate 5 XML Configuration Example - DZone Java",
+	"url": "https://dzone.com/articles/hibernate-5-xml-configuration-example",
+	"id": 174,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:21:53",
+	"dateAddedUTC": "2021-06-09T10:21:53.109Z"
+},{
+	"index": 22,
+	"title": "Spring Security Guides",
+	"url": "https://docs.spring.io/spring-security/site/docs/5.4.x/guides/index.html",
+	"id": 175,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:30:20",
+	"dateAddedUTC": "2021-06-09T10:30:20.494Z"
+},{
+	"index": 23,
+	"title": "Find the Registered Spring Security Filters | Baeldung",
+	"url": "https://www.baeldung.com/spring-security-registered-filters",
+	"id": 176,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:30:34",
+	"dateAddedUTC": "2021-06-09T10:30:34.342Z"
+},{
+	"index": 24,
+	"title": "JPA 2 with Hibernate 5 Bootstrapping Example",
+	"url": "https://www.javaguides.net/2018/11/jpa-with-hibernate-5-bootstrapping-example.html",
+	"id": 177,
+	"parentId": "140",
+	"dateAddedLocal": "09/06/2021, 12:30:51",
+	"dateAddedUTC": "2021-06-09T10:30:51.594Z"
+},{
 	"index": 3,
 	"title": "BUILD",
 	"id": 155,
@@ -1174,4 +2382,281 @@
 	"parentId": "155",
 	"dateAddedLocal": "08/06/2021, 20:14:56",
 	"dateAddedUTC": "2021-06-08T18:14:56.710Z"
+},{
+	"index": 4,
+	"title": "How to Become a Full Stack Web Developer in 2021? - GeeksforGeeks",
+	"url": "https://www.geeksforgeeks.org/how-to-become-a-full-stack-web-developer-in-2021/",
+	"id": 171,
+	"parentId": "128",
+	"dateAddedLocal": "09/06/2021, 12:20:45",
+	"dateAddedUTC": "2021-06-09T10:20:45.504Z"
+},{
+	"index": 5,
+	"title": "Eclipse",
+	"id": 173,
+	"parentId": "128",
+	"dateAddedLocal": "09/06/2021, 12:21:37",
+	"dateAddedUTC": "2021-06-09T10:21:37.142Z"
+},{
+	"index": 0,
+	"title": "Eclipse Preferences - Tutorial",
+	"url": "https://www.vogella.com/tutorials/EclipsePreferences/article.html",
+	"id": 172,
+	"parentId": "173",
+	"dateAddedLocal": "09/06/2021, 12:21:26",
+	"dateAddedUTC": "2021-06-09T10:21:26.351Z"
+},{
+	"index": 6,
+	"title": "LOG4J",
+	"id": 179,
+	"parentId": "128",
+	"dateAddedLocal": "09/06/2021, 12:31:18",
+	"dateAddedUTC": "2021-06-09T10:31:18.733Z"
+},{
+	"index": 0,
+	"title": "How Log4J2 Works: 10 Ways to Get the Most Out Of It – Stackify",
+	"url": "https://stackify.com/log4j2-java/",
+	"id": 178,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:31:08",
+	"dateAddedUTC": "2021-06-09T10:31:08.411Z"
+},{
+	"index": 1,
+	"title": "Log4j2 Example Tutorial - Configuration, Levels, Appenders - JournalDev",
+	"url": "https://www.journaldev.com/7128/log4j2-example-tutorial-configuration-levels-appenders",
+	"id": 180,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:31:34",
+	"dateAddedUTC": "2021-06-09T10:31:34.196Z"
+},{
+	"index": 2,
+	"title": "Log4j – Articles and Tutorials",
+	"url": "https://logging.apache.org/log4j/2.x/articles.html",
+	"id": 181,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:31:49",
+	"dateAddedUTC": "2021-06-09T10:31:49.432Z"
+},{
+	"index": 3,
+	"title": "Programmatic Configuration with Log4j 2 | Baeldung",
+	"url": "https://www.baeldung.com/log4j2-programmatic-config",
+	"id": 182,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:32:00",
+	"dateAddedUTC": "2021-06-09T10:32:00.939Z"
+},{
+	"index": 4,
+	"title": "Log4j – Extending Log4j 2 Configuration",
+	"url": "https://logging.apache.org/log4j/2.x/manual/customconfig.html#Initialize_Log4j_by_Combining_Configuration_File_with_Programmatic_Configuration",
+	"id": 183,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:32:22",
+	"dateAddedUTC": "2021-06-09T10:32:22.257Z"
+},{
+	"index": 5,
+	"title": "Apache Log4j 2 Tutorials - Mkyong.com",
+	"url": "https://mkyong.com/logging/apache-log4j-2-tutorials/",
+	"id": 184,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:32:39",
+	"dateAddedUTC": "2021-06-09T10:32:39.054Z"
+},{
+	"index": 6,
+	"title": "Question on Altering / Creating Log4j2 Configuration in code (Java in General forum at Coderanch)",
+	"url": "https://coderanch.com/t/681143/java/Altering-Creating-Log-Configuration-code",
+	"id": 185,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:32:53",
+	"dateAddedUTC": "2021-06-09T10:32:53.960Z"
+},{
+	"index": 7,
+	"title": "Configure log4j2 by code - only - in case of missing configuration - Javaer101",
+	"url": "https://www.javaer101.com/en/article/17278765.html",
+	"id": 186,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:33:07",
+	"dateAddedUTC": "2021-06-09T10:33:07.790Z"
+},{
+	"index": 8,
+	"title": "Using the maven-remote-resources-plugin and specifying the resourcesDirectory - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/30669013/using-the-maven-remote-resources-plugin-and-specifying-the-resourcesdirectory",
+	"id": 187,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:33:23",
+	"dateAddedUTC": "2021-06-09T10:33:23.751Z"
+},{
+	"index": 9,
+	"title": "loizenai | Mobile & Web Programming Tutorials",
+	"url": "https://loizenai.com/angular-9-springboot-mysql-crud-example/",
+	"id": 188,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:33:39",
+	"dateAddedUTC": "2021-06-09T10:33:39.337Z"
+},{
+	"index": 10,
+	"title": "Develop a Secure CRUD Application Using Angular and Spring Boot - DZone Java",
+	"url": "https://dzone.com/articles/develop-a-secure-crud-app-with-angular-and-spring-boot",
+	"id": 189,
+	"parentId": "179",
+	"dateAddedLocal": "09/06/2021, 12:33:54",
+	"dateAddedUTC": "2021-06-09T10:33:54.763Z"
+},{
+	"index": 7,
+	"title": "SPRING",
+	"id": 191,
+	"parentId": "128",
+	"dateAddedLocal": "09/06/2021, 12:34:40",
+	"dateAddedUTC": "2021-06-09T10:34:40.932Z"
+},{
+	"index": 0,
+	"title": "Test Your Spring Boot Applications with JUnit 5 | Okta Developer",
+	"url": "https://developer.okta.com/blog/2019/03/28/test-java-spring-boot-junit5",
+	"id": 190,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:34:11",
+	"dateAddedUTC": "2021-06-09T10:34:11.752Z"
+},{
+	"index": 1,
+	"title": "Spring Boot MySQL - using MySQL in Spring Boot",
+	"url": "https://zetcode.com/springboot/mysql/",
+	"id": 192,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:34:56",
+	"dateAddedUTC": "2021-06-09T10:34:56.155Z"
+},{
+	"index": 2,
+	"title": "Application Web Angular7-Spring Boot2",
+	"url": "https://gkemayo.developpez.com/tutoriels/java/tutoriel-sur-creation-application-web-avec-angular7-et-spring-boot-2/?page=expression-du-besoin-de-l-application",
+	"id": 193,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:35:16",
+	"dateAddedUTC": "2021-06-09T10:35:16.743Z"
+},{
+	"index": 3,
+	"title": "Spring Exceptions Series | Baeldung",
+	"url": "https://www.baeldung.com/spring-exceptions",
+	"id": 194,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:35:36",
+	"dateAddedUTC": "2021-06-09T10:35:36.126Z"
+},{
+	"index": 4,
+	"title": "Spring Rest Hibernate example - Java2Blog",
+	"url": "https://java2blog.com/spring-rest-hibernate-example/",
+	"id": 195,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:35:49",
+	"dateAddedUTC": "2021-06-09T10:35:49.364Z"
+},{
+	"index": 5,
+	"title": "Spring REST Example Tutorial, Spring Restful Web Services",
+	"url": "https://www.journaldev.com/2552/spring-rest-example-tutorial-spring-restful-web-services",
+	"id": 196,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:36:11",
+	"dateAddedUTC": "2021-06-09T10:36:11.049Z"
+},{
+	"index": 6,
+	"title": "json - Configure RequestMappingHandlerAdapter in java based configuration respective to messageconverter - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/54696284/configure-requestmappinghandleradapter-in-java-based-configuration-respective-to",
+	"id": 197,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:36:25",
+	"dateAddedUTC": "2021-06-09T10:36:25.939Z"
+},{
+	"index": 7,
+	"title": "Spring MVC - RequestMappingHandlerAdapter Examples",
+	"url": "https://www.logicbig.com/how-to/code-snippets/jcode-spring-mvc-requestmappinghandleradapter.html",
+	"id": 198,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:36:43",
+	"dateAddedUTC": "2021-06-09T10:36:43.461Z"
+},{
+	"index": 8,
+	"title": "Exemple de CRUD simple avec Spring MVC RESTful Web Service",
+	"url": "https://devstory.net/10865/exemple-de-crud-simple-avec-spring-mvc-restful-web-service",
+	"id": 199,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:36:56",
+	"dateAddedUTC": "2021-06-09T10:36:56.123Z"
+},{
+	"index": 9,
+	"title": "Tutoriel sur la création de Web Services Restfull avec Spring",
+	"url": "https://idak.developpez.com/tutoriels/spring/creation-restfull-serviceweb/",
+	"id": 200,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:37:10",
+	"dateAddedUTC": "2021-06-09T10:37:10.064Z"
+},{
+	"index": 10,
+	"title": "Using Hibernate ORM with JDK 11 - In Relation To",
+	"url": "https://in.relation.to/2018/09/13/using-hibernate-orm-with-jdk11/",
+	"id": 201,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:37:24",
+	"dateAddedUTC": "2021-06-09T10:37:24.047Z"
+},{
+	"index": 11,
+	"title": "Hibernate Tools Eclipse Plugin - JournalDev",
+	"url": "https://www.journaldev.com/2940/hibernate-tools-eclipse-plugin",
+	"id": 202,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:37:37",
+	"dateAddedUTC": "2021-06-09T10:37:37.423Z"
+},{
+	"index": 12,
+	"title": "spring-core/src/main/java/com/howtodoinjava/core/demo/beans at master · lokeshgupta1981/spring-core · GitHub",
+	"url": "https://github.com/lokeshgupta1981/spring-core/tree/master/src/main/java/com/howtodoinjava/core/demo/beans",
+	"id": 203,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:37:51",
+	"dateAddedUTC": "2021-06-09T10:37:51.557Z"
+},{
+	"index": 13,
+	"title": "Spring Security 5 example - @EnableWebSecurity",
+	"url": "https://howtodoinjava.com/spring5/security/security-java-config-enablewebsecurity-example/",
+	"id": 204,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:38:06",
+	"dateAddedUTC": "2021-06-09T10:38:06.520Z"
+},{
+	"index": 14,
+	"title": "log4j.properties File Example - JournalDev",
+	"url": "https://www.journaldev.com/10698/log4j-properties-file-example",
+	"id": 205,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:38:19",
+	"dateAddedUTC": "2021-06-09T10:38:19.202Z"
+},{
+	"index": 15,
+	"title": "How to convert spring bean integration From XML to Java annotation based Config - Javaer101",
+	"url": "https://www.javaer101.com/en/article/443681.html",
+	"id": 206,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:38:31",
+	"dateAddedUTC": "2021-06-09T10:38:31.310Z"
+},{
+	"index": 16,
+	"title": "Spring Batch: Converting XML to JavaConfig",
+	"url": "https://keyholesoftware.com/2015/06/29/spring-batch-javaconfig/",
+	"id": 207,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:38:45",
+	"dateAddedUTC": "2021-06-09T10:38:45.959Z"
+},{
+	"index": 17,
+	"title": "How to convert spring bean integration From XML to Java annotation based Config - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/45880027/how-to-convert-spring-bean-integration-from-xml-to-java-annotation-based-config",
+	"id": 208,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:39:04",
+	"dateAddedUTC": "2021-06-09T10:39:04.211Z"
+},{
+	"index": 18,
+	"title": "Spring Security Login Logout - javatpoint",
+	"url": "https://www.javatpoint.com/spring-security-login-logout",
+	"id": 209,
+	"parentId": "191",
+	"dateAddedLocal": "09/06/2021, 12:39:18",
+	"dateAddedUTC": "2021-06-09T10:39:18.733Z"
 }]
