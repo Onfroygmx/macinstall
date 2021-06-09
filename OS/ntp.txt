@@ -1,0 +1,5 @@
+url_ntp:pool.ntp.org
+function deleteapp {
+rm -rf /Application/$1
+rm -rf
+}
