@@ -1,0 +1,78 @@
+
+# Boot into recovery mode; open a terminal and run the following commands
+# (disabling sip and allowing booting from an unauthenticated root disk):
+
+csrutil disable
+csrutil authenticated-root disable
+reboot
+
+# You should be out of recovery mode now. Mount the root disk and apply the modifications (`disk2s5` may vary):
+cd ~ && mkdir mnt
+sudo mount -o nobrowse -t apfs /dev/disk2s5 $(pwd)/mnt
+
+cd ./mnt # the disable script needs cwd at the mount root
+sudo ../disable.sh # the disable.sh is located at $HOME aka `~`
+cd ..
+
+# finally run bless
+sudo bless --folder $(pwd)/mnt/System/Library/CoreServices --bootefi --create-snapshot
+sudo umount $(pwd)/mnt
+
+# reboot
+sudo reboot
+
+
+-- Apple Block --
+*.apple.com
+*.apple.remoted
+*.appcenter.ms
+.apple-cloudkit.
+ocsp.apple.com
+gs.apple.com
+.itunes.apple.com
+configuration.apple.com
+.apple.news
+.ls.apple.
+radarsubmissions.apple.com
+.smp-device-content.apple.com
+fides-pol.apple.com
+internalcheck.apple.com
+.aaplimg.
+.icloud.
+crl.apple.
+.xp.apple.
+.ess.apple.
+cds.apple.
+gsa.apple.
+.push.apple.
+.sandbox.push.apple.
+iphone-wu.apple.com
+mesu.apple.com
+pancake.apple.com
+smp-device-content.apple.com
+appleid.apple.com
+init-p01md.apple.
+
+# turn off FileVault, then reboot to Recovery by holding command + R, then open terminal in Recovery
+
+csrutil authenticated-root disable   # turn off SSV
+
+mount     # check which disk in mounted at /Volumes/Macintosh\ HD, for me it's /dev/disk2s5
+
+umount /dev/disk2s5     # replace /dev/disk2s5 to yours
+
+# remount /Volumes/Macintosh\ HD to make it writable
+mkdir /Volums/Macintosh\ HD
+mount -t apfs /dev/disks2s5 /Volums/Macintosh\ HD
+
+# you can run the script now
+cd /Volumes/Macintosh\ HD && sh /Volumes/Macintosh\ HD/Users/sabri/Desktop/disable.sh
+
+# IMPORTANT!  you need to create a new snapshot for the modified volume
+bless --folder /Volumes/Macintosh\ HD/System/Library/CoreServices --bootefi --create-snapshot
+
+csrutil authenticated-root enable   # turn on SSV
+
+reboot
+
+# enjoy

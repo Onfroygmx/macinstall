@@ -1,0 +1,27 @@
+## Apple domains
+.aaplimg.
+.apple-cloudkit.
+.ess.apple.
+.icloud.
+.ls.apple.
+.push.apple.
+.sandbox.push.apple.
+.xp.apple.
+aaplimg.*
+appcenter.ms
+apple-cloudkit.*
+apple.com
+apple.news
+apple.remoted
+cds.apple.
+cds.apple.*
+crl.apple.
+crl.apple.*
+ess.apple.*
+gsa.apple.
+gsa.apple.*
+icloud.*
+init-p01md.apple.
+ls.apple.*
+push.apple.*
+xp.apple.*
