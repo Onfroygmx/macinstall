@@ -8,9 +8,6 @@ xcode-select --install
 # Install base package
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
-# Check if everything is ok
-brew doctor
-
 # Don't send google analytics
 brew analytics off
 

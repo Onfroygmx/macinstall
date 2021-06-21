@@ -31,6 +31,7 @@ brew install --cask \
 
 brew cleanup -s
 brew cask cleanup
-#now diagnotic
+
+# Check if everything is ok
 brew doctor
 brew missing
