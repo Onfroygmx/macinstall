@@ -32,7 +32,6 @@ brew install nano
 ## Other tools
 brew install git
 brew install less
-brew install openssh
 brew install zsh
 
 ## Extras
@@ -40,6 +39,7 @@ brew install zsh
 brew install \
     cask \
     colordiff \
+    git-delta \
     htop \
     nanorc \
     pstree \
