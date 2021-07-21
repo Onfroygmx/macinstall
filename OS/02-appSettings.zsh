@@ -23,7 +23,7 @@ defaults write com.apple.finder ShowStatusBar -bool true
 printf "%s\n" "Finder - Use list view in all Finder windows."
 defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
 
-printf "%s\n" "Finder - Allow quitting via COMMAND+Q -- Doing so will also hide desktop icons."
+printf "%s\n" "Finder - Allow quitting Finder."
 defaults write com.apple.finder QuitMenuItem -bool true
 
 printf "%s\n" "Finder - Disable the warning before emptying the Trash."

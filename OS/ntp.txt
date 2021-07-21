@@ -1,5 +1,27 @@
 url_ntp:pool.ntp.org
+
 function deleteapp {
 rm -rf /Application/$1
 rm -rf
 }
+
+# Store all default commands executed
+PROMPT_COMMAND='echo "$(history 1 | grep "defaults")" | sed '/^$/d' >> ~/Documents/defaults.txt'
+
+PROMPT_COMMAND='echo "$(history 1 | grep "defaults write")" | sed '/^$/d' >> ~/Documents/defaults-write.txt'
+
+
+# If run with no arguments, it runs itself once for each directory in /Volume
+#!/bin/bash
+x=.disable_osx_metadata
+[[ "$1" ]] || exec find /Volumes -type d -maxdepth 1 -mindepth 1 -exec $0 {} \;
+[[ -e "$1/$x" ]] || exit 0
+mdutil -i off "$1"
+rm -rf "$1"/.{,_.}{fseventsd,Spotlight-V*,Trashes}
+mkdir "$1/.fseventsd"
+touch "$1/.fseventsd/no_log" "$1/.Trashes" "$1/$x"
+
+
+21 pool pool.ntp.org iburst
+server 163.172.150.183 iburst
+server 212.83.145.32 iburst
