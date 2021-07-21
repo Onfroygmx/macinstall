@@ -1,138 +1,5 @@
 [{
 	"index": 0,
-	"title": "FF",
-	"id": 19,
-	"parentId": "1",
-	"dateAddedLocal": "08/06/2021, 14:41:18",
-	"dateAddedUTC": "2021-06-08T12:41:18.630Z"
-},{
-	"index": 0,
-	"title": "Layout",
-	"id": 33,
-	"parentId": "19",
-	"dateAddedLocal": "08/06/2021, 17:26:56",
-	"dateAddedUTC": "2021-06-08T15:26:56.907Z"
-},{
-	"index": 0,
-	"title": "firefox-safari-style/userChrome.css at master · ideaweb/firefox-safari-style · GitHub",
-	"url": "https://github.com/ideaweb/firefox-safari-style/blob/master/css/userChrome.css",
-	"id": 18,
-	"parentId": "33",
-	"dateAddedLocal": "08/06/2021, 14:41:01",
-	"dateAddedUTC": "2021-06-08T12:41:01.110Z"
-},{
-	"index": 1,
-	"title": "How to Customize Firefox’s User Interface With userChrome.css",
-	"url": "https://www.howtogeek.com/334716/how-to-customize-firefoxs-user-interface-with-userchrome.css/",
-	"id": 23,
-	"parentId": "33",
-	"dateAddedLocal": "08/06/2021, 14:43:45",
-	"dateAddedUTC": "2021-06-08T12:43:45.703Z"
-},{
-	"index": 2,
-	"title": "How to remove \"search with\" and \"visit\" in Firefox's address bar - gHacks Tech News",
-	"url": "https://www.ghacks.net/2015/12/21/how-to-remove-visit-in-firefoxs-address-bar/",
-	"id": 24,
-	"parentId": "33",
-	"dateAddedLocal": "08/06/2021, 14:44:02",
-	"dateAddedUTC": "2021-06-08T12:44:02.794Z"
-},{
-	"index": 3,
-	"title": "Browser Toolbox - Firefox Developer Tools | MDN",
-	"url": "https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox",
-	"id": 25,
-	"parentId": "33",
-	"dateAddedLocal": "08/06/2021, 14:44:10",
-	"dateAddedUTC": "2021-06-08T12:44:10.617Z"
-},{
-	"index": 4,
-	"title": "GitHub - black7375/Firefox-UI-Fix: 🦊 I respect proton UI and aim to improve it.",
-	"url": "https://github.com/black7375/Firefox-UI-Fix",
-	"id": 26,
-	"parentId": "33",
-	"dateAddedLocal": "08/06/2021, 14:44:25",
-	"dateAddedUTC": "2021-06-08T12:44:25.662Z"
-},{
-	"index": 5,
-	"title": "How to fix the Firefox 89 user interface - gHacks Tech News",
-	"url": "https://www.ghacks.net/2021/05/09/how-to-fix-the-firefox-89-user-interface/",
-	"id": 27,
-	"parentId": "33",
-	"dateAddedLocal": "08/06/2021, 14:44:32",
-	"dateAddedUTC": "2021-06-08T12:44:32.937Z"
-},{
-	"index": 6,
-	"title": "solutions - uBlockOrigin",
-	"url": "https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_youtube",
-	"id": 112,
-	"parentId": "33",
-	"dateAddedLocal": "08/06/2021, 19:50:30",
-	"dateAddedUTC": "2021-06-08T17:50:30.848Z"
-},{
-	"index": 1,
-	"title": "Config",
-	"id": 34,
-	"parentId": "19",
-	"dateAddedLocal": "08/06/2021, 17:27:06",
-	"dateAddedUTC": "2021-06-08T15:27:06.106Z"
-},{
-	"index": 0,
-	"title": "uBlock Origin Suggested Settings – 12Bytes.org",
-	"url": "https://12bytes.org/articles/tech/firefox/ublock-origin-suggested-settings/",
-	"id": 108,
-	"parentId": "34",
-	"dateAddedLocal": "08/06/2021, 19:49:07",
-	"dateAddedUTC": "2021-06-08T17:49:07.776Z"
-},{
-	"index": 1,
-	"title": "Firefox Configuration Guide for Privacy Freaks and Performance Buffs – 12Bytes.org",
-	"url": "https://12bytes.org/articles/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs/",
-	"id": 109,
-	"parentId": "34",
-	"dateAddedLocal": "08/06/2021, 19:49:35",
-	"dateAddedUTC": "2021-06-08T17:49:35.050Z"
-},{
-	"index": 2,
-	"title": "12bytes.org/firefox-user.js-supplement: a user-overrides.js supplement intended to be appended to the 'arkenfox' (formerly 'ghacks') user.js for Firefox - user-overrides.js at master - firefox-user.js-supplement - Codeberg.org",
-	"url": "https://codeberg.org/12bytes.org/firefox-user.js-supplement/src/branch/master/user-overrides.js",
-	"id": 110,
-	"parentId": "34",
-	"dateAddedLocal": "08/06/2021, 19:49:53",
-	"dateAddedUTC": "2021-06-08T17:49:53.237Z"
-},{
-	"index": 3,
-	"title": "Getting rid of the Google cookie consent popup | Daniel Lange's blog",
-	"url": "https://daniel-lange.com/archives/164-Getting-rid-of-the-Google-cookie-consent-popup.html",
-	"id": 111,
-	"parentId": "34",
-	"dateAddedLocal": "08/06/2021, 19:50:13",
-	"dateAddedUTC": "2021-06-08T17:50:13.340Z"
-},{
-	"index": 4,
-	"title": "Remove the Google Cookie Consent Dialog with uBlock - NordicNode",
-	"url": "https://www.nordicnode.com/remove-the-google-cookie-consent-dialog-with-ublock/",
-	"id": 113,
-	"parentId": "34",
-	"dateAddedLocal": "08/06/2021, 19:50:52",
-	"dateAddedUTC": "2021-06-08T17:50:52.656Z"
-},{
-	"index": 5,
-	"title": "Google Search cookie consent popup problem : uBlockOrigin",
-	"url": "https://www.reddit.com/r/uBlockOrigin/comments/ifv6ek/google_search_cookie_consent_popup_problem/",
-	"id": 114,
-	"parentId": "34",
-	"dateAddedLocal": "08/06/2021, 19:51:09",
-	"dateAddedUTC": "2021-06-08T17:51:09.922Z"
-},{
-	"index": 2,
-	"title": "Mycroft Project: Search Engine Plugins - Firefox IE Chrome",
-	"url": "https://mycroftproject.com/install.html?id=14900&basename=googleintl&icontype=ico&name=Google+%28No+country+redirect%29",
-	"id": 115,
-	"parentId": "19",
-	"dateAddedLocal": "08/06/2021, 19:51:23",
-	"dateAddedUTC": "2021-06-08T17:51:23.702Z"
-},{
-	"index": 1,
 	"title": "ZSH",
 	"id": 20,
 	"parentId": "1",
@@ -432,6 +299,174 @@
 	"parentId": "21",
 	"dateAddedLocal": "09/06/2021, 13:38:11",
 	"dateAddedUTC": "2021-06-09T11:38:11.032Z"
+},{
+	"index": 31,
+	"title": "dotfiles/zshrc at master · cypher/dotfiles · GitHub",
+	"url": "https://github.com/cypher/dotfiles/blob/master/zshrc",
+	"id": 351,
+	"parentId": "21",
+	"dateAddedLocal": "09/06/2021, 14:01:58",
+	"dateAddedUTC": "2021-06-09T12:01:58.478Z"
+},{
+	"index": 32,
+	"title": "GitHub - benhoskings/dot-files",
+	"url": "https://github.com/benhoskings/dot-files",
+	"id": 388,
+	"parentId": "21",
+	"dateAddedLocal": "24/06/2021, 20:31:24",
+	"dateAddedUTC": "2021-06-24T18:31:24.709Z"
+},{
+	"index": 33,
+	"title": "pawel-slowik / Repositories · GitHub",
+	"url": "https://github.com/pawel-slowik?tab=repositories&type=source",
+	"id": 400,
+	"parentId": "21",
+	"dateAddedLocal": "29/06/2021, 19:18:33",
+	"dateAddedUTC": "2021-06-29T17:18:33.480Z"
+},{
+	"index": 34,
+	"title": "What is the best .zshrc config you have seen? - DEV Community",
+	"url": "https://dev.to/manan30/what-is-the-best-zshrc-config-you-have-seen-14id",
+	"id": 408,
+	"parentId": "21",
+	"dateAddedLocal": "30/06/2021, 14:51:12",
+	"dateAddedUTC": "2021-06-30T12:51:12.559Z"
+},{
+	"index": 35,
+	"title": "My Extravagant Zsh Prompt / Steve Losh",
+	"url": "https://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/",
+	"id": 409,
+	"parentId": "21",
+	"dateAddedLocal": "30/06/2021, 16:36:08",
+	"dateAddedUTC": "2021-06-30T14:36:08.575Z"
+},{
+	"index": 36,
+	"title": "conf-mgmt/DOTzshrc at master · slashbeast/conf-mgmt · GitHub",
+	"url": "https://github.com/slashbeast/conf-mgmt/blob/master/roles/home_files/files/DOTzshrc",
+	"id": 410,
+	"parentId": "21",
+	"dateAddedLocal": "30/06/2021, 16:36:13",
+	"dateAddedUTC": "2021-06-30T14:36:13.689Z"
+},{
+	"index": 37,
+	"title": "Customize your ZSH prompt with this one weird trick!",
+	"url": "https://javorszky.co.uk/2020/04/16/customize-your-zsh-prompt-with-this-one-weird-trick/",
+	"id": 411,
+	"parentId": "21",
+	"dateAddedLocal": "30/06/2021, 16:38:50",
+	"dateAddedUTC": "2021-06-30T14:38:50.005Z"
+},{
+	"index": 38,
+	"title": "GitHub - black7375/BlaCk-Void-Zsh: 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠",
+	"url": "https://github.com/black7375/BlaCk-Void-Zsh",
+	"id": 427,
+	"parentId": "21",
+	"dateAddedLocal": "02/07/2021, 21:38:14",
+	"dateAddedUTC": "2021-07-02T19:38:14.896Z"
+},{
+	"index": 39,
+	"title": "GitHub - sickill/dotfiles: My virtual home",
+	"url": "https://github.com/sickill/dotfiles",
+	"id": 438,
+	"parentId": "21",
+	"dateAddedLocal": "05/07/2021, 10:54:53",
+	"dateAddedUTC": "2021-07-05T08:54:53.809Z"
+},{
+	"index": 40,
+	"title": "My .ZSHRC – Tom Barbette",
+	"url": "https://www.tombarbette.be/my-zshrc/",
+	"id": 441,
+	"parentId": "21",
+	"dateAddedLocal": "06/07/2021, 12:41:24",
+	"dateAddedUTC": "2021-07-06T10:41:24.778Z"
+},{
+	"index": 41,
+	"title": "finnurtorfa/zsh: My zsh configuration",
+	"url": "https://github.com/finnurtorfa/zsh",
+	"id": 447,
+	"parentId": "21",
+	"dateAddedLocal": "07/07/2021, 09:01:33",
+	"dateAddedUTC": "2021-07-07T07:01:33.214Z"
+},{
+	"index": 42,
+	"title": "GitHub - ahmedelgabri/dotfiles: ~ 🍭 ~",
+	"url": "https://github.com.cnpmjs.org/ahmedelgabri/dotfiles/tree/main/nix",
+	"id": 462,
+	"parentId": "21",
+	"dateAddedLocal": "08/07/2021, 20:26:07",
+	"dateAddedUTC": "2021-07-08T18:26:07.215Z"
+},{
+	"index": 43,
+	"title": "ael-code/zsh-colored-man-pages: zsh plugin that colorifies man pages",
+	"url": "https://github.com/ael-code/zsh-colored-man-pages",
+	"id": 465,
+	"parentId": "21",
+	"dateAddedLocal": "08/07/2021, 20:26:57",
+	"dateAddedUTC": "2021-07-08T18:26:57.453Z"
+},{
+	"index": 44,
+	"title": "How to configure and setup zshrc for ZSH – Linux Hint",
+	"url": "https://linuxhint.com/configure-setup-zshrc-zsh/",
+	"id": 466,
+	"parentId": "21",
+	"dateAddedLocal": "08/07/2021, 20:27:09",
+	"dateAddedUTC": "2021-07-08T18:27:09.053Z"
+},{
+	"index": 45,
+	"title": "joshtronic/dotfiles: These are my dotfiles. There are many like them, but these are mine.",
+	"url": "https://github.com/joshtronic/dotfiles",
+	"id": 484,
+	"parentId": "21",
+	"dateAddedLocal": "10/07/2021, 22:05:29",
+	"dateAddedUTC": "2021-07-10T20:05:29.023Z"
+},{
+	"index": 46,
+	"title": "git.sr.ht",
+	"url": "https://git.sr.ht/~yerinalexey/",
+	"id": 486,
+	"parentId": "21",
+	"dateAddedLocal": "11/07/2021, 01:44:08",
+	"dateAddedUTC": "2021-07-10T23:44:08.980Z"
+},{
+	"index": 47,
+	"title": "BrodieRobertson/dotfiles: Various configuration files for programs that I use",
+	"url": "https://github.com/BrodieRobertson/dotfiles",
+	"id": 487,
+	"parentId": "21",
+	"dateAddedLocal": "11/07/2021, 18:07:20",
+	"dateAddedUTC": "2021-07-11T16:07:20.311Z"
+},{
+	"index": 48,
+	"title": "romkatv’s gists",
+	"url": "https://gist.github.com/romkatv",
+	"id": 488,
+	"parentId": "21",
+	"dateAddedLocal": "11/07/2021, 18:18:29",
+	"dateAddedUTC": "2021-07-11T16:18:29.558Z"
+},{
+	"index": 49,
+	"title": "kleinmann/dotfiles: A happy place.",
+	"url": "https://github.com/kleinmann/dotfiles",
+	"id": 522,
+	"parentId": "21",
+	"dateAddedLocal": "13/07/2021, 20:25:10",
+	"dateAddedUTC": "2021-07-13T18:25:10.418Z"
+},{
+	"index": 50,
+	"title": "WaylonWalker/dotfiles: My dotfiles",
+	"url": "https://github.com/WaylonWalker/dotfiles",
+	"id": 526,
+	"parentId": "21",
+	"dateAddedLocal": "14/07/2021, 08:08:37",
+	"dateAddedUTC": "2021-07-14T06:08:37.850Z"
+},{
+	"index": 51,
+	"title": "xenoterracide/dotfiles",
+	"url": "https://github.com/xenoterracide/dotfiles",
+	"id": 555,
+	"parentId": "21",
+	"dateAddedLocal": "19/07/2021, 20:31:53",
+	"dateAddedUTC": "2021-07-19T18:31:53.972Z"
 },{
 	"index": 2,
 	"title": "completion",
@@ -789,6 +824,78 @@
 	"dateAddedLocal": "09/06/2021, 13:41:49",
 	"dateAddedUTC": "2021-06-09T11:41:49.053Z"
 },{
+	"index": 20,
+	"title": "GitHub - therealklanni/purity: Pretty, minimal and fast ZSH prompt",
+	"url": "https://github.com/therealklanni/purity",
+	"id": 384,
+	"parentId": "91",
+	"dateAddedLocal": "24/06/2021, 20:23:14",
+	"dateAddedUTC": "2021-06-24T18:23:14.158Z"
+},{
+	"index": 21,
+	"title": "GitHub - aarnphm/simple: Pretty, minimal and fast ZSH prompt",
+	"url": "https://github.com/aarnphm/simple",
+	"id": 385,
+	"parentId": "91",
+	"dateAddedLocal": "24/06/2021, 20:28:12",
+	"dateAddedUTC": "2021-06-24T18:28:12.937Z"
+},{
+	"index": 22,
+	"title": "GitHub - sindresorhus/pure: Pretty, minimal and fast ZSH prompt",
+	"url": "https://github.com/sindresorhus/pure",
+	"id": 386,
+	"parentId": "91",
+	"dateAddedLocal": "24/06/2021, 20:28:20",
+	"dateAddedUTC": "2021-06-24T18:28:20.091Z"
+},{
+	"index": 23,
+	"title": "GitHub - romkatv/zsh4humans at v5",
+	"url": "https://github.com/romkatv/zsh4humans/tree/v5",
+	"id": 387,
+	"parentId": "91",
+	"dateAddedLocal": "24/06/2021, 20:30:33",
+	"dateAddedUTC": "2021-06-24T18:30:33.588Z"
+},{
+	"index": 24,
+	"title": "A Daysleeper's Interface",
+	"url": "https://blog.ysmood.org/my-ys-terminal-theme/",
+	"id": 513,
+	"parentId": "91",
+	"dateAddedLocal": "12/07/2021, 10:54:24",
+	"dateAddedUTC": "2021-07-12T08:54:24.869Z"
+},{
+	"index": 25,
+	"title": "Home | zsh.fyi",
+	"url": "https://zsh.fyi/",
+	"id": 515,
+	"parentId": "91",
+	"dateAddedLocal": "12/07/2021, 15:10:54",
+	"dateAddedUTC": "2021-07-12T13:10:54.304Z"
+},{
+	"index": 26,
+	"title": "Zsh Autosuggestions: A beginner's guide for setting up autocomplete on OhMyZsh & Hyper with plugins & themes! - DEV Community",
+	"url": "https://dev.to/kumar_abhirup/a-beginner-s-guide-for-setting-up-autocomplete-on-ohmyzsh-hyper-with-plugins-themes-47f2",
+	"id": 516,
+	"parentId": "91",
+	"dateAddedLocal": "12/07/2021, 17:37:37",
+	"dateAddedUTC": "2021-07-12T15:37:37.943Z"
+},{
+	"index": 27,
+	"title": "Jazz Up Your “ZSH” Terminal In Seven Steps — A Visual Guide",
+	"url": "https://www.freecodecamp.org/news/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38/",
+	"id": 517,
+	"parentId": "91",
+	"dateAddedLocal": "12/07/2021, 17:39:40",
+	"dateAddedUTC": "2021-07-12T15:39:40.578Z"
+},{
+	"index": 28,
+	"title": "Oh-My-Zsh to Prezto - 4 seconds faster · Siddharth Kannan's Blog",
+	"url": "https://blog.siddharthkannan.in/shell/zsh/prezto/2019/04/06/oh-my-zsh-to-prezto/",
+	"id": 518,
+	"parentId": "91",
+	"dateAddedLocal": "12/07/2021, 17:39:56",
+	"dateAddedUTC": "2021-07-12T15:39:56.739Z"
+},{
 	"index": 13,
 	"title": "LS_COLORS",
 	"id": 228,
@@ -939,102 +1046,485 @@
 	"dateAddedLocal": "09/06/2021, 12:51:24",
 	"dateAddedUTC": "2021-06-09T10:51:24.917Z"
 },{
-	"index": 2,
-	"title": "dnscrypt",
-	"id": 37,
-	"parentId": "1",
-	"dateAddedLocal": "08/06/2021, 18:33:35",
-	"dateAddedUTC": "2021-06-08T16:33:35.800Z"
+	"index": 15,
+	"title": "dotphiles · GitHub",
+	"url": "https://github.com/dotphiles",
+	"id": 374,
+	"parentId": "20",
+	"dateAddedLocal": "22/06/2021, 12:54:01",
+	"dateAddedUTC": "2021-06-22T10:54:01.880Z"
+},{
+	"index": 16,
+	"title": "what is a good Oh-My-Zsh alternative? : zsh",
+	"url": "https://www.reddit.com/r/zsh/comments/bj6rwz/what_is_a_good_ohmyzsh_alternative/",
+	"id": 390,
+	"parentId": "20",
+	"dateAddedLocal": "25/06/2021, 22:32:52",
+	"dateAddedUTC": "2021-06-25T20:32:52.662Z"
+},{
+	"index": 17,
+	"title": "How to define and load your own shell function in zsh - Unix & Linux Stack Exchange",
+	"url": "https://unix.stackexchange.com/questions/33255/how-to-define-and-load-your-own-shell-function-in-zsh/33898#33898",
+	"id": 391,
+	"parentId": "20",
+	"dateAddedLocal": "25/06/2021, 22:41:45",
+	"dateAddedUTC": "2021-06-25T20:41:45.422Z"
+},{
+	"index": 18,
+	"title": "GitHub - hpcsc/dotfiles: my personal dotfiles",
+	"url": "https://github.com/hpcsc/dotfiles",
+	"id": 392,
+	"parentId": "20",
+	"dateAddedLocal": "25/06/2021, 22:52:15",
+	"dateAddedUTC": "2021-06-25T20:52:15.279Z"
+},{
+	"index": 19,
+	"title": "GitHub - ahmedelgabri/dotfiles: ~ 🍭 ~",
+	"url": "https://github.com/ahmedelgabri/dotfiles",
+	"id": 393,
+	"parentId": "20",
+	"dateAddedLocal": "26/06/2021, 08:52:15",
+	"dateAddedUTC": "2021-06-26T06:52:15.632Z"
+},{
+	"index": 20,
+	"title": "Speed up ZSH loading of custom functions",
+	"url": "https://pnguyen.io/posts/speed-up-zsh-custom-functions/",
+	"id": 394,
+	"parentId": "20",
+	"dateAddedLocal": "26/06/2021, 08:52:31",
+	"dateAddedUTC": "2021-06-26T06:52:31.273Z"
+},{
+	"index": 21,
+	"title": "zsh - What does `zstyle` do? - Unix & Linux Stack Exchange",
+	"url": "https://unix.stackexchange.com/questions/214657/what-does-zstyle-do",
+	"id": 412,
+	"parentId": "20",
+	"dateAddedLocal": "30/06/2021, 16:39:47",
+	"dateAddedUTC": "2021-06-30T14:39:47.544Z"
+},{
+	"index": 22,
+	"title": "terminal - ZSH prompt issue : commands shifted to the right on one hundred space characters when doing completions, i.e using TAB key - Ask Different",
+	"url": "https://apple.stackexchange.com/questions/388763/zsh-prompt-issue-commands-shifted-to-the-right-on-one-hundred-space-characters",
+	"id": 413,
+	"parentId": "20",
+	"dateAddedLocal": "30/06/2021, 16:53:21",
+	"dateAddedUTC": "2021-06-30T14:53:21.129Z"
+},{
+	"index": 23,
+	"title": "Master Your Z Shell with These Outrageously Useful Tips - Blog - Reason I Am Here - Nacho Caballero",
+	"url": "https://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/",
+	"id": 414,
+	"parentId": "20",
+	"dateAddedLocal": "30/06/2021, 16:55:53",
+	"dateAddedUTC": "2021-06-30T14:55:53.670Z"
+},{
+	"index": 24,
+	"title": "Speeding up zsh and Oh-My-Zsh | JonLuca’s Blog",
+	"url": "https://blog.jonlu.ca/posts/speeding-up-zsh",
+	"id": 415,
+	"parentId": "20",
+	"dateAddedLocal": "30/06/2021, 22:27:40",
+	"dateAddedUTC": "2021-06-30T20:27:40.211Z"
+},{
+	"index": 25,
+	"title": "permissions - How to recursively chmod all directories except files? - Super User",
+	"url": "https://superuser.com/questions/91935/how-to-recursively-chmod-all-directories-except-files",
+	"id": 417,
+	"parentId": "20",
+	"dateAddedLocal": "01/07/2021, 15:28:56",
+	"dateAddedUTC": "2021-07-01T13:28:56.885Z"
+},{
+	"index": 26,
+	"title": "tips_and_tricks/bash_tricks.sh at master · nachocab/tips_and_tricks · GitHub",
+	"url": "https://github.com/nachocab/tips_and_tricks/blob/master/bash_tricks.sh",
+	"id": 421,
+	"parentId": "20",
+	"dateAddedLocal": "02/07/2021, 00:33:58",
+	"dateAddedUTC": "2021-07-01T22:33:58.062Z"
+},{
+	"index": 27,
+	"title": "75 Zsh Commands, Plugins, Aliases and Tools - SitePoint",
+	"url": "https://www.sitepoint.com/zsh-commands-plugins-aliases-tools/",
+	"id": 434,
+	"parentId": "20",
+	"dateAddedLocal": "04/07/2021, 18:15:18",
+	"dateAddedUTC": "2021-07-04T16:15:18.375Z"
+},{
+	"index": 28,
+	"title": "calc.plugin.zsh/calc.plugin.zsh at master · arzzen/calc.plugin.zsh · GitHub",
+	"url": "https://github.com/arzzen/calc.plugin.zsh/blob/master/calc.plugin.zsh",
+	"id": 435,
+	"parentId": "20",
+	"dateAddedLocal": "04/07/2021, 18:17:16",
+	"dateAddedUTC": "2021-07-04T16:17:16.857Z"
+},{
+	"index": 29,
+	"title": "Add git status to zsh prompt | Sal Ferrarello",
+	"url": "https://salferrarello.com/zsh-git-status-prompt/",
+	"id": 436,
+	"parentId": "20",
+	"dateAddedLocal": "04/07/2021, 20:03:06",
+	"dateAddedUTC": "2021-07-04T18:03:06.148Z"
+},{
+	"index": 30,
+	"title": "Josh Dick » My Git Prompt for Zsh, Revisited",
+	"url": "https://joshdick.net/2017/06/08/my_git_prompt_for_zsh_revisited.html",
+	"id": 437,
+	"parentId": "20",
+	"dateAddedLocal": "04/07/2021, 20:04:57",
+	"dateAddedUTC": "2021-07-04T18:04:57.962Z"
+},{
+	"index": 31,
+	"title": "ZINIT",
+	"id": 446,
+	"parentId": "20",
+	"dateAddedLocal": "07/07/2021, 09:01:10",
+	"dateAddedUTC": "2021-07-07T07:01:10.620Z"
 },{
 	"index": 0,
-	"title": "Install dnscrypt-proxy for MacOS – Eligible Blog",
-	"url": "https://eligiblestore.com/blog/2020/07/04/secure-your-dns-over-https/",
-	"id": 36,
-	"parentId": "37",
-	"dateAddedLocal": "08/06/2021, 18:33:13",
-	"dateAddedUTC": "2021-06-08T16:33:13.119Z"
+	"title": "zinit Code Example",
+	"url": "https://www.codegrepper.com/code-examples/shell/zinit",
+	"id": 445,
+	"parentId": "446",
+	"dateAddedLocal": "07/07/2021, 09:01:01",
+	"dateAddedUTC": "2021-07-07T07:01:01.574Z"
 },{
 	"index": 1,
-	"title": "DoH on macOS with dnscrypt-proxy",
-	"url": "https://stanislas.blog/2019/11/doh-macos-dnscrypt-proxy/",
-	"id": 38,
-	"parentId": "37",
-	"dateAddedLocal": "08/06/2021, 18:34:21",
-	"dateAddedUTC": "2021-06-08T16:34:21.192Z"
+	"title": "zinit/mod-install.sh at master · zdharma/zinit",
+	"url": "https://github.com/zdharma/zinit/blob/master/doc/mod-install.sh",
+	"id": 451,
+	"parentId": "446",
+	"dateAddedLocal": "07/07/2021, 14:14:32",
+	"dateAddedUTC": "2021-07-07T12:14:32.011Z"
 },{
 	"index": 2,
-	"title": "DNSCrypt on Mac OSX [dnscrypt-proxy] : GoroHome",
-	"url": "https://www.reddit.com/r/GoroHome/comments/ej9nv7/dnscrypt_on_mac_osx_dnscryptproxy",
-	"id": 39,
-	"parentId": "37",
-	"dateAddedLocal": "08/06/2021, 18:34:45",
-	"dateAddedUTC": "2021-06-08T16:34:45.144Z"
+	"title": "Zinit Module has been built correctly but doesn't exit · Issue #435 · zdharma/zinit",
+	"url": "https://github.com/zdharma/zinit/issues/435",
+	"id": 452,
+	"parentId": "446",
+	"dateAddedLocal": "07/07/2021, 14:15:05",
+	"dateAddedUTC": "2021-07-07T12:15:05.742Z"
 },{
 	"index": 3,
-	"title": "DNSCrypt version 2 - Official Project Home Page",
-	"url": "https://dnscrypt.info/",
-	"id": 40,
-	"parentId": "37",
-	"dateAddedLocal": "08/06/2021, 18:35:08",
-	"dateAddedUTC": "2021-06-08T16:35:08.180Z"
+	"title": "Does not work with zinit · Issue #110 · zsh-users/zsh-history-substring-search",
+	"url": "https://github.com/zsh-users/zsh-history-substring-search/issues/110",
+	"id": 455,
+	"parentId": "446",
+	"dateAddedLocal": "08/07/2021, 01:14:52",
+	"dateAddedUTC": "2021-07-07T23:14:52.788Z"
 },{
 	"index": 4,
-	"title": "Anonymized DNS · DNSCrypt/dnscrypt-proxy Wiki · GitHub",
-	"url": "https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS",
-	"id": 41,
-	"parentId": "37",
-	"dateAddedLocal": "08/06/2021, 18:35:27",
-	"dateAddedUTC": "2021-06-08T16:35:27.012Z"
+	"title": "zinit · GitHub Topics · GitHub",
+	"url": "https://github.com.cnpmjs.org/topics/zinit?o=desc&s=updated",
+	"id": 461,
+	"parentId": "446",
+	"dateAddedLocal": "08/07/2021, 15:31:14",
+	"dateAddedUTC": "2021-07-08T13:31:14.449Z"
 },{
 	"index": 5,
-	"title": "Dnscrypt Menu",
-	"url": "https://awesomeopensource.com/project/JayBrown/DNSCrypt-Menu",
-	"id": 42,
-	"parentId": "37",
-	"dateAddedLocal": "08/06/2021, 18:35:46",
-	"dateAddedUTC": "2021-06-08T16:35:46.883Z"
+	"title": "Prepare a set of Rust tools that can be used with zsh in zinit - DEV Community",
+	"url": "https://dev.to/kamekuremaisuke/prepare-a-set-of-rust-tools-that-can-be-used-with-zsh-in-zinit-49ae",
+	"id": 463,
+	"parentId": "446",
+	"dateAddedLocal": "08/07/2021, 20:26:26",
+	"dateAddedUTC": "2021-07-08T18:26:26.016Z"
 },{
 	"index": 6,
-	"title": "Installed PiHole and DNSCrypt-Proxy then what? – Eligible Blog",
-	"url": "https://eligiblestore.com/blog/2020/08/21/installed-pihole-and-dnscrypt-proxy-then-what/",
-	"id": 43,
-	"parentId": "37",
-	"dateAddedLocal": "08/06/2021, 18:36:15",
-	"dateAddedUTC": "2021-06-08T16:36:15.963Z"
+	"title": "arul/dotfiles: my dots - dotfiles - gitea",
+	"url": "https://git.arul.io/arul/dotfiles",
+	"id": 464,
+	"parentId": "446",
+	"dateAddedLocal": "08/07/2021, 20:26:41",
+	"dateAddedUTC": "2021-07-08T18:26:41.606Z"
 },{
 	"index": 7,
-	"title": "Highly-available dnscrypt-proxy client setup on OSX with DNSSEC. · GitHub",
-	"url": "https://gist.github.com/SimonDegraeve/ebaea058822dede2a6d0",
-	"id": 52,
-	"parentId": "37",
-	"dateAddedLocal": "08/06/2021, 18:39:45",
-	"dateAddedUTC": "2021-06-08T16:39:45.396Z"
+	"title": ".zshrc.zinit",
+	"url": "https://gist.github.com/numToStr/53a0bf7e8ac9c5aa98d52c112980fb0f",
+	"id": 468,
+	"parentId": "446",
+	"dateAddedLocal": "08/07/2021, 20:27:42",
+	"dateAddedUTC": "2021-07-08T18:27:42.831Z"
 },{
 	"index": 8,
-	"title": "Setup dnsmasq on OS X · GitHub",
-	"url": "https://gist.github.com/ogrrd/5831371",
-	"id": 53,
-	"parentId": "37",
-	"dateAddedLocal": "08/06/2021, 18:40:10",
-	"dateAddedUTC": "2021-06-08T16:40:10.954Z"
+	"title": "zsh-autosuggestions doesn't work until the second prompt · Issue #268 · zdharma/zinit",
+	"url": "https://github.com/zdharma/zinit/issues/268",
+	"id": 556,
+	"parentId": "446",
+	"dateAddedLocal": "19/07/2021, 20:33:29",
+	"dateAddedUTC": "2021-07-19T18:33:29.973Z"
 },{
-	"index": 9,
-	"title": "Installation · DNSCrypt/dnscrypt-proxy Wiki · GitHub",
-	"url": "https://github.com/DNSCrypt/dnscrypt-proxy/wiki/installation#installing-dnscrypt-proxy-on-macos-as-a-system-service",
-	"id": 124,
-	"parentId": "37",
-	"dateAddedLocal": "08/06/2021, 19:57:52",
-	"dateAddedUTC": "2021-06-08T17:57:52.856Z"
+	"index": 32,
+	"title": "performances",
+	"id": 460,
+	"parentId": "20",
+	"dateAddedLocal": "08/07/2021, 12:47:46",
+	"dateAddedUTC": "2021-07-08T10:47:46.483Z"
 },{
-	"index": 10,
-	"title": "Unbound DNS Server Tutorial @ Calomel.org",
-	"url": "https://calomel.org/unbound_dns.html",
-	"id": 281,
-	"parentId": "37",
-	"dateAddedLocal": "09/06/2021, 13:02:15",
-	"dateAddedUTC": "2021-06-09T11:02:15.113Z"
+	"index": 0,
+	"title": "Speed Test: Check the Existence of a Command in Bash and Zsh - Top Bug Net",
+	"url": "https://www.topbug.net/blog/2016/10/11/speed-test-check-the-existence-of-a-command-in-bash-and-zsh/",
+	"id": 459,
+	"parentId": "460",
+	"dateAddedLocal": "08/07/2021, 12:47:35",
+	"dateAddedUTC": "2021-07-08T10:47:35.683Z"
+},{
+	"index": 1,
+	"title": "Comparison of ZSH frameworks and plugin managers",
+	"url": "https://gist.github.com/laggardkernel/4a4c4986ccdcaf47b91e8227f9868ded",
+	"id": 490,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 18:40:34",
+	"dateAddedUTC": "2021-07-11T16:40:34.510Z"
+},{
+	"index": 2,
+	"title": "rossmacarthur/zsh-plugin-manager-benchmark: Benchmark the speed of different Zsh plugin managers",
+	"url": "https://github.com/rossmacarthur/zsh-plugin-manager-benchmark",
+	"id": 492,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:20:20",
+	"dateAddedUTC": "2021-07-11T18:20:20.040Z"
 },{
 	"index": 3,
+	"title": "shellspec/shellbench: A benchmark utility for POSIX shell comparison",
+	"url": "https://github.com/shellspec/shellbench",
+	"id": 493,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:20:40",
+	"dateAddedUTC": "2021-07-11T18:20:40.995Z"
+},{
+	"index": 4,
+	"title": "Measure zsh prompt latency with various themes",
+	"url": "https://gist.github.com/romkatv/d882e2c5abd5b3b05e1d81a28a7fb3aa",
+	"id": 494,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:20:52",
+	"dateAddedUTC": "2021-07-11T18:20:52.675Z"
+},{
+	"index": 5,
+	"title": "romkatv’s gists",
+	"url": "https://gist.github.com/romkatv?page=1",
+	"id": 495,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:21:05",
+	"dateAddedUTC": "2021-07-11T18:21:05.310Z"
+},{
+	"index": 6,
+	"title": "zsh-prompt-benchmark/zsh-prompt-benchmark.plugin.zsh at master · romkatv/zsh-prompt-benchmark",
+	"url": "https://github.com/romkatv/zsh-prompt-benchmark/blob/master/zsh-prompt-benchmark.plugin.zsh",
+	"id": 496,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:21:16",
+	"dateAddedUTC": "2021-07-11T18:21:16.325Z"
+},{
+	"index": 7,
+	"title": "paulmelnikow/zsh-startup-timer: A zsh plugin to print the time it takes for the shell to start up",
+	"url": "https://github.com/paulmelnikow/zsh-startup-timer",
+	"id": 497,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:21:25",
+	"dateAddedUTC": "2021-07-11T18:21:25.015Z"
+},{
+	"index": 8,
+	"title": "romkatv/zsh-defer: Deferred execution of Zsh commands",
+	"url": "https://github.com/romkatv/zsh-defer",
+	"id": 498,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:22:29",
+	"dateAddedUTC": "2021-07-11T18:22:29.097Z"
+},{
+	"index": 9,
+	"title": "compinstall location place · Issue #521 · zdharma/zinit",
+	"url": "https://github.com/zdharma/zinit/issues/521",
+	"id": 499,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:22:40",
+	"dateAddedUTC": "2021-07-11T18:22:40.776Z"
+},{
+	"index": 10,
+	"title": "dpaste: My zshrc",
+	"url": "https://dpaste.com/E3RMC3P6X",
+	"id": 500,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:22:46",
+	"dateAddedUTC": "2021-07-11T18:22:46.970Z"
+},{
+	"index": 11,
+	"title": "Zsh-Packages",
+	"url": "https://github.com/Zsh-Packages",
+	"id": 501,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:22:59",
+	"dateAddedUTC": "2021-07-11T18:22:59.537Z"
+},{
+	"index": 12,
+	"title": "You may not need Oh My Zsh by Josh Sherman",
+	"url": "https://joshtronic.com/2017/02/12/you-may-not-need-oh-my-zsh/",
+	"id": 502,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:23:16",
+	"dateAddedUTC": "2021-07-11T18:23:16.359Z"
+},{
+	"index": 13,
+	"title": "How do I use to the zsh 'command' option to execute a the builtin 'source' command? - Stack Overflow",
+	"url": "https://stackoverflow.com/questions/65659213/how-do-i-use-to-the-zsh-command-option-to-execute-a-the-builtin-source-comma",
+	"id": 503,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:23:27",
+	"dateAddedUTC": "2021-07-11T18:23:27.380Z"
+},{
+	"index": 14,
+	"title": "dotfiles/install at main · joshtronic/dotfiles",
+	"url": "https://github.com/joshtronic/dotfiles/blob/main/install",
+	"id": 504,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:23:33",
+	"dateAddedUTC": "2021-07-11T18:23:33.068Z"
+},{
+	"index": 15,
+	"title": "Menchen/zinit: Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.",
+	"url": "https://github.com/Menchen/zinit#calling-compinit-with-turbo-mode",
+	"id": 505,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 20:24:08",
+	"dateAddedUTC": "2021-07-11T18:24:08.709Z"
+},{
+	"index": 16,
+	"title": "Profiling zsh shell scripts — Xebia Blog",
+	"url": "https://xebia.com/blog/profiling-zsh-shell-scripts/",
+	"id": 506,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 21:10:19",
+	"dateAddedUTC": "2021-07-11T19:10:19.381Z"
+},{
+	"index": 17,
+	"title": "Profiling ZSH startup time | Kevin Burke",
+	"url": "https://kevin.burke.dev/kevin/profiling-zsh-startup-time/",
+	"id": 507,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 21:11:45",
+	"dateAddedUTC": "2021-07-11T19:11:45.911Z"
+},{
+	"index": 18,
+	"title": "Lazy-load nvm to Reduce ZSH's Startup Time",
+	"url": "https://armno.in.th/2020/08/24/lazyload-nvm-to-reduce-zsh-startup-time/",
+	"id": 508,
+	"parentId": "460",
+	"dateAddedLocal": "11/07/2021, 21:32:33",
+	"dateAddedUTC": "2021-07-11T19:32:33.164Z"
+},{
+	"index": 19,
+	"title": "How to profile your zsh startup time – Benjamin Esham",
+	"url": "https://esham.io/2018/02/zsh-profiling",
+	"id": 520,
+	"parentId": "460",
+	"dateAddedLocal": "13/07/2021, 19:47:25",
+	"dateAddedUTC": "2021-07-13T17:47:25.815Z"
+},{
+	"index": 20,
+	"title": "Decreasing my zsh startup time",
+	"url": "http://kleinmann.org/2015/01/18/decreasing-my-zsh-startup-time/",
+	"id": 527,
+	"parentId": "460",
+	"dateAddedLocal": "14/07/2021, 08:08:51",
+	"dateAddedUTC": "2021-07-14T06:08:51.360Z"
+},{
+	"index": 33,
+	"title": "How to Check Variables in ZSH – Unhexium",
+	"url": "https://unhexium.net/zsh/how-to-check-variables-in-zsh/",
+	"id": 467,
+	"parentId": "20",
+	"dateAddedLocal": "08/07/2021, 20:27:16",
+	"dateAddedUTC": "2021-07-08T18:27:16.399Z"
+},{
+	"index": 34,
+	"title": "romkatv comments on Plugin Manager for ZSH",
+	"url": "https://old.reddit.com/r/zsh/comments/dyhi7m/plugin_manager_for_zsh/f81n4wq/",
+	"id": 485,
+	"parentId": "20",
+	"dateAddedLocal": "11/07/2021, 01:23:30",
+	"dateAddedUTC": "2021-07-10T23:23:30.670Z"
+},{
+	"index": 35,
+	"title": "tarjoilija/zgen: A lightweight and simple plugin manager for ZSH",
+	"url": "https://github.com/tarjoilija/zgen",
+	"id": 491,
+	"parentId": "20",
+	"dateAddedLocal": "11/07/2021, 20:19:45",
+	"dateAddedUTC": "2021-07-11T18:19:45.392Z"
+},{
+	"index": 36,
+	"title": "Zsh | helpful.wiki",
+	"url": "https://helpful.wiki/zsh",
+	"id": 510,
+	"parentId": "20",
+	"dateAddedLocal": "12/07/2021, 09:53:05",
+	"dateAddedUTC": "2021-07-12T07:53:05.710Z"
+},{
+	"index": 37,
+	"title": "Zsh/Bash startup files loading order (.bashrc, .zshrc etc.) | by Raja Sekar Durairaj | Medium",
+	"url": "https://medium.com/@rajsek/zsh-bash-startup-files-loading-order-bashrc-zshrc-etc-e30045652f2e",
+	"id": 511,
+	"parentId": "20",
+	"dateAddedLocal": "12/07/2021, 10:32:02",
+	"dateAddedUTC": "2021-07-12T08:32:02.171Z"
+},{
+	"index": 38,
+	"title": "Parts of the zsh Shell in Shell Scripting Tutorial 21 July 2021 - Learn Parts of the zsh Shell in Shell Scripting Tutorial (3380) | Wisdom Jobs India",
+	"url": "https://www.wisdomjobs.com/e-university/shell-scripting-tutorial-174/parts-of-the-zsh-shell-3380.html",
+	"id": 561,
+	"parentId": "20",
+	"dateAddedLocal": "21/07/2021, 12:31:23",
+	"dateAddedUTC": "2021-07-21T10:31:23.839Z"
+},{
+	"index": 39,
+	"title": "typeset (Learning the Korn Shell, 2nd Edition)",
+	"url": "https://docstore.mik.ua/orelly/unix3/korn/ch06_05.htm",
+	"id": 562,
+	"parentId": "20",
+	"dateAddedLocal": "21/07/2021, 12:38:21",
+	"dateAddedUTC": "2021-07-21T10:38:21.460Z"
+},{
+	"index": 40,
+	"title": "zsh: 16 Options",
+	"url": "https://zsh.sourceforge.io/Doc/Release/Options.html#Changing-Directories",
+	"id": 564,
+	"parentId": "20",
+	"dateAddedLocal": "21/07/2021, 16:17:59",
+	"dateAddedUTC": "2021-07-21T14:17:59.987Z"
+},{
+	"index": 41,
+	"title": "Most Used Commands in Your Shell — tech.serhatteker.com",
+	"url": "https://tech.serhatteker.com/post/2019-10/most-used-commands-in-shell/",
+	"id": 565,
+	"parentId": "20",
+	"dateAddedLocal": "21/07/2021, 16:18:11",
+	"dateAddedUTC": "2021-07-21T14:18:11.720Z"
+},{
+	"index": 42,
+	"title": "How to Set Permanently $PATH on Linux/Unix — tech.serhatteker.com",
+	"url": "https://tech.serhatteker.com/post/2020-01/how-to-set-path-permanently-on-linux-unix/",
+	"id": 566,
+	"parentId": "20",
+	"dateAddedLocal": "21/07/2021, 16:18:36",
+	"dateAddedUTC": "2021-07-21T14:18:36.479Z"
+},{
+	"index": 43,
+	"title": "A User's Guide to the Z-Shell",
+	"url": "https://zsh.sourceforge.io/Guide/zshguide02.html#l24",
+	"id": 567,
+	"parentId": "20",
+	"dateAddedLocal": "21/07/2021, 16:19:03",
+	"dateAddedUTC": "2021-07-21T14:19:03.914Z"
+},{
+	"index": 44,
+	"title": "typeset(1) (man pages section 1: User Commands)",
+	"url": "https://docs.oracle.com/cd/E19683-01/816-0210/6m6nb7mnq/index.html",
+	"id": 568,
+	"parentId": "20",
+	"dateAddedLocal": "21/07/2021, 16:19:36",
+	"dateAddedUTC": "2021-07-21T14:19:36.823Z"
+},{
+	"index": 1,
 	"title": "Security Tests",
 	"id": 46,
 	"parentId": "1",
@@ -1074,154 +1564,38 @@
 	"dateAddedUTC": "2021-06-08T16:38:23.850Z"
 },{
 	"index": 4,
-	"title": "MacOs Security",
-	"id": 51,
-	"parentId": "1",
-	"dateAddedLocal": "08/06/2021, 18:39:26",
-	"dateAddedUTC": "2021-06-08T16:39:26.793Z"
-},{
-	"index": 0,
-	"title": "GitHub - drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS",
-	"url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
-	"id": 50,
-	"parentId": "51",
-	"dateAddedLocal": "08/06/2021, 18:39:08",
-	"dateAddedUTC": "2021-06-08T16:39:08.684Z"
+	"title": "WebRTC Leak Test - BrowserLeaks",
+	"url": "https://browserleaks.com/webrtc",
+	"id": 431,
+	"parentId": "46",
+	"dateAddedLocal": "03/07/2021, 22:22:45",
+	"dateAddedUTC": "2021-07-03T20:22:45.278Z"
 },{
 	"index": 5,
-	"title": "Utility Sofware",
-	"id": 58,
-	"parentId": "1",
-	"dateAddedLocal": "08/06/2021, 18:43:31",
-	"dateAddedUTC": "2021-06-08T16:43:31.214Z"
-},{
-	"index": 0,
-	"title": "GitRepositories",
-	"id": 59,
-	"parentId": "58",
-	"dateAddedLocal": "08/06/2021, 18:43:31",
-	"dateAddedUTC": "2021-06-08T16:43:31.215Z"
-},{
-	"index": 0,
-	"title": "◉ Installation Guide",
-	"url": "https://secure.phabricator.com/book/phabricator/article/installation_guide/",
-	"id": 57,
-	"parentId": "59",
-	"dateAddedLocal": "08/06/2021, 18:42:51",
-	"dateAddedUTC": "2021-06-08T16:42:51.998Z"
+	"title": "Cover Your Tracks",
+	"url": "https://coveryourtracks.eff.org/",
+	"id": 432,
+	"parentId": "46",
+	"dateAddedLocal": "03/07/2021, 22:23:22",
+	"dateAddedUTC": "2021-07-03T20:23:22.521Z"
 },{
 	"index": 6,
-	"title": "MACOS-Install",
-	"id": 66,
-	"parentId": "1",
-	"dateAddedLocal": "08/06/2021, 18:47:03",
-	"dateAddedUTC": "2021-06-08T16:47:03.272Z"
+	"title": "privacy technology | Wilders Security Forums",
+	"url": "https://www.wilderssecurity.com/forums/privacy-technology.40/",
+	"id": 440,
+	"parentId": "46",
+	"dateAddedLocal": "06/07/2021, 01:25:04",
+	"dateAddedUTC": "2021-07-05T23:25:04.826Z"
 },{
-	"index": 0,
-	"title": "MacOS Development workspace 2021 - DEV Community",
-	"url": "https://dev.to/jeissonflorez29/macos-development-workspace-2021-2ld6",
-	"id": 65,
-	"parentId": "66",
-	"dateAddedLocal": "08/06/2021, 18:46:44",
-	"dateAddedUTC": "2021-06-08T16:46:44.818Z"
-},{
-	"index": 1,
-	"title": "Configure Zsh Options & Plugins for Productivity in macOS's Default Shell | Viget",
-	"url": "https://www.viget.com/articles/zsh-config-productivity-plugins-for-mac-oss-default-shell/",
-	"id": 71,
-	"parentId": "66",
-	"dateAddedLocal": "08/06/2021, 19:26:19",
-	"dateAddedUTC": "2021-06-08T17:26:19.864Z"
+	"index": 7,
+	"title": "mitmproxy - an interactive HTTPS proxy",
+	"url": "https://mitmproxy.org/",
+	"id": 558,
+	"parentId": "46",
+	"dateAddedLocal": "20/07/2021, 13:44:52",
+	"dateAddedUTC": "2021-07-20T11:44:52.350Z"
 },{
 	"index": 2,
-	"title": "The Eclectic Light Company – Macs, painting, and more",
-	"url": "https://eclecticlight.co/",
-	"id": 105,
-	"parentId": "66",
-	"dateAddedLocal": "08/06/2021, 19:47:47",
-	"dateAddedUTC": "2021-06-08T17:47:47.280Z"
-},{
-	"index": 3,
-	"title": "GitHub - munki/macadmin-scripts: Scripts of possible interest to macOS admins",
-	"url": "https://github.com/munki/macadmin-scripts",
-	"id": 106,
-	"parentId": "66",
-	"dateAddedLocal": "08/06/2021, 19:48:15",
-	"dateAddedUTC": "2021-06-08T17:48:15.932Z"
-},{
-	"index": 4,
-	"title": "Use Homebrew zsh Instead of the OS X Default : Rick Cogley Central",
-	"url": "https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/",
-	"id": 107,
-	"parentId": "66",
-	"dateAddedLocal": "08/06/2021, 19:48:48",
-	"dateAddedUTC": "2021-06-08T17:48:48.810Z"
-},{
-	"index": 5,
-	"title": "pwnsdx’s macos scripts · GitHub",
-	"url": "https://gist.github.com/pwnsdx/",
-	"id": 119,
-	"parentId": "66",
-	"dateAddedLocal": "08/06/2021, 19:54:23",
-	"dateAddedUTC": "2021-06-08T17:54:23.366Z"
-},{
-	"index": 6,
-	"title": "How to completely prohibit MacOS Big Sur automatic update and remove update flag and notification - 编程知识",
-	"url": "https://cdmana.com/2021/04/20210429192342471b.html",
-	"id": 120,
-	"parentId": "66",
-	"dateAddedLocal": "08/06/2021, 19:55:17",
-	"dateAddedUTC": "2021-06-08T17:55:17.320Z"
-},{
-	"index": 7,
-	"title": "GitHub - sh0shin/macosetup: Command line macOS setup & configuration",
-	"url": "https://github.com/sh0shin/macosetup",
-	"id": 121,
-	"parentId": "66",
-	"dateAddedLocal": "08/06/2021, 19:55:34",
-	"dateAddedUTC": "2021-06-08T17:55:34.774Z"
-},{
-	"index": 8,
-	"title": "How to disable the quarantine popup in macOS Big Sur - Hiring Engineers",
-	"url": "https://hiringengineersbook.com/post/disable-quarantine/",
-	"id": 122,
-	"parentId": "66",
-	"dateAddedLocal": "08/06/2021, 19:55:48",
-	"dateAddedUTC": "2021-06-08T17:55:48.014Z"
-},{
-	"index": 9,
-	"title": "Updater For macOS Launch Services · GitHub",
-	"url": "https://gist.github.com/thegranddesign/fef254a615c6d1bf67f83c176da8869d",
-	"id": 123,
-	"parentId": "66",
-	"dateAddedLocal": "08/06/2021, 19:57:38",
-	"dateAddedUTC": "2021-06-08T17:57:38.344Z"
-},{
-	"index": 10,
-	"title": "How to install Java JDK on macOS - Mkyong.com",
-	"url": "https://mkyong.com/java/how-to-install-java-on-mac-osx/",
-	"id": 162,
-	"parentId": "66",
-	"dateAddedLocal": "09/06/2021, 12:17:07",
-	"dateAddedUTC": "2021-06-09T10:17:07.208Z"
-},{
-	"index": 11,
-	"title": "macOS Configuration | Alchemists",
-	"url": "https://www.alchemists.io/projects/mac_os-config/",
-	"id": 348,
-	"parentId": "66",
-	"dateAddedLocal": "09/06/2021, 13:44:14",
-	"dateAddedUTC": "2021-06-09T11:44:14.037Z"
-},{
-	"index": 12,
-	"title": "GitHub - bkuhlmann/mac_os-config: Shell scripts for customized macOS machine setup and configuration.",
-	"url": "https://github.com/bkuhlmann/mac_os-config",
-	"id": 349,
-	"parentId": "66",
-	"dateAddedLocal": "09/06/2021, 13:46:31",
-	"dateAddedUTC": "2021-06-09T11:46:31.701Z"
-},{
-	"index": 7,
 	"title": "Linux",
 	"id": 73,
 	"parentId": "1",
@@ -1902,7 +2276,435 @@
 	"dateAddedLocal": "09/06/2021, 13:37:07",
 	"dateAddedUTC": "2021-06-09T11:37:07.613Z"
 },{
+	"index": 28,
+	"title": "The best way to configure network interface ever in Arch Linux | l think, therefore l am",
+	"url": "https://lukeluo.blogspot.com/2015/04/the-best-way-to-configure-network.html",
+	"id": 350,
+	"parentId": "73",
+	"dateAddedLocal": "09/06/2021, 13:58:04",
+	"dateAddedUTC": "2021-06-09T11:58:04.474Z"
+},{
+	"index": 29,
+	"title": "Garuda Linux | Home",
+	"url": "https://garudalinux.org/",
+	"id": 524,
+	"parentId": "73",
+	"dateAddedLocal": "14/07/2021, 01:50:44",
+	"dateAddedUTC": "2021-07-13T23:50:44.903Z"
+},{
+	"index": 30,
+	"title": "EndeavourOS – A terminal-centric distro with a vibrant and friendly community at its core",
+	"url": "https://endeavouros.com/",
+	"id": 525,
+	"parentId": "73",
+	"dateAddedLocal": "14/07/2021, 01:51:19",
+	"dateAddedUTC": "2021-07-13T23:51:19.788Z"
+},{
+	"index": 3,
+	"title": "MacOs Security",
+	"id": 51,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 18:39:26",
+	"dateAddedUTC": "2021-06-08T16:39:26.793Z"
+},{
+	"index": 0,
+	"title": "GitHub - drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS",
+	"url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+	"id": 50,
+	"parentId": "51",
+	"dateAddedLocal": "08/06/2021, 18:39:08",
+	"dateAddedUTC": "2021-06-08T16:39:08.684Z"
+},{
+	"index": 1,
+	"title": "Introduction to DNS Privacy | Internet Society",
+	"url": "https://www.internetsociety.org/resources/deploy360/dns-privacy/intro/",
+	"id": 379,
+	"parentId": "51",
+	"dateAddedLocal": "22/06/2021, 21:59:16",
+	"dateAddedUTC": "2021-06-22T19:59:16.060Z"
+},{
+	"index": 2,
+	"title": "LULU",
+	"id": 544,
+	"parentId": "51",
+	"dateAddedLocal": "18/07/2021, 20:44:37",
+	"dateAddedUTC": "2021-07-18T18:44:37.393Z"
+},{
+	"index": 0,
+	"title": "Firewall for macOS - looking at two Open Source options",
+	"url": "https://aware7.de/en/blog/firewall-for-macos-looking-at-two-open-source-options/",
+	"id": 543,
+	"parentId": "544",
+	"dateAddedLocal": "18/07/2021, 20:44:26",
+	"dateAddedUTC": "2021-07-18T18:44:26.736Z"
+},{
+	"index": 1,
+	"title": "Awesome Mac application sharing recommendation - Awesome Mac",
+	"url": "https://wangchujiang.com/awesome-mac/",
+	"id": 545,
+	"parentId": "544",
+	"dateAddedLocal": "18/07/2021, 20:44:41",
+	"dateAddedUTC": "2021-07-18T18:44:41.997Z"
+},{
+	"index": 2,
+	"title": "Objective-See",
+	"url": "https://objective-see.com/products.html",
+	"id": 546,
+	"parentId": "544",
+	"dateAddedLocal": "18/07/2021, 20:44:46",
+	"dateAddedUTC": "2021-07-18T18:44:46.225Z"
+},{
+	"index": 3,
+	"title": "How to properly configure LuLu firewall app on macOS Big Sur? : privacytoolsIO",
+	"url": "https://www.reddit.com/r/privacytoolsIO/comments/omeeq7/how_to_properly_configure_lulu_firewall_app_on/",
+	"id": 547,
+	"parentId": "544",
+	"dateAddedLocal": "18/07/2021, 21:51:25",
+	"dateAddedUTC": "2021-07-18T19:51:25.250Z"
+},{
+	"index": 4,
+	"title": "MACOS-Install",
+	"id": 66,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 18:47:03",
+	"dateAddedUTC": "2021-06-08T16:47:03.272Z"
+},{
+	"index": 0,
+	"title": "MacOS Development workspace 2021 - DEV Community",
+	"url": "https://dev.to/jeissonflorez29/macos-development-workspace-2021-2ld6",
+	"id": 65,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 18:46:44",
+	"dateAddedUTC": "2021-06-08T16:46:44.818Z"
+},{
+	"index": 1,
+	"title": "The Eclectic Light Company – Macs, painting, and more",
+	"url": "https://eclecticlight.co/",
+	"id": 105,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:47:47",
+	"dateAddedUTC": "2021-06-08T17:47:47.280Z"
+},{
+	"index": 2,
+	"title": "GitHub - munki/macadmin-scripts: Scripts of possible interest to macOS admins",
+	"url": "https://github.com/munki/macadmin-scripts",
+	"id": 106,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:48:15",
+	"dateAddedUTC": "2021-06-08T17:48:15.932Z"
+},{
+	"index": 3,
+	"title": "Use Homebrew zsh Instead of the OS X Default : Rick Cogley Central",
+	"url": "https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/",
+	"id": 107,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:48:48",
+	"dateAddedUTC": "2021-06-08T17:48:48.810Z"
+},{
+	"index": 4,
+	"title": "pwnsdx’s macos scripts · GitHub",
+	"url": "https://gist.github.com/pwnsdx/",
+	"id": 119,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:54:23",
+	"dateAddedUTC": "2021-06-08T17:54:23.366Z"
+},{
+	"index": 5,
+	"title": "How to completely prohibit MacOS Big Sur automatic update and remove update flag and notification - 编程知识",
+	"url": "https://cdmana.com/2021/04/20210429192342471b.html",
+	"id": 120,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:55:17",
+	"dateAddedUTC": "2021-06-08T17:55:17.320Z"
+},{
+	"index": 6,
+	"title": "GitHub - sh0shin/macosetup: Command line macOS setup & configuration",
+	"url": "https://github.com/sh0shin/macosetup",
+	"id": 121,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:55:34",
+	"dateAddedUTC": "2021-06-08T17:55:34.774Z"
+},{
+	"index": 7,
+	"title": "How to disable the quarantine popup in macOS Big Sur - Hiring Engineers",
+	"url": "https://hiringengineersbook.com/post/disable-quarantine/",
+	"id": 122,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:55:48",
+	"dateAddedUTC": "2021-06-08T17:55:48.014Z"
+},{
 	"index": 8,
+	"title": "Updater For macOS Launch Services · GitHub",
+	"url": "https://gist.github.com/thegranddesign/fef254a615c6d1bf67f83c176da8869d",
+	"id": 123,
+	"parentId": "66",
+	"dateAddedLocal": "08/06/2021, 19:57:38",
+	"dateAddedUTC": "2021-06-08T17:57:38.344Z"
+},{
+	"index": 9,
+	"title": "How to install Java JDK on macOS - Mkyong.com",
+	"url": "https://mkyong.com/java/how-to-install-java-on-mac-osx/",
+	"id": 162,
+	"parentId": "66",
+	"dateAddedLocal": "09/06/2021, 12:17:07",
+	"dateAddedUTC": "2021-06-09T10:17:07.208Z"
+},{
+	"index": 10,
+	"title": "macOS Configuration | Alchemists",
+	"url": "https://www.alchemists.io/projects/mac_os-config/",
+	"id": 348,
+	"parentId": "66",
+	"dateAddedLocal": "09/06/2021, 13:44:14",
+	"dateAddedUTC": "2021-06-09T11:44:14.037Z"
+},{
+	"index": 11,
+	"title": "GitHub - bkuhlmann/mac_os-config: Shell scripts for customized macOS machine setup and configuration.",
+	"url": "https://github.com/bkuhlmann/mac_os-config",
+	"id": 349,
+	"parentId": "66",
+	"dateAddedLocal": "09/06/2021, 13:46:31",
+	"dateAddedUTC": "2021-06-09T11:46:31.701Z"
+},{
+	"index": 12,
+	"title": "GitHub - herrbischoff/awesome-macos-command-line: Use your macOS terminal shell to do awesome things.",
+	"url": "https://github.com/herrbischoff/awesome-macos-command-line",
+	"id": 352,
+	"parentId": "66",
+	"dateAddedLocal": "09/06/2021, 14:05:24",
+	"dateAddedUTC": "2021-06-09T12:05:24.314Z"
+},{
+	"index": 13,
+	"title": "GitHub - grahampugh/macadmin-scripts: Scripts of possible interest to macOS admins",
+	"url": "https://github.com/grahampugh/macadmin-scripts",
+	"id": 361,
+	"parentId": "66",
+	"dateAddedLocal": "16/06/2021, 23:05:00",
+	"dateAddedUTC": "2021-06-16T21:05:00.256Z"
+},{
+	"index": 14,
+	"title": "ZSH",
+	"id": 365,
+	"parentId": "66",
+	"dateAddedLocal": "20/06/2021, 20:24:28",
+	"dateAddedUTC": "2021-06-20T18:24:28.350Z"
+},{
+	"index": 0,
+	"title": "Configure Zsh Options & Plugins for Productivity in macOS's Default Shell | Viget",
+	"url": "https://www.viget.com/articles/zsh-config-productivity-plugins-for-mac-oss-default-shell/",
+	"id": 71,
+	"parentId": "365",
+	"dateAddedLocal": "08/06/2021, 19:26:19",
+	"dateAddedUTC": "2021-06-08T17:26:19.864Z"
+},{
+	"index": 1,
+	"title": "mac_os-config/install_dotfiles at main · bkuhlmann/mac_os-config · GitHub",
+	"url": "https://github.com/bkuhlmann/mac_os-config/blob/main/bin/install_dotfiles",
+	"id": 353,
+	"parentId": "365",
+	"dateAddedLocal": "09/06/2021, 18:23:01",
+	"dateAddedUTC": "2021-06-09T16:23:01.986Z"
+},{
+	"index": 2,
+	"title": "macOS zsh configuration | myByways",
+	"url": "https://www.mybyways.com/blog/macos-zsh-configuration",
+	"id": 363,
+	"parentId": "365",
+	"dateAddedLocal": "20/06/2021, 10:50:55",
+	"dateAddedUTC": "2021-06-20T08:50:55.258Z"
+},{
+	"index": 3,
+	"title": "macos - ZSH: .zprofile, .zshrc, .zlogin - What goes where? - Ask Different",
+	"url": "https://apple.stackexchange.com/questions/388622/zsh-zprofile-zshrc-zlogin-what-goes-where",
+	"id": 366,
+	"parentId": "365",
+	"dateAddedLocal": "20/06/2021, 20:26:05",
+	"dateAddedUTC": "2021-06-20T18:26:05.487Z"
+},{
+	"index": 4,
+	"title": "My .zshrc file on Mac (adapted from .bashrc and .inputrc) | by Matt Lim | Medium",
+	"url": "https://pencilflip.medium.com/my-zshrc-file-on-mac-adapted-from-bashrc-and-inputrc-16ac09efeb95",
+	"id": 364,
+	"parentId": "365",
+	"dateAddedLocal": "20/06/2021, 20:24:06",
+	"dateAddedUTC": "2021-06-20T18:24:06.656Z"
+},{
+	"index": 5,
+	"title": "macos - Disable zsh session folder completely - Super User",
+	"url": "https://superuser.com/questions/1610587/disable-zsh-session-folder-completely",
+	"id": 367,
+	"parentId": "365",
+	"dateAddedLocal": "20/06/2021, 20:26:36",
+	"dateAddedUTC": "2021-06-20T18:26:36.843Z"
+},{
+	"index": 6,
+	"title": "MacOS Catalina terminal tab doesn't remember its own previous commands - Ask Different",
+	"url": "https://apple.stackexchange.com/questions/398534/macos-catalina-terminal-tab-doesnt-remember-its-own-previous-commands",
+	"id": 368,
+	"parentId": "365",
+	"dateAddedLocal": "20/06/2021, 20:26:44",
+	"dateAddedUTC": "2021-06-20T18:26:44.133Z"
+},{
+	"index": 15,
+	"title": "Using GNU command line tools in macOS instead of FreeBSD tools • Flailing Wildly",
+	"url": "https://ryanparman.com/posts/2019/using-gnu-command-line-tools-in-macos-instead-of-freebsd-tools/",
+	"id": 369,
+	"parentId": "66",
+	"dateAddedLocal": "21/06/2021, 10:41:23",
+	"dateAddedUTC": "2021-06-21T08:41:23.822Z"
+},{
+	"index": 16,
+	"title": "Install GNU Utils Using Homebrew",
+	"url": "http://www.legendu.net/en/blog/install-gnu-utils-using-homebrew/",
+	"id": 370,
+	"parentId": "66",
+	"dateAddedLocal": "21/06/2021, 10:41:46",
+	"dateAddedUTC": "2021-06-21T08:41:46.156Z"
+},{
+	"index": 17,
+	"title": "Install and Use GNU Command Line Tools on macOS/OS X - Top Bug Net",
+	"url": "https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/",
+	"id": 371,
+	"parentId": "66",
+	"dateAddedLocal": "21/06/2021, 10:42:23",
+	"dateAddedUTC": "2021-06-21T08:42:23.864Z"
+},{
+	"index": 18,
+	"title": "Alt Code Shortcuts for Mac to Insert Symbols » WebNots",
+	"url": "https://www.webnots.com/option-or-alt-key-shortcuts-to-insert-symbols-in-mac-os-x/",
+	"id": 380,
+	"parentId": "66",
+	"dateAddedLocal": "22/06/2021, 22:05:19",
+	"dateAddedUTC": "2021-06-22T20:05:19.525Z"
+},{
+	"index": 19,
+	"title": "GitHub - sebastienrousseau/dotfiles: 🔵 Dotfiles - A set of Mac OS X configuration files - Simply designed to fit your shell life.",
+	"url": "https://github.com/sebastienrousseau/dotfiles",
+	"id": 382,
+	"parentId": "66",
+	"dateAddedLocal": "22/06/2021, 22:18:07",
+	"dateAddedUTC": "2021-06-22T20:18:07.943Z"
+},{
+	"index": 20,
+	"title": "GitHub - emilyst/home: My home directory's settings",
+	"url": "https://github.com/emilyst/home",
+	"id": 395,
+	"parentId": "66",
+	"dateAddedLocal": "26/06/2021, 20:40:21",
+	"dateAddedUTC": "2021-06-26T18:40:21.803Z"
+},{
+	"index": 21,
+	"title": "macOS Big Sur Full Installer Database. Download Directly from Apple!",
+	"url": "https://mrmacintosh.com/macos-big-sur-full-installer-database-download-directly-from-apple/",
+	"id": 396,
+	"parentId": "66",
+	"dateAddedLocal": "26/06/2021, 22:48:04",
+	"dateAddedUTC": "2021-06-26T20:48:04.118Z"
+},{
+	"index": 22,
+	"title": "Raycast",
+	"url": "https://raycast.com/",
+	"id": 425,
+	"parentId": "66",
+	"dateAddedLocal": "02/07/2021, 21:17:00",
+	"dateAddedUTC": "2021-07-02T19:17:00.832Z"
+},{
+	"index": 23,
+	"title": "ZSH on OS X - OS X Scientific Computing",
+	"url": "http://scottlab.ucsc.edu/xtal/wiki/index.php/ZSH_on_OS_X",
+	"id": 442,
+	"parentId": "66",
+	"dateAddedLocal": "06/07/2021, 13:00:47",
+	"dateAddedUTC": "2021-07-06T11:00:47.102Z"
+},{
+	"index": 24,
+	"title": "Explanations for each zsh template file - OS X Scientific Computing",
+	"url": "http://scottlab.ucsc.edu/xtal/wiki/index.php/Explanations_for_each_zsh_template_file#.2Fetc.2Fzshenv",
+	"id": 443,
+	"parentId": "66",
+	"dateAddedLocal": "06/07/2021, 13:00:54",
+	"dateAddedUTC": "2021-07-06T11:00:54.444Z"
+},{
+	"index": 25,
+	"title": "Paul Miller — iOS 14, Big Sur & DNS over HTTPS / TLS",
+	"url": "https://paulmillr.com/posts/encrypted-dns/",
+	"id": 449,
+	"parentId": "66",
+	"dateAddedLocal": "07/07/2021, 13:17:07",
+	"dateAddedUTC": "2021-07-07T11:17:07.969Z"
+},{
+	"index": 26,
+	"title": "https://jonaustin.dev/zsh",
+	"url": "https://jonaustin.dev/zsh",
+	"id": 456,
+	"parentId": "66",
+	"dateAddedLocal": "08/07/2021, 10:38:04",
+	"dateAddedUTC": "2021-07-08T08:38:04.932Z"
+},{
+	"index": 27,
+	"title": "Dot files – Louis T. Getterman IV",
+	"url": "https://thad.getterman.org/articles/dot-files/",
+	"id": 457,
+	"parentId": "66",
+	"dateAddedLocal": "08/07/2021, 10:47:25",
+	"dateAddedUTC": "2021-07-08T08:47:25.639Z"
+},{
+	"index": 28,
+	"title": ".zshrc · master · Louis T. Getterman IV / Dotfiles · GitLab",
+	"url": "https://gitlab.com/ltgiv/dotfiles/-/blob/master/.zshrc",
+	"id": 458,
+	"parentId": "66",
+	"dateAddedLocal": "08/07/2021, 11:48:18",
+	"dateAddedUTC": "2021-07-08T09:48:18.888Z"
+},{
+	"index": 29,
+	"title": "fabiomaia/linuxify: 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.",
+	"url": "https://github.com/fabiomaia/linuxify",
+	"id": 521,
+	"parentId": "66",
+	"dateAddedLocal": "13/07/2021, 20:18:12",
+	"dateAddedUTC": "2021-07-13T18:18:12.177Z"
+},{
+	"index": 30,
+	"title": "Introduction · macOS Setup Guide",
+	"url": "https://sourabhbajaj.com/mac-setup/",
+	"id": 528,
+	"parentId": "66",
+	"dateAddedLocal": "14/07/2021, 08:09:22",
+	"dateAddedUTC": "2021-07-14T06:09:22.428Z"
+},{
+	"index": 31,
+	"title": "Moving to zsh – Scripting OS X",
+	"url": "https://scriptingosx.com/2019/06/moving-to-zsh/",
+	"id": 529,
+	"parentId": "66",
+	"dateAddedLocal": "14/07/2021, 16:04:56",
+	"dateAddedUTC": "2021-07-14T14:04:56.771Z"
+},{
+	"index": 32,
+	"title": "Linux (GNU) vs. Mac (BSD) Command Line Utilities | Ponder The Bits",
+	"url": "https://ponderthebits.com/2017/01/know-your-tools-linux-gnu-vs-mac-bsd-command-line-utilities-grep-strings-sed-and-find/",
+	"id": 536,
+	"parentId": "66",
+	"dateAddedLocal": "16/07/2021, 17:12:59",
+	"dateAddedUTC": "2021-07-16T15:12:59.680Z"
+},{
+	"index": 33,
+	"title": "Awesome Mac application sharing recommendation - Awesome Mac",
+	"url": "https://wangchujiang.com/awesome-mac/#network-analysis",
+	"id": 550,
+	"parentId": "66",
+	"dateAddedLocal": "18/07/2021, 22:17:14",
+	"dateAddedUTC": "2021-07-18T20:17:14.002Z"
+},{
+	"index": 34,
+	"title": "gao-sun/eul: 🖥️ macOS status monitoring app written in SwiftUI.",
+	"url": "https://github.com/gao-sun/eul",
+	"id": 551,
+	"parentId": "66",
+	"dateAddedLocal": "19/07/2021, 01:02:46",
+	"dateAddedUTC": "2021-07-18T23:02:46.440Z"
+},{
+	"index": 5,
 	"title": "GIT",
 	"id": 103,
 	"parentId": "1",
@@ -2005,22 +2807,47 @@
 	"dateAddedLocal": "09/06/2021, 13:42:59",
 	"dateAddedUTC": "2021-06-09T11:42:59.560Z"
 },{
-	"index": 9,
-	"title": "Shopping",
-	"id": 126,
-	"parentId": "1",
-	"dateAddedLocal": "08/06/2021, 20:02:33",
-	"dateAddedUTC": "2021-06-08T18:02:33.972Z"
+	"index": 12,
+	"title": "my-dotfiles/.my-dotfiles at master · Siilwyn/my-dotfiles · GitHub",
+	"url": "https://github.com/Siilwyn/my-dotfiles/tree/master/.my-dotfiles",
+	"id": 357,
+	"parentId": "103",
+	"dateAddedLocal": "10/06/2021, 19:33:50",
+	"dateAddedUTC": "2021-06-10T17:33:50.809Z"
 },{
-	"index": 0,
-	"title": "Suivi 9L27295673399 | Postal Ninja",
-	"url": "https://postal.ninja/fr/track/nZlnax",
-	"id": 125,
-	"parentId": "126",
-	"dateAddedLocal": "08/06/2021, 20:02:18",
-	"dateAddedUTC": "2021-06-08T18:02:18.006Z"
+	"index": 13,
+	"title": "The Bare Repo Approach to Storing Home Directory Config Files (Dotfiles) in Git using Bash, Zsh, or Powershell - DEV Community",
+	"url": "https://dev.to/bowmanjd/store-home-directory-config-files-dotfiles-in-git-using-bash-zsh-or-powershell-the-bare-repo-approach-35l3",
+	"id": 359,
+	"parentId": "103",
+	"dateAddedLocal": "11/06/2021, 11:44:52",
+	"dateAddedUTC": "2021-06-11T09:44:52.830Z"
 },{
-	"index": 10,
+	"index": 14,
+	"title": "Download GitHub directory",
+	"url": "https://download-directory.github.io/",
+	"id": 398,
+	"parentId": "103",
+	"dateAddedLocal": "29/06/2021, 18:02:36",
+	"dateAddedUTC": "2021-06-29T16:02:36.057Z"
+},{
+	"index": 15,
+	"title": "GitHub - sindresorhus/refined-github: Browser extension that simplifies the GitHub interface and adds useful features",
+	"url": "https://github.com/sindresorhus/refined-github",
+	"id": 399,
+	"parentId": "103",
+	"dateAddedLocal": "29/06/2021, 18:04:29",
+	"dateAddedUTC": "2021-06-29T16:04:29.716Z"
+},{
+	"index": 16,
+	"title": "How to Use Git Shallow Clone to Improve Performance | Perforce",
+	"url": "https://www.perforce.com/blog/vcs/git-beyond-basics-using-shallow-clones",
+	"id": 563,
+	"parentId": "103",
+	"dateAddedLocal": "21/07/2021, 16:16:18",
+	"dateAddedUTC": "2021-07-21T14:16:18.537Z"
+},{
+	"index": 6,
 	"title": "JAVA",
 	"id": 128,
 	"parentId": "1",
@@ -2659,4 +3486,657 @@
 	"parentId": "191",
 	"dateAddedLocal": "09/06/2021, 12:39:18",
 	"dateAddedUTC": "2021-06-09T10:39:18.733Z"
+},{
+	"index": 7,
+	"title": "FF",
+	"id": 19,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 14:41:18",
+	"dateAddedUTC": "2021-06-08T12:41:18.630Z"
+},{
+	"index": 0,
+	"title": "Layout",
+	"id": 33,
+	"parentId": "19",
+	"dateAddedLocal": "08/06/2021, 17:26:56",
+	"dateAddedUTC": "2021-06-08T15:26:56.907Z"
+},{
+	"index": 0,
+	"title": "firefox-safari-style/userChrome.css at master · ideaweb/firefox-safari-style · GitHub",
+	"url": "https://github.com/ideaweb/firefox-safari-style/blob/master/css/userChrome.css",
+	"id": 18,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:41:01",
+	"dateAddedUTC": "2021-06-08T12:41:01.110Z"
+},{
+	"index": 1,
+	"title": "How to Customize Firefox’s User Interface With userChrome.css",
+	"url": "https://www.howtogeek.com/334716/how-to-customize-firefoxs-user-interface-with-userchrome.css/",
+	"id": 23,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:43:45",
+	"dateAddedUTC": "2021-06-08T12:43:45.703Z"
+},{
+	"index": 2,
+	"title": "How to remove \"search with\" and \"visit\" in Firefox's address bar - gHacks Tech News",
+	"url": "https://www.ghacks.net/2015/12/21/how-to-remove-visit-in-firefoxs-address-bar/",
+	"id": 24,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:44:02",
+	"dateAddedUTC": "2021-06-08T12:44:02.794Z"
+},{
+	"index": 3,
+	"title": "Browser Toolbox - Firefox Developer Tools | MDN",
+	"url": "https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox",
+	"id": 25,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:44:10",
+	"dateAddedUTC": "2021-06-08T12:44:10.617Z"
+},{
+	"index": 4,
+	"title": "GitHub - black7375/Firefox-UI-Fix: 🦊 I respect proton UI and aim to improve it.",
+	"url": "https://github.com/black7375/Firefox-UI-Fix",
+	"id": 26,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:44:25",
+	"dateAddedUTC": "2021-06-08T12:44:25.662Z"
+},{
+	"index": 5,
+	"title": "How to fix the Firefox 89 user interface - gHacks Tech News",
+	"url": "https://www.ghacks.net/2021/05/09/how-to-fix-the-firefox-89-user-interface/",
+	"id": 27,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 14:44:32",
+	"dateAddedUTC": "2021-06-08T12:44:32.937Z"
+},{
+	"index": 6,
+	"title": "solutions - uBlockOrigin",
+	"url": "https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_youtube",
+	"id": 112,
+	"parentId": "33",
+	"dateAddedLocal": "08/06/2021, 19:50:30",
+	"dateAddedUTC": "2021-06-08T17:50:30.848Z"
+},{
+	"index": 1,
+	"title": "Config",
+	"id": 34,
+	"parentId": "19",
+	"dateAddedLocal": "08/06/2021, 17:27:06",
+	"dateAddedUTC": "2021-06-08T15:27:06.106Z"
+},{
+	"index": 0,
+	"title": "uBlock Origin Suggested Settings – 12Bytes.org",
+	"url": "https://12bytes.org/articles/tech/firefox/ublock-origin-suggested-settings/",
+	"id": 108,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:49:07",
+	"dateAddedUTC": "2021-06-08T17:49:07.776Z"
+},{
+	"index": 1,
+	"title": "Firefox Configuration Guide for Privacy Freaks and Performance Buffs – 12Bytes.org",
+	"url": "https://12bytes.org/articles/tech/firefox/firefoxgecko-configuration-guide-for-privacy-and-performance-buffs/",
+	"id": 109,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:49:35",
+	"dateAddedUTC": "2021-06-08T17:49:35.050Z"
+},{
+	"index": 2,
+	"title": "12bytes.org/firefox-user.js-supplement: a user-overrides.js supplement intended to be appended to the 'arkenfox' (formerly 'ghacks') user.js for Firefox - user-overrides.js at master - firefox-user.js-supplement - Codeberg.org",
+	"url": "https://codeberg.org/12bytes.org/firefox-user.js-supplement/src/branch/master/user-overrides.js",
+	"id": 110,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:49:53",
+	"dateAddedUTC": "2021-06-08T17:49:53.237Z"
+},{
+	"index": 3,
+	"title": "Getting rid of the Google cookie consent popup | Daniel Lange's blog",
+	"url": "https://daniel-lange.com/archives/164-Getting-rid-of-the-Google-cookie-consent-popup.html",
+	"id": 111,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:50:13",
+	"dateAddedUTC": "2021-06-08T17:50:13.340Z"
+},{
+	"index": 4,
+	"title": "Remove the Google Cookie Consent Dialog with uBlock - NordicNode",
+	"url": "https://www.nordicnode.com/remove-the-google-cookie-consent-dialog-with-ublock/",
+	"id": 113,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:50:52",
+	"dateAddedUTC": "2021-06-08T17:50:52.656Z"
+},{
+	"index": 5,
+	"title": "Google Search cookie consent popup problem : uBlockOrigin",
+	"url": "https://www.reddit.com/r/uBlockOrigin/comments/ifv6ek/google_search_cookie_consent_popup_problem/",
+	"id": 114,
+	"parentId": "34",
+	"dateAddedLocal": "08/06/2021, 19:51:09",
+	"dateAddedUTC": "2021-06-08T17:51:09.922Z"
+},{
+	"index": 2,
+	"title": "Mycroft Project: Search Engine Plugins - Firefox IE Chrome",
+	"url": "https://mycroftproject.com/install.html?id=14900&basename=googleintl&icontype=ico&name=Google+%28No+country+redirect%29",
+	"id": 115,
+	"parentId": "19",
+	"dateAddedLocal": "08/06/2021, 19:51:23",
+	"dateAddedUTC": "2021-06-08T17:51:23.702Z"
+},{
+	"index": 3,
+	"title": "FilterLists | Subscriptions for uBlock Origin, Adblock Plus, AdGuard, ...",
+	"url": "https://filterlists.com/",
+	"id": 376,
+	"parentId": "19",
+	"dateAddedLocal": "22/06/2021, 19:36:56",
+	"dateAddedUTC": "2021-06-22T17:36:56.473Z"
+},{
+	"index": 4,
+	"title": "ublock",
+	"id": 378,
+	"parentId": "19",
+	"dateAddedLocal": "22/06/2021, 19:42:21",
+	"dateAddedUTC": "2021-06-22T17:42:21.572Z"
+},{
+	"index": 0,
+	"title": "The Ultimate Superuser's Guide to uBlock Origin - Make Tech Easier",
+	"url": "https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/#syncing-rules",
+	"id": 377,
+	"parentId": "378",
+	"dateAddedLocal": "22/06/2021, 19:42:06",
+	"dateAddedUTC": "2021-06-22T17:42:06.791Z"
+},{
+	"index": 5,
+	"title": "Dot HQ · GitHub",
+	"url": "https://github.com/dothq",
+	"id": 381,
+	"parentId": "19",
+	"dateAddedLocal": "22/06/2021, 22:16:22",
+	"dateAddedUTC": "2021-06-22T20:16:22.580Z"
+},{
+	"index": 6,
+	"title": "Your 2020 Guide to Hardening Firefox | Switched To Linux",
+	"url": "https://switchedtolinux.com/your-2020-guide-to-hardening-firefox/",
+	"id": 401,
+	"parentId": "19",
+	"dateAddedLocal": "29/06/2021, 21:36:10",
+	"dateAddedUTC": "2021-06-29T19:36:10.952Z"
+},{
+	"index": 7,
+	"title": "Could someone please explain to me what addons are no longer necessary and what are? : privacytoolsIO",
+	"url": "https://www.reddit.com/r/privacytoolsIO/comments/o9qv15/could_someone_please_explain_to_me_what_addons/",
+	"id": 403,
+	"parentId": "19",
+	"dateAddedLocal": "29/06/2021, 22:53:23",
+	"dateAddedUTC": "2021-06-29T20:53:23.222Z"
+},{
+	"index": 8,
+	"title": "GitHub - pyllyukko/user.js: user.js -- Firefox configuration hardening",
+	"url": "https://github.com/pyllyukko/user.js",
+	"id": 404,
+	"parentId": "19",
+	"dateAddedLocal": "30/06/2021, 01:25:28",
+	"dateAddedUTC": "2021-06-29T23:25:28.029Z"
+},{
+	"index": 9,
+	"title": "LibreWolf · GitLab",
+	"url": "https://gitlab.com/librewolf-community",
+	"id": 405,
+	"parentId": "19",
+	"dateAddedLocal": "30/06/2021, 08:44:45",
+	"dateAddedUTC": "2021-06-30T06:44:45.892Z"
+},{
+	"index": 10,
+	"title": "Moonchild Productions - Pale Moon repositories",
+	"url": "https://repo.palemoon.org/MoonchildProductions",
+	"id": 406,
+	"parentId": "19",
+	"dateAddedLocal": "30/06/2021, 08:46:52",
+	"dateAddedUTC": "2021-06-30T06:46:52.209Z"
+},{
+	"index": 11,
+	"title": "GitHub - MrAlex94/Waterfox: The official Waterfox 💧 source code repository",
+	"url": "https://github.com/MrAlex94/Waterfox",
+	"id": 407,
+	"parentId": "19",
+	"dateAddedLocal": "30/06/2021, 08:47:16",
+	"dateAddedUTC": "2021-06-30T06:47:16.709Z"
+},{
+	"index": 12,
+	"title": "Firefox Privacy - The Complete How-To Guide | Restore Privacy",
+	"url": "https://restoreprivacy.com/firefox-privacy/",
+	"id": 419,
+	"parentId": "19",
+	"dateAddedLocal": "01/07/2021, 22:47:12",
+	"dateAddedUTC": "2021-07-01T20:47:12.954Z"
+},{
+	"index": 13,
+	"title": "GitHub - yourduskquibbles/webannoyances: Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.",
+	"url": "https://github.com/yourduskquibbles/webannoyances",
+	"id": 423,
+	"parentId": "19",
+	"dateAddedLocal": "02/07/2021, 21:12:06",
+	"dateAddedUTC": "2021-07-02T19:12:06.651Z"
+},{
+	"index": 14,
+	"title": "Aris-t2 (Aris) · GitHub",
+	"url": "https://github.com/Aris-t2",
+	"id": 424,
+	"parentId": "19",
+	"dateAddedLocal": "02/07/2021, 21:12:17",
+	"dateAddedUTC": "2021-07-02T19:12:17.888Z"
+},{
+	"index": 15,
+	"title": "FirefoxCSS Store",
+	"url": "https://firefoxcss-store.github.io/",
+	"id": 426,
+	"parentId": "19",
+	"dateAddedLocal": "02/07/2021, 21:18:57",
+	"dateAddedUTC": "2021-07-02T19:18:57.236Z"
+},{
+	"index": 16,
+	"title": "GitHub - xiaoxiaoflood/firefox-scripts: userChromeJS / autoconfig.js and extensions",
+	"url": "https://github.com/xiaoxiaoflood/firefox-scripts",
+	"id": 429,
+	"parentId": "19",
+	"dateAddedLocal": "03/07/2021, 17:13:58",
+	"dateAddedUTC": "2021-07-03T15:13:58.081Z"
+},{
+	"index": 17,
+	"title": "Steam Workshop Downloader :: IO",
+	"url": "https://steamworkshopdownloader.io/",
+	"id": 433,
+	"parentId": "19",
+	"dateAddedLocal": "04/07/2021, 01:22:17",
+	"dateAddedUTC": "2021-07-03T23:22:17.153Z"
+},{
+	"index": 18,
+	"title": "How to disable reset prompt in Firefox | Miroslav Suchý",
+	"url": "http://miroslav.suchy.cz/blog/archives/2014/05/13/how_to_disable_reset_prompt_in_firefox/index.html",
+	"id": 470,
+	"parentId": "19",
+	"dateAddedLocal": "10/07/2021, 01:34:24",
+	"dateAddedUTC": "2021-07-09T23:34:24.924Z"
+},{
+	"index": 19,
+	"title": "Mycroft Project: Search Engine Plugins - Firefox IE Chrome",
+	"url": "https://mycroftproject.com/",
+	"id": 531,
+	"parentId": "19",
+	"dateAddedLocal": "14/07/2021, 19:26:12",
+	"dateAddedUTC": "2021-07-14T17:26:12.978Z"
+},{
+	"index": 20,
+	"title": "How to Force Google Chrome to Use Google.com Instead of Country Specific Version",
+	"url": "http://www.thesempost.com/force-google-chrome-to-use-google-com-not-country-version/",
+	"id": 532,
+	"parentId": "19",
+	"dateAddedLocal": "14/07/2021, 19:40:09",
+	"dateAddedUTC": "2021-07-14T17:40:09.124Z"
+},{
+	"index": 21,
+	"title": "The Ultimate Superuser's Guide to uBlock Origin - Make Tech Easier",
+	"url": "https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/",
+	"id": 533,
+	"parentId": "19",
+	"dateAddedLocal": "14/07/2021, 20:17:32",
+	"dateAddedUTC": "2021-07-14T18:17:32.687Z"
+},{
+	"index": 22,
+	"title": "Commits · Possibly-Matt/Firefox-UI-Fix",
+	"url": "https://github.com/Possibly-Matt/Firefox-UI-Fix/commits/master",
+	"id": 534,
+	"parentId": "19",
+	"dateAddedLocal": "16/07/2021, 01:51:40",
+	"dateAddedUTC": "2021-07-15T23:51:40.491Z"
+},{
+	"index": 23,
+	"title": "rusty-snake / Firefox Config · GitLab",
+	"url": "https://gitlab.com/rusty-snake/firefox-config",
+	"id": 537,
+	"parentId": "19",
+	"dateAddedLocal": "16/07/2021, 17:34:06",
+	"dateAddedUTC": "2021-07-16T15:34:06.687Z"
+},{
+	"index": 24,
+	"title": "rusty-snake",
+	"url": "https://github.com/rusty-snake",
+	"id": 538,
+	"parentId": "19",
+	"dateAddedLocal": "16/07/2021, 17:36:08",
+	"dateAddedUTC": "2021-07-16T15:36:08.183Z"
+},{
+	"index": 25,
+	"title": "MrOtherGuy/firefox-csshacks: Collection of userstyles affecting the browser",
+	"url": "https://github.com/MrOtherGuy/firefox-csshacks",
+	"id": 540,
+	"parentId": "19",
+	"dateAddedLocal": "17/07/2021, 22:00:31",
+	"dateAddedUTC": "2021-07-17T20:00:31.293Z"
+},{
+	"index": 26,
+	"title": "dexiota/replacefirefoxicon: A collection of CSS tweaks to only change Firefox's icon throughout the UI.",
+	"url": "https://github.com/dexiota/replacefirefoxicon",
+	"id": 541,
+	"parentId": "19",
+	"dateAddedLocal": "17/07/2021, 22:06:00",
+	"dateAddedUTC": "2021-07-17T20:06:00.839Z"
+},{
+	"index": 27,
+	"title": "Firefox 90 introduces SmartBlock 2.0 for Private Browsing – Mozilla Security Blog : privacytoolsIO",
+	"url": "https://www.reddit.com/r/privacytoolsIO/comments/ojf87h/firefox_90_introduces_smartblock_20_for_private/",
+	"id": 548,
+	"parentId": "19",
+	"dateAddedLocal": "18/07/2021, 21:54:33",
+	"dateAddedUTC": "2021-07-18T19:54:33.962Z"
+},{
+	"index": 28,
+	"title": "Trending - Piped",
+	"url": "https://piped.kavin.rocks/",
+	"id": 549,
+	"parentId": "19",
+	"dateAddedLocal": "18/07/2021, 22:15:38",
+	"dateAddedUTC": "2021-07-18T20:15:38.574Z"
+},{
+	"index": 8,
+	"title": "TOOLS",
+	"id": 355,
+	"parentId": "1",
+	"dateAddedLocal": "09/06/2021, 18:33:53",
+	"dateAddedUTC": "2021-06-09T16:33:53.307Z"
+},{
+	"index": 0,
+	"title": "Home of online tools and utilities - Beautify Tools",
+	"url": "https://beautifytools.com/",
+	"id": 354,
+	"parentId": "355",
+	"dateAddedLocal": "09/06/2021, 18:33:30",
+	"dateAddedUTC": "2021-06-09T16:33:30.256Z"
+},{
+	"index": 1,
+	"title": "Basic Customization Atom",
+	"url": "https://flight-manual.atom.io/using-atom/sections/basic-customization/",
+	"id": 373,
+	"parentId": "355",
+	"dateAddedLocal": "21/06/2021, 20:02:29",
+	"dateAddedUTC": "2021-06-21T18:02:29.285Z"
+},{
+	"index": 2,
+	"title": "dnscrypt",
+	"id": 37,
+	"parentId": "355",
+	"dateAddedLocal": "08/06/2021, 18:33:35",
+	"dateAddedUTC": "2021-06-08T16:33:35.800Z"
+},{
+	"index": 0,
+	"title": "Install dnscrypt-proxy for MacOS – Eligible Blog",
+	"url": "https://eligiblestore.com/blog/2020/07/04/secure-your-dns-over-https/",
+	"id": 36,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:33:13",
+	"dateAddedUTC": "2021-06-08T16:33:13.119Z"
+},{
+	"index": 1,
+	"title": "DoH on macOS with dnscrypt-proxy",
+	"url": "https://stanislas.blog/2019/11/doh-macos-dnscrypt-proxy/",
+	"id": 38,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:34:21",
+	"dateAddedUTC": "2021-06-08T16:34:21.192Z"
+},{
+	"index": 2,
+	"title": "DNSCrypt on Mac OSX [dnscrypt-proxy] : GoroHome",
+	"url": "https://www.reddit.com/r/GoroHome/comments/ej9nv7/dnscrypt_on_mac_osx_dnscryptproxy",
+	"id": 39,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:34:45",
+	"dateAddedUTC": "2021-06-08T16:34:45.144Z"
+},{
+	"index": 3,
+	"title": "DNSCrypt version 2 - Official Project Home Page",
+	"url": "https://dnscrypt.info/",
+	"id": 40,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:35:08",
+	"dateAddedUTC": "2021-06-08T16:35:08.180Z"
+},{
+	"index": 4,
+	"title": "Anonymized DNS · DNSCrypt/dnscrypt-proxy Wiki · GitHub",
+	"url": "https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS",
+	"id": 41,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:35:27",
+	"dateAddedUTC": "2021-06-08T16:35:27.012Z"
+},{
+	"index": 5,
+	"title": "Dnscrypt Menu",
+	"url": "https://awesomeopensource.com/project/JayBrown/DNSCrypt-Menu",
+	"id": 42,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:35:46",
+	"dateAddedUTC": "2021-06-08T16:35:46.883Z"
+},{
+	"index": 6,
+	"title": "Installed PiHole and DNSCrypt-Proxy then what? – Eligible Blog",
+	"url": "https://eligiblestore.com/blog/2020/08/21/installed-pihole-and-dnscrypt-proxy-then-what/",
+	"id": 43,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:36:15",
+	"dateAddedUTC": "2021-06-08T16:36:15.963Z"
+},{
+	"index": 7,
+	"title": "Highly-available dnscrypt-proxy client setup on OSX with DNSSEC. · GitHub",
+	"url": "https://gist.github.com/SimonDegraeve/ebaea058822dede2a6d0",
+	"id": 52,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:39:45",
+	"dateAddedUTC": "2021-06-08T16:39:45.396Z"
+},{
+	"index": 8,
+	"title": "Setup dnsmasq on OS X · GitHub",
+	"url": "https://gist.github.com/ogrrd/5831371",
+	"id": 53,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 18:40:10",
+	"dateAddedUTC": "2021-06-08T16:40:10.954Z"
+},{
+	"index": 9,
+	"title": "Installation · DNSCrypt/dnscrypt-proxy Wiki · GitHub",
+	"url": "https://github.com/DNSCrypt/dnscrypt-proxy/wiki/installation#installing-dnscrypt-proxy-on-macos-as-a-system-service",
+	"id": 124,
+	"parentId": "37",
+	"dateAddedLocal": "08/06/2021, 19:57:52",
+	"dateAddedUTC": "2021-06-08T17:57:52.856Z"
+},{
+	"index": 10,
+	"title": "Unbound DNS Server Tutorial @ Calomel.org",
+	"url": "https://calomel.org/unbound_dns.html",
+	"id": 281,
+	"parentId": "37",
+	"dateAddedLocal": "09/06/2021, 13:02:15",
+	"dateAddedUTC": "2021-06-09T11:02:15.113Z"
+},{
+	"index": 11,
+	"title": "software recommendation - How to use Secure DNS on MacOS? - Ask Different",
+	"url": "https://apple.stackexchange.com/questions/365531/how-to-use-secure-dns-on-macos",
+	"id": 450,
+	"parentId": "37",
+	"dateAddedLocal": "07/07/2021, 13:36:29",
+	"dateAddedUTC": "2021-07-07T11:36:29.674Z"
+},{
+	"index": 3,
+	"title": "Utility Sofware",
+	"id": 58,
+	"parentId": "355",
+	"dateAddedLocal": "08/06/2021, 18:43:31",
+	"dateAddedUTC": "2021-06-08T16:43:31.214Z"
+},{
+	"index": 0,
+	"title": "GitRepositories",
+	"id": 59,
+	"parentId": "58",
+	"dateAddedLocal": "08/06/2021, 18:43:31",
+	"dateAddedUTC": "2021-06-08T16:43:31.215Z"
+},{
+	"index": 0,
+	"title": "◉ Installation Guide",
+	"url": "https://secure.phabricator.com/book/phabricator/article/installation_guide/",
+	"id": 57,
+	"parentId": "59",
+	"dateAddedLocal": "08/06/2021, 18:42:51",
+	"dateAddedUTC": "2021-06-08T16:42:51.998Z"
+},{
+	"index": 4,
+	"title": "How to fix when qBittorrent is stalled? | GeekDroids",
+	"url": "https://geekdroids.com/qbittorrent-stalled/",
+	"id": 454,
+	"parentId": "355",
+	"dateAddedLocal": "07/07/2021, 23:36:54",
+	"dateAddedUTC": "2021-07-07T21:36:54.921Z"
+},{
+	"index": 5,
+	"title": "denilsonsa/prettyping: `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.",
+	"url": "https://github.com/denilsonsa/prettyping/",
+	"id": 523,
+	"parentId": "355",
+	"dateAddedLocal": "13/07/2021, 22:17:45",
+	"dateAddedUTC": "2021-07-13T20:17:45.650Z"
+},{
+	"index": 6,
+	"title": "keeweb/keeweb: Free cross-platform password manager compatible with KeePass",
+	"url": "https://github.com/keeweb/keeweb",
+	"id": 559,
+	"parentId": "355",
+	"dateAddedLocal": "20/07/2021, 20:31:08",
+	"dateAddedUTC": "2021-07-20T18:31:08.605Z"
+},{
+	"index": 9,
+	"title": "Shopping",
+	"id": 126,
+	"parentId": "1",
+	"dateAddedLocal": "08/06/2021, 20:02:33",
+	"dateAddedUTC": "2021-06-08T18:02:33.972Z"
+},{
+	"index": 0,
+	"title": "Suivi 9L27295673399 | Postal Ninja",
+	"url": "https://postal.ninja/fr/track/nZlnax",
+	"id": 125,
+	"parentId": "126",
+	"dateAddedLocal": "08/06/2021, 20:02:18",
+	"dateAddedUTC": "2021-06-08T18:02:18.006Z"
+},{
+	"index": 10,
+	"title": "GAMES",
+	"id": 472,
+	"parentId": "1",
+	"dateAddedLocal": "10/07/2021, 21:00:45",
+	"dateAddedUTC": "2021-07-10T19:00:45.952Z"
+},{
+	"index": 0,
+	"title": "XCOM2",
+	"id": 473,
+	"parentId": "472",
+	"dateAddedLocal": "10/07/2021, 21:00:45",
+	"dateAddedUTC": "2021-07-10T19:00:45.953Z"
+},{
+	"index": 0,
+	"title": "XCOM 2: War of the Chosen guide and tips you need to know before starting the huge expansion • Eurogamer.net",
+	"url": "https://www.eurogamer.net/articles/2017-09-18-xcom-2-war-of-the-chosen-guide-tips-4029",
+	"id": 471,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:00:26",
+	"dateAddedUTC": "2021-07-10T19:00:26.005Z"
+},{
+	"index": 1,
+	"title": "What you need to know before starting XCOM 2: War of the Chosen - Polygon",
+	"url": "https://www.polygon.com/guides/2017/8/30/16227058/xcom-2-war-of-the-chosen-tips-strategy-build-order-skill-tree-ability-points-ap-bonds-loot",
+	"id": 474,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:00:52",
+	"dateAddedUTC": "2021-07-10T19:00:52.920Z"
+},{
+	"index": 2,
+	"title": "XCOM 2 | XCOM Wiki | Fandom",
+	"url": "https://xcom.fandom.com/wiki/XCOM_2",
+	"id": 475,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:00:58",
+	"dateAddedUTC": "2021-07-10T19:00:58.360Z"
+},{
+	"index": 3,
+	"title": "Long War of the Chosen at XCOM2 Nexus - Mods and Community",
+	"url": "https://www.nexusmods.com/xcom2/mods/757",
+	"id": 476,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:01:03",
+	"dateAddedUTC": "2021-07-10T19:01:03.235Z"
+},{
+	"index": 4,
+	"title": "XCOM 2: War of the Chosen | XCOM Wiki | Fandom",
+	"url": "https://xcom.fandom.com/wiki/XCOM_2:_War_of_the_Chosen",
+	"id": 477,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:01:09",
+	"dateAddedUTC": "2021-07-10T19:01:09.511Z"
+},{
+	"index": 5,
+	"title": "Extra Weapon Upgrade Slots at XCOM2 Nexus - Mods and Community",
+	"url": "https://www.nexusmods.com/xcom2/mods/78",
+	"id": 478,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:01:14",
+	"dateAddedUTC": "2021-07-10T19:01:14.091Z"
+},{
+	"index": 6,
+	"title": "13 Tips for Playing XCOM 2 - XCOM 2 Wiki Guide - IGN",
+	"url": "https://www.ign.com/wikis/xcom-2/13_Tips_for_Playing_XCOM_2#Getting_the_Best_Avenger_Upgrades",
+	"id": 479,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:01:19",
+	"dateAddedUTC": "2021-07-10T19:01:19.719Z"
+},{
+	"index": 7,
+	"title": "Best Ways To Upgrade Your Avenger - XCOM 2 Wiki Guide - IGN",
+	"url": "https://www.ign.com/wikis/xcom-2/Best_Ways_To_Upgrade_Your_Avenger#...But_Power_Relay_Locations_Matter",
+	"id": 480,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:01:24",
+	"dateAddedUTC": "2021-07-10T19:01:24.702Z"
+},{
+	"index": 8,
+	"title": "How to Create the Best Squad in XCOM 2 - XCOM 2 Wiki Guide - IGN",
+	"url": "https://www.ign.com/wikis/xcom-2/How_to_Create_the_Best_Squad_in_XCOM_2#Have_Backups.21",
+	"id": 481,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:01:29",
+	"dateAddedUTC": "2021-07-10T19:01:29.076Z"
+},{
+	"index": 9,
+	"title": "Missions (XCOM 2) | XCOM Wiki | Fandom",
+	"url": "https://xcom.fandom.com/wiki/Missions_(XCOM_2)",
+	"id": 482,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:01:35",
+	"dateAddedUTC": "2021-07-10T19:01:35.348Z"
+},{
+	"index": 10,
+	"title": "18 Tips to Beat 'XCOM 2' and Stop the Avatar Project",
+	"url": "https://www.inverse.com/article/11581-18-tips-to-beat-xcom-2-and-stop-the-avatar-project",
+	"id": 483,
+	"parentId": "473",
+	"dateAddedLocal": "10/07/2021, 21:01:42",
+	"dateAddedUTC": "2021-07-10T19:01:42.522Z"
+},{
+	"index": 11,
+	"title": "INIT",
+	"url": "javascript:(b%3D%3Efetch(%27https://api.github.com/repos/%27%2Bb%5B1%5D%2B%27/commits%3Fsha%3D%27%2B(b%5B2%5D%7C%7C%27%27)).then(c%3D%3EPromise.all(%5Bc.headers.get(%27link%27),c.json()%5D)).then(c%3D%3E%7Bif(c%5B0%5D)%7Bvar%20d%3Dc%5B0%5D.split(%27,%27)%5B1%5D.split(%27%3B%27)%5B0%5D.slice(2,-1)%3Breturn%20fetch(d).then(e%3D%3Ee.json())%7Dreturn%20c%5B1%5D%7D).then(c%3D%3Ec.pop().html_url).then(c%3D%3Ewindow.location%3Dc))(window.location.pathname.match(/%5C/(%5B%5E%5C/%5D%2B%5C/%5B%5E%5C/%5D%2B)(%3F:%5C/tree%5C/(%5B%5E%5C/%5D%2B))%3F/))%3B",
+	"id": 553,
+	"parentId": "1",
+	"dateAddedLocal": "19/07/2021, 19:49:00",
+	"dateAddedUTC": "2021-07-19T17:49:00.334Z"
+},{
+	"index": 12,
+	"title": "oldest.js",
+	"url": "https://github.com/bpceee/oldest/blob/master/oldest.js",
+	"id": 554,
+	"parentId": "1",
+	"dateAddedLocal": "19/07/2021, 19:56:01",
+	"dateAddedUTC": "2021-07-19T17:56:01.149Z"
 }]
